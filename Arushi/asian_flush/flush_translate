@@ -1,0 +1,19 @@
+from Bio import SeqIO
+records = list(SeqIO.parse("nucl.fasta", "fasta"))
+og = records[0].seq
+
+#snp at 1509
+
+part1 = og[0:1509]
+part2 = og[1510: len(og)]
+
+#mutated gene
+mutated = part1 + "A" + part2
+
+ogT = og.translate()
+mT = mutated.translate()
+print(ogT)
+print(mT)
+
+#print(og[1509])
+#print(mutated[1509])
