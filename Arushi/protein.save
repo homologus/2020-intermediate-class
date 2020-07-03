@@ -1,0 +1,5 @@
+from Bio import SeqIO
+records =SeqIO.parse("seq.fasta", "fasta")
+
+
+
