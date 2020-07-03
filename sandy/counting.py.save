@@ -1,0 +1,7 @@
+seq=open("seq.fasta")
+lines=seq.readlines()
+length=len(lines2
+length1=len(lines[1])
+print(length*length1)
+
+

@@ -1,0 +1,13 @@
+from Bio.Seq import Seq
+from Bio import SeqIO
+seq = list(SeqIO.parse("nucl.fasta", "fasta"))
+
+control=seq[0].seq
+list=list(seq[0].seq)
+list[1510]="A"
+mutated=Seq("".join(list))
+
+control=control.translate()
+mutated=mutated.translate()
+print(control)
+print(mutated)

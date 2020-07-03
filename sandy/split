@@ -1,0 +1,41 @@
+from Bio import SeqIO
+seq = list(SeqIO.parse("seq.fasta", "fasta"))
+
+proteinSeq0=seq[0].translate()
+proteinSeq1=seq[1].translate()
+proteinSeq2=seq[2].translate()
+
+
+
+#proteinSeq0=seq[0].seq[0].translate() #translate to proteins
+#proteinSeq1=seq[0].seq[1].translate()
+#proteinSeq2=seq[0].seq[2].translate()
+
+splitChar="*"
+def splitProteinList(list):
+	str(list).split(splitChar) #splits list at every stop codon
+	for i in list: #introduces deleted stop codon to every element of list
+		i=i+"*",
+	print(len(list))
+
+splitProteinList(proteinSeq0)
+splitProteinList(proteinSeq1)
+splitProteinList(proteinSeq2)
+
+#print(proteinList)
+
+proteins=[] #new dump for x>100
+
+def useful(list):
+	for i in list:
+		print(len(i))
+		if len(i)>100:
+			proteins.append(i)
+
+useful(proteinSeq0)
+useful(proteinSeq1)
+useful(proteinSeq2)
+
+#print(proteins)
+print(len(proteins))
+print(len(proteinList))

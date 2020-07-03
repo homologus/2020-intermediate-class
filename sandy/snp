@@ -1,0 +1,4 @@
+from Bio import SeqIO
+list=list(SeqIO.parse(open("/share/Human/chr12.fa"), "fasta"))
+seq=list[0].seq
+print(seq[111803961])

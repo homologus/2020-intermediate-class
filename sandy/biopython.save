@@ -1,0 +1,3 @@
+from Bio import Ssequence=SeqIO.read("seq.fasta", "fasta")
+print(Bio.SeqIO.write())
+

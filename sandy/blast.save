@@ -1,0 +1,6 @@
+>human
+
+blastn -query nucl.fasta -db genomedb -out matches.txt -evalue 1e-100
+
+
+

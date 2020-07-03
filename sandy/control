@@ -1,0 +1,5 @@
+from Bio import SeqIO
+seq = list(SeqIO.parse("/share/Human/chr12.fa", "fasta"))
+
+proteinSeq=seq[0].translate() #translate to proteins
+

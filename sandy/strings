@@ -1,0 +1,15 @@
+s="ALABAMA"
+print(s)
+
+s=s+"$"
+print(s)
+
+x=0
+
+while x<len(s)-1:
+	for i in s:
+		hold=[]
+		hold[i]=hold[i-1]
+		print(hold)
+	x=x+1
+
