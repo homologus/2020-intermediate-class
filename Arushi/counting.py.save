@@ -1,0 +1,11 @@
+f = open('seq.fasta', 'r')
+A = 0
+B = 0
+C = 0
+D = 0
+def count(str):
+	num = 0
+	while "A" in f.read():
+		num+=1
+
+	

@@ -1,0 +1,30 @@
+file = open('seq.fasta', 'r')
+text = file.read()
+
+def search(str):
+	count = 0
+	for i in range(len(text)):
+		if(text[i] == str):
+			count+=1
+	return count
+
+def search2(str):
+	count = 0
+	for line in file.readlines():
+		print(line)
+		for n in line:
+			if(n == str):
+				count+=1
+	return count
+
+A = search("A")
+T = search("T")
+G = search("G")
+C = search("C")
+
+A = search2("A")
+
+print("Count of A in this genome", A)
+print("Count of T in this genome", T)
+print("Count of G in this genome", G)
+print("Count of C in this genome", C)
