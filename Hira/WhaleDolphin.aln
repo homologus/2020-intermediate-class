@@ -1,0 +1,287 @@
+MUSCLE (3.8) multiple sequence alignment
+
+
+Parasitic_Roundworm      MAFSKQMINKFRLFVAPAQYYSS-LAAAAEIPNPFPVWKVEPKYTKLFINNEWINSADGK
+Electric_Eel             -MLRTGISRTLRPVSRISACTYS----AAAIPAPNT--QPDIHYNKLFINNEWHDAVNKK
+Ghost_Shark              -MLRALVARSPRAVGLVARGARSYSAAAAALPAPDT--QPDIHYNKIFIDNDWHDAVSKK
+Duckbilled_Platypus      --------------------------------TPKE--NPTPIFNQIFIGNEWHDAISKK
+Dolphin                  ----------------------------------------------IFINNEWHDSVSKK
+Whale                    -MLRAVVLAAAR--PCQGRRLLS-AAATPAVPAPNQ--QPEVFYNKIFINNEWHDSVSKR
+Pig                      -MLRPAALAAARLVLRQGRRLLS-AAPTQAVPAPNQ--QPEIFYNQIFINNEWHDAISKK
+Bovine(cow)              -MLRAVALAAARLGPRQGRRLLS--AATQAVPTPNQ--QPEVLYNQIFINNEWHDAVSKK
+Sheep                    -MLRAVALAAARLGPRQGRRLLS--AATQAVPTPNQ--QPEVFYNQIFINNEWHDAVSKK
+Chimpanzee               -MFRAA----ACLGPRLGRRLLS-AAATQAVPAPNQ--QPEVFCNQIFINNEWHDAVSRK
+Human                    -MLRAA----ARFGPRLGRRLLS-AAATQAVPAPNQ--QPEVFCNQIFINNEWHDAVSRK
+Rabit                    -MLRAAALAATGLRPFVGRRLLS-AAATQAVPAPNQ--QPEVFYNQIFINNEWHDAASRK
+Rat                      -MLRAA-LSTARRGPRLSR-LLS-AAATSAVPAPNQ--QPEVFCNQIFINNEWHDAVSKK
+Polar_Bear               -GFIRVLVLTLFLPMEPGQRSLG--PAGPEIFGPGQ--TPDF----IFINNEWHDAVSKK
+Vampire_Bat              ------------------------------------------------------------
+Horse                    ----------------------A-AAATQAVPAPNQ--QPEVFYNQIFINNEWHDAVSKK
+Cat                      -MFRAA----ASLGPRLGRRLLS-AAATQAVPAPNQ--QPEVLFNQIFINNEWHDAVSRK
+                                                                                     
+
+Parasitic_Roundworm      TFKTINPTTGEVICEVQEAKEVDVDKAVGAAKLAFQPGSAWRKTEPYQRSKLLHRFADLL
+Electric_Eel             TFPTINPATGEVICQVAEGDKADVDKAVKAAKGAFRLGSPWRRMDASDRGMLLHRLADCI
+Ghost_Shark              TFPTINPSTGEIICQVAEGAEADVNNAVKAAKEAFRLGSPWRTMDASHRGVLLNRLADLI
+Duckbilled_Platypus      TFPTINPSTGEVICQVAEGGKEDVDKAVKAAKAAFRVGSPWRRMDASQRGNLLNRLADLI
+Dolphin                  TFPTINPSTGDVICHVAEGDKXXXXXXXXXXXXXXXXXXXXXXMDASKR-LLLNRLADLI
+Whale                    TFPTINPSTGDVICHVAEGDKEDVDRAVKAARAAFQLGSPWRRMDASKRGWLLNRLADLI
+Pig                      TFPTVNPSTGDVICHVAEGDKEDVDRAVEAARAAFQLGSPWRRLDASDRGRLLNRLADLI
+Bovine(cow)              TFPTVNPSTGDVICHVAEGDKADVDRAVKAARAAFQLGSPWRRMDASERGRLLNRLADLI
+Sheep                    TFPTVNPSTGDVICHVAEGDKADVDRAVKAARAAFQLGSPWRRMDASERGRLLNRLADLI
+Chimpanzee               TFPTVNPSTGEVICQVAEGDK---------------------------------------
+Human                    TFPTVNPSTGEVICQVAEGDKEDVDKAVKAARAAFQLGSPWRRMDASHRGRLLNRLADLI
+Rabit                    TFPTVNPSTGEVICQVAEGDKEDVDRAVKAARAAFQLGSPWRRMDASERGRLLYRLADLI
+Rat                      TFPTVNPSTGEVICQVAEGNKEDVDKAVKAAQAAFQLGSPWRRMDASDRGRLLYRLADLI
+Polar_Bear               TFPTINPSTGEVICQVAEGDKEDVDRAVKAARAAFQLGSPWRRMD---------------
+Vampire_Bat              --------------QVAEGDKEDVDRAVKAAQAAFRLGSPWRRMDASERGRLLNRLADLI
+Horse                    TFPTVNPSTGEVICQVAAGDKEDVDRAVKAARAAFQLGSPWRRMDASDRGRLLNRLADLI
+Cat                      TFPTVNPSTGEVICQVAEGDKEDVDKAVKAARDAFQWGSPWRRMDASDRGRLLNRLADLI
+                                        *  . :                                       
+
+Parasitic_Roundworm      ERDRVYLASLETLDNGKPYVESYTEDMEMMEI----------------------FLPTPD
+Electric_Eel             ERDAAYLAALETLDNGKPYAVAYTVDVPMVLKCLRYYAGWADKWEGKTIPIDGDYFCYTR
+Ghost_Shark              ERDKRYLASLETLDSGKPYQMTYNVDLDMVIKCYRYYAGWADKYHGKTIPADGNFFCYTR
+Duckbilled_Platypus      ERDRTYLATLETLDNGKPYSISYLVDLDMVVKCLRYHAGWADKYHGKTIPIDGDFFSYTR
+Dolphin                  ERDRTYLAALETLDNGKPYVISYLVDLDMVLKCLRYYAGWADKYHGKTIPIDGDYFSYTR
+Whale                    ERDRTYLAALETLDNGKPYVISYLVDLDMVLRCLRYYAGWADKYHGKTIPIDGDYFSYTR
+Pig                      ERDRTYLAALETLDNGKPYVISYLVDLDMVLKCLRYYAGWADKYHGKTLPIDGDYFSYTR
+Bovine(cow)              ERDRTYLAALETLDNGKPYIISYLVDLDMVLKCLRYYAGWADKYHGKTIPIDGDYFSYTR
+Sheep                    ERDRTYLAALETLDNGKPYVISYLVDLDMVLKCLRYYAGWADKYHGKTIPIDGDYFSYTR
+Chimpanzee               --------ALETLDNGKPYVISYLVDLDMVLKCLRYYAGWADKYHGKTIPIDGDFFSYTR
+Human                    ERDRTYLAALETLDNGKPYVISYLVDLDMVLKCLRYYAGWADKYHGKTIPIDGDFFSYTR
+Rabit                    ERDRTYLAALETLDNGKPYVISYLVDLDMVLKCLRYYAGWADKYHGKTIPIDGDFFSFTR
+Rat                      ERDRTYLAALETLDNGKPYVISYLVDLDMVLKCLRYYAGWADKYHGKTIPIDGDFFSYTR
+Polar_Bear               -RDRTYLAALETLDNGKPYVISYLVDLDMVLKCFRYYAGWADKYHGKTIPIDGDFFSYTR
+Vampire_Bat              ERDRTYLAALETLDNGKPYIISYLVDLDMVLKCLRYYAGWADKYHGRTIPIDGDFFSYTR
+Horse                    ERDRTYLAALETLDNGKPYVISYLVDLDMVLKCLRYYAGWADKYHGKTIPIDGDFFSYTR
+Cat                      ERDRTYLAALETLDNGKPYVISYLVDLDMVLKCLRYYAGWADKYHGKTIPIDGDFFSYTR
+                                 :*****.****  :*  *: *:                        ::  . 
+
+Parasitic_Roundworm      MNPL-----VFVWNYPLLMFAWKLGPALACGNTVVLKPAEQTPLTALHVGSLIVEAGFPP
+Electric_Eel             HEPIGVCGQIIP------------------------------------------------
+Ghost_Shark              HEPVGVCGQIIPWNFPLSMQAWKLGPALATGNVVVMKMAEQTPLTALYVANLIKEAGFPP
+Duckbilled_Platypus      HEPVGVCGQIIPWNFPLLMLAWKLGPALATGNVVIMKVAEQTPLTALYVANLIKEAGFPP
+Dolphin                  HEPVGVCGQIIPWNFPLLMQAWKLGPALATGNVVVMKVAEQTPLTALYVANLIKEAGFPP
+Whale                    HEPVGVCGQIIPWNFPLLMQAWKLGPALATGNVVVMKVAEQTPLTALYVANLIKEAGFPP
+Pig                      HEPVGVCGQIIPWNFPLLMQAWKLGPALATGNVVVMKVSEQTPLTALYVANLIKEAGFPP
+Bovine(cow)              HEPVGVCGQIIPWNFPLLMQAWKLGPALATGNVVVMKVAEQTPLTALYVANLIKEAGFPP
+Sheep                    HEPVGVCGQIIPWNFPLLMQAWKLGPALATGNVVVMKVAEQTPLTALYVANLIKEAGFPP
+Chimpanzee               HEPVGVCGQIIPWNFPLLMQAWKLGPALATGNVVVMKVAEQTPLTALYVANLIKEAGFPP
+Human                    HEPVGVCGQIIPWNFPLLMQAWKLGPALATGNVVVMKVAEQTPLTALYVANLIKEAGFPP
+Rabit                    HEPVGVCGQIIPWNFPLLMQAWKLGPALATGNVVVMKVAEQTPLTALYVANLIKEAGFPP
+Rat                      HEPVGVCGQIIPWNFPLLMQAWKLGPALATGNVVVMKVAEQTPLTALYVANLIKEAGFPP
+Polar_Bear               HEPVGVCGQIIPWNFPLLMQAWKLAPALATGNVVVMKVAEQTPLTALYVANLIKEAGFPP
+Vampire_Bat              HEPVGVCGQIIPWNFPLLMQAWKLGPALATGNVVVMKVAEQTPLTALYVANLIKEAGFPP
+Horse                    HEPVGVCGQIIPWNFPLLMQAAKLGPALATGNVVVMKVAEQTPLTALYVANLTKEAGFPP
+Cat                      HEPVGVCGQIIPWNFPLLMQAWKLGPALATGNVVVMKVAEQTPLTALYVANLIKEAGFPP
+                          :*:     ::                                                 
+
+Parasitic_Roundworm      GVVNIVPGYGPVAGHALACHSNVDKVAFTGSTEIGRKIMSNSANSNLKRITLELGGKSPN
+Electric_Eel             ---------------------------------VGQLIQQTSGASNLKKVTLELGGKSPN
+Ghost_Shark              GVVNIIPGYGPSAGAAIASHMDVDKVAFTGSTEVGQLIQQAAGKSNVKKVTLELGGKSPN
+Duckbilled_Platypus      GVVNIIPGYGPTAGAAIASHMEVDKVAFTGSTEVGHLIQVAAGKSNLKRVTLELGGKSPN
+Dolphin                  GVVNIVPGFGPTAGAAVASHEDVDKVAFTGSTEVGHLIQTAAGNSNLKRVTLELGGKSPN
+Whale                    GVVNIIPGFGPTAGAAIASHEDVDKVAFTGSTEVGHLIQTAAGNSNLKRVTLELGGKSPN
+Pig                      GVVNIVPGYGPTAGAAIASHEDVDKVAFTGSTEVGHLIQVAAGKSNLKRVTLELGGKSPN
+Bovine(cow)              GVVNVIPGFGPTAGAAIASHEDVDKVAFTGSTEVGHLIQVAAGKSNLKRVTLELGGKSPN
+Sheep                    GVVNIIPGFGPTAGAAIASHEDVDKVAFTGSTEVGHLIQVAAGKSNLKRVTLELGGKSPN
+Chimpanzee               GVVNIVPGFGPTAGAAIASHEDVDKVAFTGSTEIGRVIQVAAGSSNLKRVTLELGGKSPN
+Human                    GVVNIVPGFGPTAGAAIASHEDVDKVAFTGSTEIGRVIQVAAGSSNLKRVTLELGGKSPN
+Rabit                    GVVNIVPGFGPTAGAAIASHHDVDKVAFTGSTEVGHLIQVAAGSSNLKRVTLELGGKSPN
+Rat                      GVVNIVPGFGPTAGAAIASHEDVDKVAFTGSTEVGHLIQVAAGSSNLKRVTLELGGKSPN
+Polar_Bear               GVVNIIPGFGPTAGAAIASHEDVDKVAFTGSTEVGHLIQVAAGSSNLKRVTLELGGKSPN
+Vampire_Bat              GVVNIIPGFGPTAGAAIASHPDVDKVAFTGSTEVGRLIQVAAGSSNLKRVTLELGGKSPN
+Horse                    GVVNVVPGFGPTAGAAIASHEDVDKVAFTGSTEVGHLIQVAAGRSNLKKVTLELGGKSPN
+Cat                      GVVNIIPGFGPTAGAAIASHQDVDKVAFTGSTEVGHLIQIAAGSSNLKRVTLELGGKSPN
+                                                          :*. *   :. **:*.:**********
+
+Parasitic_Roundworm      IVFADADLEHAVKQAHSGLFSNQGQICCASSRIFVEGKVYDKFLELSVQMAKSRRLGNPF
+Electric_Eel             IILSDANMDEAVDQANMAIFFNQGQCCCAGSRTYVQESIYNEFVERSVERAKKRVVGDPF
+Ghost_Shark              IILSDVDLDSAVEEAHFALFFNQGQCCCAGSRLYVQDSIYDEFVEKSVERAKRRTVGDPF
+Duckbilled_Platypus      IIMSDADMDWAVEQAHFALFFNQGQCCCAGSRTYVQEDVYPEFVERSVARAKSRVVGNPF
+Dolphin                  IIMSDADMDWAVEQAHFALFFNQGQCCCAGSRTFVQEDVYTEFVERSVARARSRVVGNPF
+Whale                    IIMSDADMDWAVEQAHFALFFNQGQCCCAGSRTFVQEDIYSKFVERSVARARSR------
+Pig                      IIMSDADMDWAVEQAHFALFFNQGQCCCAGSRTFVQEDIYAEFVERSVARARSRVVGNPF
+Bovine(cow)              IIMSDADMDWAVEQAHFALFFNQGQCCCAGSRTFVQEDIYAEFVERSVARAKSRVVGNPF
+Sheep                    IIMSDADMDWAVEQAHFALFFNQGQCCCAGSRTFVQEDIYAEFVERSVARAKTRVVGNPF
+Chimpanzee               IIMSDADMDWAVEQAHFALFFNQGQCCCAGSRTFVQEDIYDEFVERSVARAKSRVVGNPF
+Human                    IIMSDADMDWAVEQAHFALFFNQGQCCCAGSRTFVQEDIYDEFVERSVARAKSRVVGNPF
+Rabit                    IIMSDTDMDWAVEQAHFALFFNQGQCCCAGSRTFVQEDVYAEFVERSVARAKARVVGNPF
+Rat                      IIMSDADMDWAVEQAHFALFFNQGQCCCAGSRTFVQEDVYDEFVERSVARAKSRVVGNPF
+Polar_Bear               IIMSDADMNWAVEQAHFALFFNQGQCCCAGSRTFVQEDVYSEFVERSVARAKSRVVGNPF
+Vampire_Bat              IIMSDADMDWAVEQAHFALFFNQGQCCCAGSRTFVQEDVYTEFVERSVTRAKSRVVGNPF
+Horse                    IIVSDADMDWAVEQAHFALFFNQGQCCGAGSRTFVQEDVYAEFVERSVARAKSRVVGNPF
+Cat                      IIMSDADMNWAVEQAHFALFFNQGQCCCAGSRTFVQEDVYAEFVERSVARAKSRVVGNPF
+                         *:.:*.::: **.:*: .:* **** * *.** :*: .:* :*:* **  *. *      
+
+Parasitic_Roundworm      DPNTDQGPQIDQNHRERILNFIEKGKQEGAKLACGGRAAGEKGYFVEPTVFADVQDPMVI
+Electric_Eel             NLKTEHGPQVDDEQYQKILSYINSGKHEGAKLLCGGSAAADRGYFIQPTIFGDVQDNMKI
+Ghost_Shark              DPKNEQGPQVDEEQFGKILGYISVGKREGAKLLCGGGAAADRGYFIQPTVFGDVKDDMII
+Duckbilled_Platypus      DSQTEQGPQVNEEQFKKILGYISAGKREGAKLLCGGEAAAERGYFIQPTVFGDVQDGMTI
+Dolphin                  DSRTEQGPQVDETQFKKVLGYIKSGKEEGAKLLCGGGAAADRGYFIQPTVFGDVQDGMTI
+Whale                    ---------VDETQFKKVLGYIKSGKEEGAKLLCGGGAAADRGYFIQPTVFGDVQDGMTI
+Pig                      DSRTEQGPQIDETQFKKILGYIKSGKEEGAKLLCGGGAAADRGYFIQPTVFGDVQDGMTI
+Bovine(cow)              DSRTEQGPQVDETQFKKVLGYIKSGKEEGAKLLCGGGAAADRGYFIQPTVFGDVQDGMTI
+Sheep                    DSRTEQGPQVDETQFKKVLGYIKSGKEEGAKLLCGGGAAADRGYFIQPTVFGDVQDGMTI
+Chimpanzee               DSKTEQGPQVDETQFKKILGYINTGKQEGAKLLCGGGIAADRGYFIQPTVFGDVQDGMTI
+Human                    DSKTEQGPQVDETQFKKILGYINTGKQEGAKLLCGGGIAADRGYFIQPTVFGDVQDGMTI
+Rabit                    DSQTEQGPQVDETQFKKILGYINSGKQEGAKLLCGGGAAAERGYFIQPTVFGDVQDGMTI
+Rat                      DSRTEQGPQVDETQFKKILGYIKSGQQEGAKLLCGGGAAADRGYFIQPTVFGDVKDGMTI
+Polar_Bear               DSQTEQGPQVDETQFKKVLGYIKSGKEEGAKLLCGGGAAADRGYFIQPTVFGDVQDSMTI
+Vampire_Bat              DSQTEQGPQVDETQFKKILGYIKSGKEEGAKLLCGGGAAADRGYFIQPTVFGDVQDGMTI
+Horse                    DSQTEQGPQVDETQFNKVLGYIKSGKEEGAKLLCGGGAAADRGYFIQPTVFGDVQDGMTI
+Cat                      DSQTEQGPQVDKTQFQKVLGYIKSGKEEGAKLLCGGGAAADRGYFIQPTVFGDVQDGMTI
+                                  ::. :  .:*.:*. *: ***** ***  *.:.***::**:*.**:* * *
+
+Parasitic_Roundworm      AQEEIFGPVMQIMRFDSMEDLIEKANNTIYGLAAAVFTKDIDKALHVANNMRAGVVWVNC
+Electric_Eel             AREEIFGPVMQILKFKSVEEVILRANDTKYGLAAAVFTTDINKAQYISNSLRAGTVWINC
+Ghost_Shark              AREEIFGPVMQILKFKTMEEVIERANDSKYGLAAAIFTNDLNKANYMSHRLRAGTVWINC
+Duckbilled_Platypus      ASEEIFGPVMQILKFKTIEEVVERANNSKYGLAAAVFTKDLDKANYISQVLQAGTVWVNC
+Dolphin                  AKEEIFGPVMQILKFKTIEEVVGRANNSKYGLAAAVFTKDLDKANYLSQALQAGTVWVNC
+Whale                    AKEEIFGPVMQILKFKTIEEVVRRANNSKYGLAAAVFTKDLDKAXYLSQALQAGTVWVNC
+Pig                      AKEEIFGPVMQILKFKTIEEVIGRANNSKYGLAAAVFTKDLDKANYLSQALQAGTVWVNC
+Bovine(cow)              AKEEIFGPVMQILKFKSMEEVVGRANNSKYGLAAAVFTKDLDKANYLSQALQAGTVWVNC
+Sheep                    AKEEIFGPVMQILKFKSMEEVVGRANNSKYGLAAAVFTKDLDKANYLSQALQAGTVWVNC
+Chimpanzee               AKEEIFGPVMQILKFKTIEEVVGRANNSTYGLAAAVFTKDLDKANYLSQALQAGTVWVNC
+Human                    AKEEIFGPVMQILKFKTIEEVVGRANNSTYGLAAAVFTKDLDKANYLSQALQAGTVWVNC
+Rabit                    AKEEIFGPVMQILKFKTIEEVVGRANNSKYGLAAAVFTKDLDKANYLSQALQAGTVWVNC
+Rat                      AKEEIFGPVMQILKFKTIEEVVGRANNSKYGLAAAVFTKDLDKANYLSQALQAGTVWINC
+Polar_Bear               AREEIFGPVMQILKFKTIEEVIGRANNSKYGLAAAIFTKDLDKANYLSQALQAGTVWVNC
+Vampire_Bat              AKEEIFGPVMQILKFKTIEEVVGRANNSKYGLAAA-------------------------
+Horse                    AKEEIFGPVMQILKFKTIEEVVGRANNSKYGLAAAVFTKDLDKANYLSQALQAGTVWINC
+Cat                      AKEEIFGPVMQILKFKTIEEVIGRANNSKYGLAAAVFTKDLDKANYLSQALQAGTVWVNC
+                         * **********:.*.::*::: .**:: ******                         
+
+Parasitic_Roundworm      YGIFDSSAPFGGYKMSGFGRELGEYGLEAYTEVKTVFVKAKTTCAEFLAQKLKMIAAVLL
+Electric_Eel             YNVFGVQAPFGGYKASGTGRELGEYGLENYTEVKTVTI----------------------
+Ghost_Shark              YDVLVPQAPFGGFKSSGIGRELGEDALQAYTEIKTVTV----------------------
+Duckbilled_Platypus      YDVFGAQSPFGGYKMSGTGRELGEYGLQAYTEVKTVTI----------------------
+Dolphin                  YDVFGAQSPFGGYKLSGSGRELGEYGLQAYTEVKT-------------------------
+Whale                    YDVFGAQSPFGGYKLSGSGRELGEYGLQAYTEVKTVTV----------------------
+Pig                      YDVFGAQSPFGGYKLSGSGRELGEYGLQAYTEVKTVTV----------------------
+Bovine(cow)              YDVFGAQSPFGGYKLSGSGRELGEYGLQAYTEVKTVTV----------------------
+Sheep                    YDVFGAQSPFGGYKLSGSGRELGEYGLQAYTEVKTVTV----------------------
+Chimpanzee               YDVFGAQSPFGGYKMSGSGRELGEYGLQAYTEVKTVTV----------------------
+Human                    YDVFGAQSPFGGYKMSGSGRELGEYGLQAYTEVKTVTV----------------------
+Rabit                    YDVFGAQSPFGGYKMSGSGRELGEYGLQAYTEVKTVSTVPAAGGPQPLPGLAATAADCWF
+Rat                      YDVFGAQSPFGGYKMSGSGRELGEYGLQAYTEVKTVTV----------------------
+Polar_Bear               YDVFGAQSPFGGYKMSGSGRELGEYGLQAYTEVKTVTV----------------------
+Vampire_Bat              ------------------------------------------------------------
+Horse                    YDVFGAQSPFGGYKMSGNGRELGEYGLQAYTEVKTVTI----------------------
+Cat                      YDVFGAQSPFGGYKMSGNGRELGEYGLQAYTEVKTVTI----------------------
+                                                                                     
+
+Parasitic_Roundworm      FTLFLRHSYSAYYEDQFRTFLDKMDKFENQIQTDWQFGLNEYFKGMSKEDIQIRVDGLSK
+Electric_Eel             ------------------------------------------------------------
+Ghost_Shark              ------------------------------------------------------------
+Duckbilled_Platypus      ------------------------------------------------------------
+Dolphin                  ------------------------------------------------------------
+Whale                    ------------------------------------------------------------
+Pig                      ------------------------------------------------------------
+Bovine(cow)              ------------------------------------------------------------
+Sheep                    ------------------------------------------------------------
+Chimpanzee               ------------------------------------------------------------
+Human                    ------------------------------------------------------------
+Rabit                    LPVNRGRQRPRLPPAVRNERLSPLGPQSLARLCGTQGLQRQRGRKGPGGRGREEKLPEGI
+Rat                      ------------------------------------------------------------
+Polar_Bear               ------------------------------------------------------------
+Vampire_Bat              ------------------------------------------------------------
+Horse                    ------------------------------------------------------------
+Cat                      ------------------------------------------------------------
+                                                                                     
+
+Parasitic_Roundworm      ELAKFKFLYKEGVKEIQKQQNYTETKSDSLPLEKHFDAREKWPECKYIGFIKDQSTCSCC
+Electric_Eel             ----------K-------------------------------------------------
+Ghost_Shark              ----------K-------------------------------------------------
+Duckbilled_Platypus      ----------K-------------------------------------------------
+Dolphin                  ------------------------------------------------------------
+Whale                    ----------K-------------------------------------------------
+Pig                      ----------K-------------------------------------------------
+Bovine(cow)              ----------R-------------------------------------------------
+Sheep                    ----------R-------------------------------------------------
+Chimpanzee               ----------K-------------------------------------------------
+Human                    ----------K-------------------------------------------------
+Rabit                    GVQSRCWLGHS-------------------------------------------------
+Rat                      ----------K-------------------------------------------------
+Polar_Bear               ----------K-------------------------------------------------
+Vampire_Bat              ------------------------------------------------------------
+Horse                    ----------K-------------------------------------------------
+Cat                      ----------K-------------------------------------------------
+                                                                                     
+
+Parasitic_Roundworm      WAMSSASVMTDRTCIAYKNQQQPFLSDEELTSCCTSCGDGCSGGFPLLAFKYWNEIGVPT
+Electric_Eel             --------------IPQKNS----------------------------------------
+Ghost_Shark              --------------LPQKSS----------------------------------------
+Duckbilled_Platypus      --------------VPQKNS----------------------------------------
+Dolphin                  ------------------------------------------------------------
+Whale                    --------------VPQKNS----------------------------------------
+Pig                      --------------VPQKNS----------------------------------------
+Bovine(cow)              --------------VPQKNS----------------------------------------
+Sheep                    --------------VPQKNS----------------------------------------
+Chimpanzee               --------------VPQKNS----------------------------------------
+Human                    --------------VPQKNS----------------------------------------
+Rabit                    --------------VPYQSACAKSWPRFLSSPLLVHTLEGSRWSLGAWVSCHRPGRSGLR
+Rat                      --------------VPQKNS----------------------------------------
+Polar_Bear               --------------VPQKNS----------------------------------------
+Vampire_Bat              ------------------------------------------------------------
+Horse                    --------------VPQKNS----------------------------------------
+Cat                      --------------VPQKNS----------------------------------------
+                                                                                     
+
+Parasitic_Roundworm      GGPYGSKSGCKPFSIAPPTSSSTAAQTPLCQLKCISDYKRQLDKDRYYGKNYYLIASPNQ
+Electric_Eel             ------------------------------------------------------------
+Ghost_Shark              ------------------------------------------------------------
+Duckbilled_Platypus      ------------------------------------------------------------
+Dolphin                  ------------------------------------------------------------
+Whale                    ------------------------------------------------------------
+Pig                      ------------------------------------------------------------
+Bovine(cow)              ------------------------------------------------------------
+Sheep                    ------------------------------------------------------------
+Chimpanzee               ------------------------------------------------------------
+Human                    ------------------------------------------------------------
+Rabit                    FSSWRWPGPAGWLQAFGR------------------------------------------
+Rat                      ------------------------------------------------------------
+Polar_Bear               ------------------------------------------------------------
+Vampire_Bat              ------------------------------------------------------------
+Horse                    ------------------------------------------------------------
+Cat                      ------------------------------------------------------------
+                                                                                     
+
+Parasitic_Roundworm      AVKAIQREIMQHGPVVAAMEIFESFLYYKSGVYSTSKANDPLLGLHAVKLIGWGEEKRIP
+Electric_Eel             ------------------------------------------------------------
+Ghost_Shark              ------------------------------------------------------------
+Duckbilled_Platypus      ------------------------------------------------------------
+Dolphin                  ------------------------------------------------------------
+Whale                    ------------------------------------------------------------
+Pig                      ------------------------------------------------------------
+Bovine(cow)              ------------------------------------------------------------
+Sheep                    ------------------------------------------------------------
+Chimpanzee               ------------------------------------------------------------
+Human                    ------------------------------------------------------------
+Rabit                    ------------------------------------------------------------
+Rat                      ------------------------------------------------------------
+Polar_Bear               ------------------------------------------------------------
+Vampire_Bat              ------------------------------------------------------------
+Horse                    ------------------------------------------------------------
+Cat                      ------------------------------------------------------------
+                                                                                     
+
+Parasitic_Roundworm      YWLAVNSWNTTFGEQGLFKIRRGDNECGIELLHVTAGLAE
+Electric_Eel             ----------------------------------------
+Ghost_Shark              ----------------------------------------
+Duckbilled_Platypus      ----------------------------------------
+Dolphin                  ----------------------------------------
+Whale                    ----------------------------------------
+Pig                      ----------------------------------------
+Bovine(cow)              ----------------------------------------
+Sheep                    ----------------------------------------
+Chimpanzee               ----------------------------------------
+Human                    ----------------------------------------
+Rabit                    ----------------------------------------
+Rat                      ----------------------------------------
+Polar_Bear               ----------------------------------------
+Vampire_Bat              ----------------------------------------
+Horse                    ----------------------------------------
+Cat                      ----------------------------------------
+                                                                 
