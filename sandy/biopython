@@ -1,0 +1,6 @@
+from Bio import SeqIO
+seq = list(SeqIO.parse("seq.fasta", "fasta"))
+
+proteinSeq=seq[0].translate() #translate to proteins
+
+print(proteinSeq.split(*))

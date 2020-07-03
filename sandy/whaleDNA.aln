@@ -1,0 +1,236 @@
+MUSCLE (3.8) multiple sequence alignment
+
+
+hawk            -------------------KVRSFEKRLSDDSQQ--------------------------
+electric        ---------------------------MSSRRLHSIVGGLG-------------------
+lion            ----------------------MFMNRWLFSTNHKDIGTLYL------------------
+german          ---------------------------WLFSTNHKDIGTLYF------------------
+rice            MSATRVRPQSQAGTDKPPRTLDSSEGIEMENIQHQDPGLGGVAGSPSPPSRQAWSRDNPV
+african         ------------------MSGPEVEDHISQKYDIKKRLGKGA------------------
+mosquito        -------------------MTQSLEFDQTFGFIAKVLQMIGYPS----------------
+hippo           ---------------------------MSEPEVTSV------------------------
+human           -------------------MLRAA--ARFGPRLGRRLLSAAATQAVPAPNQQPEVFCNQI
+dolphin         -----------------------------------------------------------I
+whale           -------------------MLRAVVLAAARPCQGRRLLSAAATPAVPAPNQQPEVFYNKI
+                                                                            
+
+hawk            -------INKDQAEEVTSSSKEII------------------------------------
+electric        -------LLGVWAATLLGTQAFVL------------------------------------
+lion            -------LFGAWAG-MVGTALSLL------------------------------------
+german          -------IFGAWSG-MVGMSLSML------------------------------------
+rice            FEPEEEIMQADWPQASPGRRSAFTASGGSSCSSGHGGYTRAGSSTQIPRGGLYPTQTLNG
+african         -------YGIVWKA----------------------------------------------
+mosquito        -------CLAPYPTTFASR-----------------------------------------
+hippo           -------VDMKSPNISSSCSFFKLKKL---------------------------------
+human           F------INNEWHD-AVSRKTFPT------------------------------------
+dolphin         F------INNEWHD-SVSKKTFPT------------------------------------
+whale           F------INNEWHD-SVSKRTFPT------------------------------------
+                                                                            
+
+hawk            LHKDEAVPRGEKMDLM-----------GNRQALEKDANDM----QTEDNKAHQNNLKQLC
+electric        QKNETAFNDFCKKTSTCEM-----LK-SNTCLGSPLPYTHTSLVLAEDSETQEEAFEKLA
+lion            IRAELGQPG---------------TLLGDDQIYNVVVTAH---------AFVMIFFMVMP
+german          IRAELNQPG---------------SLIGDDQIYNVIVTAH---------AFVMIFFMVMP
+rice            QQQDRHEHPGCMKRIFQNIRILWGTELMEDGDSNRERYLWNVLR---ELLTYIAFLITIC
+african         IDRKSGE--------IVAVKKIFDAF-RNRTDAQRTFREI----MFLQEFGEHPNIIKLL
+mosquito        LKSSAGF-------VVCFLMLTYCVF-GQIINIGLLMMGHRQTDQVVEEVAIQVSSTGFC
+hippo           SEESLLQPPEKVFDIMYKL-----GE-GSYGSVYKAVHKESSSIVAIKLVPVESDLHEII
+human           VNPSTGE-------VICQV-----AE-GDKEDVDKAVKAA-------RAAFQLGSP----
+dolphin         INPSTGD-------VICHV-----AE-GDKXXXXXXXXXX-------XXXXXXXXX----
+whale           INPSTGD-------VICHV-----AE-GDKEDVDRAVKAA-------RAAFQLGSP----
+                   .                        .                               
+
+hawk            RICGVSFKTDCYKRTHPVH-----GPVDDETLWLLRKKE-----------KKATSWP---
+electric        MWSGLRNAPRCWAVIQPLLCAVYMPKCENGKVELPSQLLCQSTRKPCSIVEQERGWP---
+lion            IMIGGF------------------------GNWLV-PLMIGAPDMAFPRMNNMSFWL---
+german          ILIGGF------------------------GNWLV-PLMLGAPDMAFPRMNNMSFWF---
+rice            ILTYGMISTNMYYYTKAMS-----------QLFLDAPLSSENPKTFRSLSTMEDFWKYTQ
+african         NVIRAQNDKDIYLVFEHME---TDLHAVIKKGNLLKDIH--MRYILYQLLKATKFIH---
+mosquito        IIGLAKMYSLSYNRAI--------------LSWLIADFR--VKWNAGELTDKDRSIR---
+hippo           KEISIMQQCDSPYVVRYYG-----SYFKQYDLWICMEYC--GAGSVSDIMRLRKKTL---
+human           -----------WRRMDASH-----------RGRLLNRLA--------DLIERDRTYL---
+dolphin         -----------XXXMDASK-----------R-LLLNRLA--------DLIERDRTYL---
+whale           -----------WRRMDASK-----------RGWLLNRLA--------DLIERDRTYL---
+                                                 :                          
+
+hawk            ------DLIAKV-----------------FKIDVRGDVDTIHPTQFCHNCWSIIHRKFSN
+electric        ------SFLKCEHKDKFPVGCQNEVQKIRFNISGQCEAPLVKTDIQ--ASWY---KDVEG
+lion            -----------------------------LPPSFLLLLASSMVEAGAGTGWTVYPPLAGN
+german          -----------------------------LPPSLSLLLASSLVESGAGTGWTLYPPLASG
+rice            GPFLGGMYWEVWYNNQSLPGNQSFI----YYENILLGVPR-LRQVRVHNETCSIHEDLRD
+african         ------SGNVIHRDQKP--------------SNILLDGDCLVK--LCDFGLA---RSLYQ
+mosquito        ----DGTLRPTV-----------------AITTVAALGNIIMVSAFNFQPVV---EMIYG
+hippo           -----------------------------TEDEIATILSDTLQGLVYLHLRRKIHRDIKA
+human           ------AALETLDNGKP------------YVISYLVDLDMVLKCLRYYAGWA---DKYHG
+dolphin         ------AALETLDNGKP------------YVISYLVDLDMVLKCLRYYAGWA---DKYHG
+whale           ------AALETLDNGKP------------YVISYLVDLDMVLRCLRYYAGWA---DKYHG
+                                                                            
+
+hawk            TPCEVY----FPR--------------------------NSTMEWQPHSPNCAVCHTTRR
+electric        CGIQCD----NPL--------------------------FTEEEHSDMHAYIAIFGSLTL
+lion            LAHAGASVDLTIF----------------------------SLHLAGVSSILGAINFITT
+german          IAHAGASVDLAIF----------------------------SLHLAGVSSILGAVNFIST
+rice            EVQGCY----GVYTPSNEDNSPFGPQNGTAWVHTTESKMNASTHWGQVSKY-GGGGYYQD
+african         IQEDVGNPALTEY---------------------------VATRWYRAPEILLASNRYTK
+mosquito        RVVTGEWVKLFPY-----------------------------VIWFPFNSTHGAIYYLV-
+hippo           ANILLN-----------------------------------TEGYAKLADF-GVAGQLTD
+human           KTIPID----GDF-----------------------------FSYTRHEPV-GVCGQIIP
+dolphin         KTIPID----GDY-----------------------------FSYTRHEPV-GVCGQIIP
+whale           KTIPID----GDY-----------------------------FSYTRHEPV-GVCGQIIP
+                                                                            
+
+hawk            GVKR--------------------------------------------------------
+electric        LCTFFTLATFLAD------WKNSNRYPAVILFYVNACFFVGSIGWLAQFMDGAREEIVCK
+lion            IINMKPPALS--------------------------------------------------
+german          IINMKPINMS--------------------------------------------------
+rice            LSRTREESGLQLQFLKDHLWLDRGTRA---IFLDFSVYNGNVNLVCIARLLVEFP-----
+african         GVDM---------------WSVGC------ILGEM-------------------------
+mosquito        ------------------------------YLFEV-------------------------
+hippo           TMAKRNTVIGTPF------WMAPE------VIEEI-------------------------
+human           -------------------WNF----P---LLMQA---------W---------------
+dolphin         -------------------WNF----P---LLMQA---------W---------------
+whale           -------------------WNF----P---LLMQA---------W---------------
+                                                                            
+
+hawk            -----KSQPPSVQHGKRVKTVA-----------------------------ERARINRGV
+electric        SDKTMRLGEPSSTETLSCVIIF---------------------------IIVYYSLMSGV
+lion            -----QYQTPLFVWSVLITAVL---------------------------LLLSLPVLAAG
+german          -----PERIPLFVWSVGITALL---------------------------LLLSLPVLAGA
+rice            -----ATGGVLTSWQFQTLRLIKYVSSWDYFVGVCEVAFCLFVLYYVVEEVLEIHIHRLH
+african         -----LLGKPLFPGTSTINQIE--------------------------------RIMS--
+mosquito        -----YSGVIVAVGNVGFNCIF--------------------------------CLLTSH
+hippo           -----GYDCVADIWSLGITALE--------------------MAEGKPPYGEIHPMRAIF
+human           -----KLGPALATGNVVVMKVA-----------------------------EQTPLTALY
+dolphin         -----KLGPALATGNVVVMKVA-----------------------------EQTPLTALY
+whale           -----KLGPALATGNVVVMKVA-----------------------------EQTPLTALY
+                                    :                                  :    
+
+hawk            KNQAQ----------INNKNLMKEIVNCKNIHLSTKLLAVDYPVDFI-KSISCQICE--H
+electric        I-WFV----------MLTYAWHASFKALGTTQQPLSGKTSYFHLVTW-SVPFVLTVAILA
+lion            I-TML----------LTDRNLNTTFFDPAGGGDP-----ILYQHLFW----FFGHPEVYI
+german          I-TML----------LTDRNLNTSFFDPAGGGDP-----ILYQHLFW----FFGHPEVYI
+rice            YFKNLWNCLDVLIVTLSVVAIIMSITRAAMGGDLLKGLENYTSHTSF-DSLANLQVQFNN
+african         ---------------IIEPPTHEDIVSIKSEYGASVISRMSSKHKVPMAELFPASCPREA
+mosquito        LSMQL----------KLLCSWIEDMVEVEDEKGVQSKKKLYRIVRYH-QDLIRGRNALQS
+hippo           MIPQK-----PPPSFREPDRWSTEFIDFVSKCLVKEPDDRATATELL-EHEFIRNAKHRS
+human           V-ANL----------IKEAGFPPGVVNIVPGFGPTAGAAIASHEDVD-KVAFTGSTEIGR
+dolphin         V-ANL----------IKEAGFPPGVVNIVPGFGPTAGAAVASHEDVD-KVAFTGSTEVGH
+whale           V-ANL----------IKEAGFPPGVVNIIPGFGPTAGAAIASHEDVD-KVAFTGSTEVGH
+                                        .                                   
+
+hawk            ILADPVETTCRHLFC-----------RTCILKCIKVMGSYCPSC----------------
+electric        IAEVDGDSVSGICFVGYKNYRYRAGFVLAPIGVVLVIGGNFLIRGVMTLFSIKSNHPGLL
+lion            LILPGFGMISH---------------IVTYYSGKKEPFGYMGMVWA--------------
+german          LILPGFGMISH---------------IICHESGKKEAFGNLGMIFA--------------
+rice            MAAVIVFFCWVKLFKFINFNKTMSQLSTTMSRCAKDLVGFAIMFFII-------------
+african         LDLLSKLLVFNPGKRLTAEEALEHPYVSRFHSPAREPALDYDVI----------------
+mosquito        MFSTTLFLNFS---------------ASSVLMCMQLY-----------------------
+hippo           ILKPMLEETCA---------------IREQQRANRSFGGVLAASQAKSL-----------
+human           VIQVAAG-------------------SSNLKRVTLELGGKSPNI----------------
+dolphin         LIQTAAG-------------------NSNLKRVTLELGGKSPNI----------------
+whale           LIQTAAG-------------------NSNLKRVTLELGGKSPNI----------------
+                :                                                           
+
+hawk            -----------WYPCFPTDLVTPVKSF-------------------------LNILDSLG
+electric        SEKAASKINETMLRLGIFGFLAFGFVF----ITFGCHFYDFFNQAEWERSFREYVLCEAN
+lion            -----------MMSIGFLGFSVWAHHMFTVGMDVDTRAYFTSAT--------MIIAIPTG
+german          -----------MLAIGLLGFVVWAHHMFTVGMDVDTRAYFTSAT--------MIIAVPTG
+rice            -----------FLAYAQLAYLVFGTQV-NDFSTFQGSVFT------------QFRIILGD
+african         -----------LPVDDDIQLSVAEYRN---------KLYE------------MILERKMN
+mosquito        -----------LITTAGITLMVKFTLF----------------------------MLCIL
+hippo           -----------ATQENGMQQHITDNAFMEDPGTLVPEKFG------------EYQQSSAS
+human           -----------IMSDADMDWAVEQAHF----ALF----FN------------QGQCCCAG
+dolphin         -----------IMSDADMDWAVEQAHF----ALF----FN------------QGQCCCAG
+whale           -----------IMSDADMDWAVEQAHF----ALF----FN------------QGQCCCAG
+                                                                            
+
+hawk            IRCP------VKECDEEILHGKYGQHLS---------------SHKEMKESEPYSHVNKG
+electric        VTIAHQTNKPIPECAIKNRPSLLVEKINLFSMFGTGIAMSTWVWTKATILIWRRTWCRII
+lion            VKVF------------SWLATLHGGNIK-----------------------WSPAMLWAL
+german          IKIF------------SWLATMYGSQLT-----------------------YSAPCLWAL
+rice            FDFF-----EIKEANPVLGPIYFITFVLFIFFILMNMFLAIINDTYSEVKADMAQHRSEM
+african         IRRQKRESLKESVSSSANGAKDRQDTDT------------------------SKTPAPPA
+mosquito        MEIF--------------ILCYYGEEIL--------------------------------
+hippo           DATM------IAHAEQGVDEGTLGPGGL-----------------RNLSKAAAPAAASSA
+human           SRTF----------VQEDIYDEFVERSV------------------------ARAKSRVV
+dolphin         SRTF----------VQEDVYTEFVERSV------------------------ARARSRVV
+whale           SRTF----------VQEDIYSKFVERSV------------------------ARARSR--
+                                                                            
+
+hawk            GRPRQHLLSLTRRAQKHRLRELKRQVKAFAEKEEGGDIKAVCMTLFLLALRAKNEHRQAD
+electric        GRSDDEPKRIKKSKMIAKAFAKRKELQKDPEKELSFSMHSVSHEGPVAGINFELNEPSAE
+lion            GFIFLFTVGGLTGIVLANSS---LDIVLHDTCYVVAHFHYVLSMGA-------VFALTGG
+german          GFVFLFTVGGLTGVVLANSS---IDIVLHDTYYVVAHFHYVLSMGA-------VFAIMAG
+rice            EMTDFIKKGCTKALVKLRLKKTTVDDISDSLRQAGGKLNYDELLQDLKEKGHTEAEIQAI
+african         GTNPAPQPTSSTVPQRAAIAAPNQPPAQKDSTQQSPKIKAPSSNPITHSTTHGSTEDW--
+mosquito        ---------------------------ANSSSIAAGAFNS--------------------
+hippo           ASPLDMPAVDSGTMVELESNLGTMVINSDSDDSTTAKNNDDQKPRNRYRPQFLEHFDRKN
+human           GNPFD--SKTEQGPQVDETQFKKILGYINTGKQEGAKLLCGGG----------IAADRGY
+dolphin         GNPFD--SRTEQGPQVDETQFKKVLGYIKSGKEEGAKLLCGGG----------AAADRGY
+whale           ---------------VDETQFKKVLGYIKSGKEEGAKLLCGGG----------AAADRGY
+                                                                            
+
+hawk            ELE-----AIMQG-------RGSGLHPAVCLAIRVNT--FLSCSQYHKMYRTVKAVTGRQ
+electric        MSS-----AWAQHVTKMVARRGAILPQDISVSLTGTP--VPPPEERNKLWMVEAEISPE-
+lion            FVHWF---PLFAG----------YTLDNTWAKIHFTI--MLVGVNMTFFPQHFLGLSGMP
+german          FIQWY---PLFTG----------LSLNPKWLKIQFSI--MFLGVNLTFFPQHFLGLAGMP
+rice            FAKYDQDGDLELTEHDHQQMRDDLEKEREDLDLERNS--LTRPSSGRSFPRTQDDSEEDD
+african         --------RTSHNKKAGQQGAAGTTAQEVRKEVESRS--RTAPIGRARSFSHSQQARAAA
+mosquito        --------NWYQS------------------KVSQQN-----------------------
+hippo           AGDGRGDEKPIATEYSPAAAEQQQQQQQQQQQQQQDEQHLASGANDLNNWEHNMEMQFQQ
+human           FIQ-----PTVFG------------DVQDGMTIAKEE--IFGPVMQILKFKTIEEVVGR-
+dolphin         FIQ-----PTVFG------------DVQDGMTIAKEE--IFGPVMQILKFKTIEEVVGR-
+whale           FIQ-----PTVFG------------DVQDGMTIAKEE--IFGPVMQILKFKTIEEVVRR-
+                                                                            
+
+hawk            IFQ-PLHALRTAEKALLPGYHPFEWKPPLKNVSTNTEVGI--IDGLSGL-----------
+electric        MMK-RKKKKKKRKKEARSAAAAED---GMNPAPRRREFGPSAVPRLPKLPGQR-------
+lion            RRY-SDY--------------------PDAYTTWNT------ISSMGSFI----------
+german          RRY-SDY--------------------PDAYTAWNV------ISSIGSMI----------
+rice            DED-SGHSSRRRGSSSG----------GVSYEEFQVLVRR--VDRMEHSIGSIVSKIDAV
+african         TNS-ALI--------------------RKDAPPTGTVSVAAVSARLNQRTA---------
+mosquito        ----PRF--------------------GKNLIPIIQQGQR--------------------
+hippo           ISAINQYGLQQHQQQQQV---------LMAYPLMNEQLIA--LNNQPN------------
+human           ANN-STY--------------------GLAAAVFTKDLDK--ANYLSQ------------
+dolphin         ANN-SKY--------------------GLAAAVFTKDLDK--ANYLSQ------------
+whale           ANN-SKY--------------------GLAAAVFTKDLDK--AXYLSQ------------
+                                                                            
+
+hawk            ----------PLSIDDYPVDT-----IAKRFRYDAALVCALKDMEEEILEGMKA------
+electric        ----------RLVANLWAQQQQEENILPGSFPEFRPSCPIPYQERYGMLGSLSSGQRCRE
+lion            ----------SLTAVMWM--------VLMAWEAFASKREVAMVELTT-------------
+german          ----------SFVAVLMF--------IFIMWESMSSNRQVLFPTQTS-------------
+rice            IVKLEGMERAKLKRRDV---------LVRLLDGVMEDERLGRDADTH-------------
+african         ----------PIQGRD-----------PRSAPRFGRKMFQGKTNVES-----AG------
+mosquito        ----------PMVLTAWKF-------WPITIRTFSAILQT--------------------
+hippo           ----------LLLSNAAPM-------GQQGIPAAAPAQPPPAYQNQHMHTQSHA------
+human           ----------ALQAGTV---------WVNCYDVFGAQSPFGGYKMSG-----SG------
+dolphin         ----------ALQAGTV---------WVNCYDVFGAQSPFGGYKLSG-----SG------
+whale           ----------ALQAGTV---------WVNCYDVFGAQSPFGGYKLSG-----SG------
+                           :                                                
+
+hawk            ----------------KNLDDY---------LNGPFTVVVKESCDGMGDVSEKHGNGPAV
+electric        PGFNLASPLTLSDSHREDRGQFLAPSWTANGAFCHSVKEMLSPPGGARTTLSPRSDGRRA
+lion            ----------------------------------TNLEWLHGCPPPYHTFEEPTYVLLK-
+german          ----------------------------------NSIEWFQNIPPAEHSYAELPTISY--
+rice            ----------------REQMERL--------VKEELERWETDDVASQVSHPQPATPIGPR
+african         -----------------------------------------DPKATLHSYTQAYGTISKA
+mosquito        ---------------------------------------------SWSYFTLLKTVMH--
+hippo           ----------------YVEGEFEFLKFLTFDDLNQRLCNIDHEMELEIEQLNKKYNAKRQ
+human           ----------------RELGEY-----------------------GLQAYTEVKTVTVKV
+dolphin         ----------------RELGEY-----------------------GLQAYTEVKT-----
+whale           ----------------RELGEY-----------------------GLQAYTEVKTVTVKV
+                                                                            
+
+hawk            PEKAVRFFSQS------------
+electric        MIVPIHSRTNLIEAELMEADSDF
+lion            -----------------------
+german          -----------------------
+rice            PRPPSSLSTDGLDTSANGGTHV-
+african         ALQNLPQQGGAFKGK--------
+mosquito        -----------------------
+hippo           PIVDAMNAKRKRQQNINNNLI--
+human           PQKNS------------------
+dolphin         -----------------------
+whale           PQKNS------------------
+                                       
