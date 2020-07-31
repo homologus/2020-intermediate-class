@@ -1,0 +1,10 @@
+from Bio import SeqIO
+reads = list(SeqIO.parse("/share/SARS/SARS-2020.fasta", "fasta"))
+
+#print("legnth of the list",len(reads))
+#print("first sequence id",reads[0].id)
+#print("first sequence", reads[0].seq)
+#print("legnth of first sequence",len(reads[0]))
+print(reads[0].seq[100:200])
+print("reverse complement",reads[0].seq.reverse_complement())
+print("transalate",reads[0].translate())
