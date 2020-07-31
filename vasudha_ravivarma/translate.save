@@ -1,0 +1,2 @@
+from Bio.Seq import Seq
+reads=list (SeqIO.parse("/share/SARS/SARS-2002.fasta","fasta"))

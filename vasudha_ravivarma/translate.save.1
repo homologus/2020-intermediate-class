@@ -1,0 +1,38 @@
+from Bio import SeqIO
+reads=list (SeqIO.parse("/share/SARS/SARS-2020.fasta","fasta"))
+
+for i in reads:
+	print("reading frame 1")
+	s= i.seq[0:]
+	trans=(s.translate())
+	print(trans)
+	s1=""
+	for h in trans:
+		if (h!="*"):
+			s1=s1+h
+		if( h=="*"):
+			print(s1+h)
+			s1=""
+	print("reading frame 2")
+	s=i.seq[1:]
+	trans=(s.translate())
+	print(trans)
+	s1=""
+	for h in trans:
+		if (h!="*"):
+			s1=s1+h
+		if( h=="*"):
+			print(s1+h)
+			s1=""
+
+	print("reading frame 3")
+	s=i.seq[2:]
+	trans=(s.translate())
+	print(trans)
+	s1=""
+	for h in trans:
+		if (h!="*"):
+			s1=s1+h
+		if( h=="*"):
+			print(s1+h)
+			s1=""

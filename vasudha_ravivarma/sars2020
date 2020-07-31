@@ -1,0 +1,31 @@
+from Bio import SeqIO
+record=SeqIO.read("/share/SARS/SARS-urbani.fasta", "fasta")
+print(record.seq)
+for i in record:
+        print("reading frame 1")
+        s= i.seq[0:]
+        trans=(s.translate())
+        prsdseq=str(trans).split("*")
+        print(prsdseq)
+        for g in prsdseq:
+                if len(g)> 99:
+                        greaterthan100=greaterthan100+1
+
+        print("reading frame 2")
+        s=i.seq[1:]
+        trans=(s.translate())
+        prsdseq=str(trans).split("*")
+        print(prsdseq)
+        for g in prsdseq:
+                if len(g)> 99:
+                        greaterthan100=greaterthan100+1
+
+        print("reading frame 3")
+        s=i.seq[2:]
+        trans=(s.translate())
+        prsdseq=str(trans).split("*")
+        print(prsdseq)
+	for g in prsdseq:
+                if len(g)> 99:
+                        greaterthan100=greaterthan100+1
+
