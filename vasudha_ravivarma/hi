@@ -1,0 +1,3 @@
+f=open("hi")
+line=f.readline()
+line=line.rstrip('\n')
