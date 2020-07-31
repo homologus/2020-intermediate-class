@@ -1,0 +1,4 @@
+from Bio.Seq import Seq
+
+#This task is to count the number of possible "long sequences", defined as 100 or more nucleotides, there are in the Sars Covide DNA sequence. 
+
