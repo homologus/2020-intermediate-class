@@ -1,0 +1,446 @@
+MUSCLE (3.8) multiple sequence alignment
+
+
+SARS-urbani      PKGKMESLVLGVNEKTHVQLSLPVLQVRDVLVRGFGD-SVEEALSEAREHLKNGTCGLVE
+SARS-2020        -CTIVFKRVCGVSA-ARLTPCGTGTST-DVVYRAFDI--YNDKVAGFAKFLKTNCCRFQE
+Betacov          -RFQFFKRVRGSIVNARIEPCSSGLST-DVVFRAFDICNYKAKVAGIGKYYKTNTCRFVE
+Mers             -RFQFFKRVRGSIVNARIEPCSSGLST-DVVFRAFDICNYKAKVAGIGKYYKTNTCRFVE
+                     . . * *    :.:  . .  .. **: *.*.    :  ::   :. *.. * : *
+
+SARS-urbani      LEKGVLPQLEQPYVFIKRSDALSTNHGHKVVELVAEMDGI---QYGRSGITLGVLVPHVG
+SARS-2020        KDED--DNLIDSYFVVKRHTFSNYQHEETIYNLLKDCPAVAKHDFFKFRID-GDMVPHIS
+Betacov          LDDQ--GHHLDSYFVVKRHTMENYELEKHCYDLLRDCDAVAPHDFFIFDVD-KVKTPHIV
+Mers             LDDQ--GHHLDSYFVVKRHTMENYELEKHCYDLLRDCDAVAPHDFFIFDVD-KVKTPHIV
+                  :.    :  :.*..:**    . :      :*: :  .:   ::    :     .**: 
+
+SARS-urbani      ETPIAYRNVLLRKNGNKGAGGHSYGIDLKSYDLGDELGTDPIEDYEQNWNTKHGSGALRE
+SARS-2020        RQR------------------------LTKYTMADLV-----------------------
+Betacov          RQR------------------------LTEYTMMDLV-----------------------
+Mers             RQR------------------------LTEYTMMDLV-----------------------
+                                            *..* : * :                       
+
+SARS-urbani      LTRELNGGAVTRYVDNNFCGPDGYPLDCIKDFLARAGKSMCTLSEQLDYIESKRGVYCCR
+SARS-2020        --------YALRHFDEGNC-------DTLKEILVTYN--------------------CC-
+Betacov          --------YALRHFDQNS--------EVLKAILVKYG--------------------CC-
+Mers             --------YALRHFDQNS--------EVLKAILVKYG--------------------CC-
+                          . *:.*:.         : :* :*.  .                    ** 
+
+SARS-urbani      DHEHEIAWFTERSDKSYEHQTPFEIKSAKKFDTFKGECPKFVFPLNSKVKVIQPRVEKKK
+SARS-2020        ----DDDYFNKKD--------------------------WYDFVENPDILRVYANLGERV
+Betacov          ----DVTYFENKL--------------------------WFDFVENPSVIGVYHKLGERV
+Mers             ----DVTYFENKL--------------------------WFDFVENPSVIGVYHKLGERV
+                     :  :* :.                           .: *  *..:  :  .: :. 
+
+SARS-urbani      TEGFMGRIRSVYPVASPQECNNMHLSTLMKCNHCD--EVSWQTCDFLKATCEHCGTENLV
+SARS-2020        RQALLKTVQF---------CDAMRNAGIVGVLTLDNQDLNGNWYDFGDFIQTTPGSGVPV
+Betacov          RQAILNTVKF---------CDHMVKAGLVGVLTLDNQDLNGKWYDFGDFVITQPGSGVAI
+Mers             RQAILNTVKF---------CDHMVKAGLVGVLTLDNQDLNGKWYDFGDFVITQPGSGVAI
+                  :.::  :.          *: *  : ::     *  ::. :  ** .      *:   :
+
+SARS-urbani      IEGPTTCGYLPTNAVVKMPCPACQDPEIGPEHSVADYHNHSNIETRLRKGGRTRCFGGCV
+SARS-2020        VD--SYYSLL-------MPILTLTRALTAESHVDTDL-TKPYIKWDLLKYD----FTEER
+Betacov          VD--SYYSYL-------MPVLSMTDCLAAETHRDCDF-NKPLIEWPLTEYD----FTDYK
+Mers             VD--SYYSYL-------MPVLSMTDCLAAETHRDCDF-NKPLIEWPLTEYD----FTDYK
+                 ::  :  . *       **  :      .  *   *  .:. *:  * : .    *    
+
+SARS-urbani      FAYVGCYNKRAYWVPRASADIGSGHTGITGDNVETLNEDLLEILSRERVNINIVGDFHLN
+SARS-2020        LKLFDRYFK--YW-------------------DQTYHPNCVNCLD-DRCILH-CANFN--
+Betacov          VQLFEKYFK--YW-------------------DQTYHANCVNCTD-DRCVLH-CANFN--
+Mers             VQLFEKYFK--YW-------------------DQTYHANCVNCTD-DRCVLH-CANFN--
+                 .  .  * *  **                    :* : : ::  . :*  ::  .:*:  
+
+SARS-urbani      EEVAIILASFSASTSAFIDTIKSLDYKSFKTIVESCGNYKVTKGKPVKGAWNIGQQRSVL
+SARS-2020        -----VLFSTVFPPTSFGPLVRKIFVDGVPFVVS-TGYHFRELGVVHNQDVNLHSSRLSF
+Betacov          -----VLFAMTMPKTCFGPIVRKIFVDGVPFVVS-CGYHYKELGLVMNMDVSLHRHRLSL
+Mers             -----VLFAMTMPKTCFGPIVRKIFVDGVPFVVS-CGYHYKELGLVMNMDVSLHRHRLSL
+                      :* :   . :.*   :..:  ...  :*.  * :    *   :   .:   *  :
+
+SARS-urbani      TPLCGFPSQAAGVIRSIFARTLDAANHSIPDLQRAAVTILDGISEQSLRLVDAMVYTSDL
+SARS-2020        KELLVYAADPAMHA---------ASGNLLLDKRTTCFSVAALTNNVAFQTVKPGNFNKDF
+Betacov          KELMMYAADPAMHI---------ASSNAFLDLRTSCFSVAALTTGLTFQTVRPGNFNQDF
+Mers             KELMMYAADPAMHI---------ASSNAFLDLRTSCFSVAALTTGLTFQTVRPGNFNQDF
+                 . *  :.::.*            *:.: : * . :..::    .  ::. * .  :..*:
+
+SARS-urbani      LTNSVIIMAYVTGGLVQQTSQWLSNLLGTTVEKLRPIFEWIEAKLSAGVEFLKDAWEILK
+SARS-2020        YDFAVSKGFFKEGSSVELKHFFFAQDGNAAISD----YDYYRYNLPTMC-------DIRQ
+Betacov          YDFVVSKGFFKEGSSVTLKHFFFAQDGNAAITD----YNYYSYNLPTMC-------DIKQ
+Mers             YDFVVSKGFFKEGSSVTLKHFFFAQDGNAAITD----YNYYSYNLPTMC-------DIKQ
+                     *    :  *. *  .  ::::  .::: .    :::   :*.:         :* :
+
+SARS-urbani      FLITGVFDIVKGQIQVASDNIKDCVKCFIDVVNKALEMCIDQVTIAGAKLRSLNLGE--V
+SARS-2020        LLF--VVEVVDKYFDCYDGGCINANQVIVNNLDKSAGFPFNKWGKARLYYDSMSYEDQDA
+Betacov          MLF--CMEVVNKYFEIYDGGCLNASEVVVNNLDKSAGHPFNKFGKARVYYESMSYQEQDE
+Mers             MLF--CMEVVNKYFEIYDGGCLNASEVVVNNLDKSAGHPFNKFGKARVYYESMSYQEQDE
+                 :*:   .::*.  ::  ...  :. : .:: ::*:    :::   *     *:.  :   
+
+SARS-urbani      FIAQSKGLYRQCIRGKEQLQLLMPLKAPKEVTFLEGDSHDTVLTSEEVVLKNGELEALET
+SARS-2020        LFAYTK---RNVIPTITQMNLKYAISAKNRARTVAGVSICSTMTNRQFHQK-----LLKS
+Betacov          LFAMTK---RNVIPTMTQMNLKYAISAKNRARTVAGVSILSTMTNRQYHQK-----MLKS
+Mers             LFAMTK---RNVIPTMTQMNLKYAISAKNRARTVAGVSILSTMTNRQYHQK-----MLKS
+                 ::* :*   *: *    *::*  .:.* : .  : * *  :.:*. :   *      *::
+
+SARS-urbani      PVDSFTNGAIVGTPVCVNGLMLLEIKDKEQYCALSPGLLATNNVFRLKGGAPIKGVTFGE
+SARS-2020        IAATRGATVVIGTSKFYGGWHNM-----------------LKTVYSDVENPHLMG-----
+Betacov          MAATRGATCVIGTTKFYGGWDFM-----------------LKTLYKDVDNPHLMG-----
+Mers             MAATRGATCVIGTTKFYGGWDFM-----------------LKTLYKDVDNPHLMG-----
+                  . :     ::**.   .*   :                  :.::    .. : *     
+
+SARS-urbani      DTVWEVQGYKNVRITFELDERVDKVLNEKCSVYTVESGTEVTEFACVVAEAVVKTLQPVS
+SARS-2020        ---WDYP-------------KCDRAMPNMLRIMASLVLARKHTTCCSLSH----------
+Betacov          ---WDYP-------------KCDRAMPNMCRIFASLILARKHGTCCTTRD----------
+Mers             ---WDYP-------------KCDRAMPNMCRIFASLILARKHGTCCTTRD----------
+                    *:               . *..: :   : :    :     .*              
+
+SARS-urbani      DLLTNMGIDLDEWSVATFYLFDDAGEENFSSRMYC--SFY--PPDEEEEDDAECEEEEID
+SARS-2020        ----------------RFYRLANECAQVLSEMVMCGGSLYVKPGGTSSGDATTAYANSVF
+Betacov          ----------------RFYRLANECAQVLSEYVLCGGGYYVKPGGTSSGDATTAYANSVF
+Mers             ----------------RFYRLANECAQVLSEYVLCGGGYYVKPGGTSSGDATTAYANSVF
+                                  ** : :   : :*. : *  . *  * . .. * : .  :.: 
+
+SARS-urbani      ETCEHEYGTEDDYQGLPLEFGASAETVRVEEEEEEDWLDDTTEQSEIEPEPEPTPEEPVN
+SARS-2020        NICQAVTANVNALLS--------TDGNKIADKYVRNLQHRLYECLYRNRDVDT---DFVN
+Betacov          NILQATTANVSALMG--------ANGNKIVDKEVKDMQFDLYVNVYRSTSPDP---KFVD
+Mers             NILQATTANVSALMG--------ANGNKIVDKEVKDMQFDLYVNVYRSTSPDP---KFVD
+                 :  :   .. .   .        ::  .: ::   :           . . :.   . *:
+
+SARS-urbani      QFTGYLKLTDNVAIKCVDIVKEAQSANPMVIVNAANIHLKHGGGVAGALNKATNGAMQKE
+SARS-2020        EFYAYLR----------------KHFSMMILSDDAVVCFNSTYASQGLVASIKN------
+Betacov          KYYAFLN----------------KHFSMMILSDDGVVCYNSDYAAKGYIAGIQN------
+Mers             KYYAFLN----------------KHFSMMILSDDGVVCYNSDYAAKGYIAGIQN------
+                 :: .:*.                :  . *:: : . :  :   .  * :    *      
+
+SARS-urbani      SDDYIKLNGPLTVGGSCLLSGHNLAKKCLHVVGPNLNAGEDIQLLKAAYENFNSQDILLA
+SARS-2020        ------FKSVLYYQNNVFMS----EAKCW----------TETDLTKGPHE-FCSQHTMLV
+Betacov          ------FKETLYYQNNVFMS----EAKCW----------VETDLKKGPHE-FCSQHTLYI
+Mers             ------FKETLYYQNNVFMS----EAKCW----------VETDLKKGPHE-FCSQHTLYI
+                       ::  *   .. ::*      **            : :* *..:* * **  :  
+
+SARS-urbani      PLLSAGIFGAKPLQSLQVCVQTVRTQVYIAVNDKALYEQVVMDYLDNLKPRVEAPKQEEP
+SARS-2020        KQGDDYVYLPYPDPSRILGAGCFVDDI-VKTDGTLMIERFVSLAIDAY------------
+Betacov          KDGDDGYFLPYPDPSRILSAGCFVDDI-VKTDGTLMVERFVSLAIDAY------------
+Mers             KDGDDGYFLPYPDPSRILSAGCFVDDI-VKTDGTLMVERFVSLAIDAY------------
+                    .   : . *  *  : .  .  :: : .:.. : *..*   :*              
+
+SARS-urbani      PNTEDSKTEEKSVVQKPVDVKPKIKACIDEVTTTLEETKFLTNKLLLFADINGKLYHDSQ
+SARS-2020        PLTKHPNQEYADVFH-----------------------LYLQYIRKLHDELTGHMLDMYS
+Betacov          PLTKHEDIEYQNVFW-----------------------VYLQYIEKLYKDLTGHMLDSYS
+Mers             PLTKHEDIEYQNVFW-----------------------VYLQYIEKLYKDLTGHMLDSYS
+                 * *:  . *  .*..                        :*     *. ::.*::    .
+
+SARS-urbani      NMLRGEDMSFLEKDAPYMVGDVITSGDI-----TCVVIPSKKAGGTTEMLSRALKKVPVD
+SARS-2020        VMLTNDNTSRYWEPEFY--EAMYTPHTVLQAVGACVLCNSQTSLRCGACIRRPFL-----
+Betacov          VMLCGDNSAKFWEEAFY--RDLYSSPTTLQAVGSCVVCHSQTSLRCGTCIRRPFL-----
+Mers             VMLCGDNSAKFWEEAFY--RDLYSSPTTLQAVGSCVVCHSQTSLRCGTCIRRPFL-----
+                  ** .:: :   :   *    : :.        :**:  *:.:      : *.:      
+
+SARS-urbani      EYITTYPGQGCAGYTLEEAKTALKKCKSAF-YVLPSEAPNAKEEILGTVSWNLREMLAHA
+SARS-2020        ----------C--------------CKCCYDHVIST----SHKLVLSVNPY---------
+Betacov          ----------C--------------CKCCYDHVIAT----PHKMVLSVSPY---------
+Mers             ----------C--------------CKCCYDHVIAT----PHKMVLSVSPY---------
+                           *              **..: :*:.:    .:: :*.. .:         
+
+SARS-urbani      EETRKLMPICMDVRAIMATIQRKYKGIKIQEGIVDYGVRFFFYTSKEPVASIITKLNSLN
+SARS-2020        --------VCNAPGCDVTDVTQLYLG----------GMSYYCKSHK--------------
+Betacov          --------VCNAPGCGVSDVTKLYLG----------GMSYFCVDHR--------------
+Mers             --------VCNAPGCGVSDVTKLYLG----------GMSYFCVDHR--------------
+                         :*    . :: : . * *          *: ::    .              
+
+SARS-urbani      EPLVTMPIGYVTHGFNLEEAARCMRSLKAPAVVSVSSPDAVTTYNGYLTSSSKTSEEHFV
+SARS-2020        -PPISFPLCANGQVFGLYKN-------------TCVGSDNVTDFNAIATC----------
+Betacov          -PVCSFPLCANGLVFGLYKN-------------MCTGSPSIVEFNRLATC----------
+Mers             -PVCSFPLCANGLVFGLYKN-------------MCTGSPSIVEFNRLATC----------
+                  *  ::*:      *.* :                 ..  :. :*   *.          
+
+SARS-urbani      ETVSLAGSYRDWSYSGQRTELGVEFLKRGDKIVYHTLESPVEFHLDGEVLSLDKLKSLLS
+SARS-2020        ----------DWTNA-------------GDYILANTCTERLKL-FAAETLKATEETFKLS
+Betacov          ----------DWTES-------------GDYTLANTTTEPLKL-FAAETLRATEEASKQS
+Mers             ----------DWTES-------------GDYTLANTTTEPLKL-FAAETLRATEEASKQS
+                           **: :             **  : :*  . ::: : .*.*   :     *
+
+SARS-urbani      LREVKTIKVFTTVDNTNLHTQLVDMSMTYGQQFGPTYLDGADVTKIKPHVNHEGKTFFVL
+SARS-2020        Y-GIATVR--EVLSDRELHLSW-------------------EVGKPRPPLN---------
+Betacov          Y-AIATIK--EIVGERQLLLVW-------------------EAGKSKPPLN---------
+Mers             Y-AIATIK--EIVGERQLLLVW-------------------EAGKSKPPLN---------
+                    : *:.    :.: :*                       :. * .* :*         
+
+SARS-urbani      PSDDTLRSEAFEYYHTLDESFL--GRYMSALNHTKKWKFPQVGGLTSIKWADNNCYLSSV
+SARS-2020        ------RNYVFTGYRVTKNSKVQIGEYT----------------FEKGDYGDAVVYRGT-
+Betacov          ------RNYVFTGYHITKNSKVQLGEYI----------------FERIDYSDAVSYKSS-
+Mers             ------RNYVFTGYHITKNSKVQLGEYI----------------FERIDYSDAVSYKSS-
+                       *. .*  *.  .:* :  * *                 :   .:.*   * .: 
+
+SARS-urbani      LLALQQLEVKFNAPALQEAYYRARAGDAANFCALILAYSNKTVGELGDVRETMTHLLQHA
+SARS-2020        ------------------TTYKLNVGD-------YFVLTSHTVMPL--------------
+Betacov          ------------------TTYKLTVGD-------IFVLTSHSVATL--------------
+Mers             ------------------TTYKLTVGD-------IFVLTSHSVATL--------------
+                                   : *.  .**        :. :.::*  *              
+
+SARS-urbani      NLESAKRVLNVVCKHCGQKTTTLTGVEAVMYMGTLSYDNLKTGVSIPCVCGRDATQYLVQ
+SARS-2020        ---SAPTLVP------QEHYVRITG--------------LYPTLNISDEFSSNVANYQKV
+Betacov          ---TAPTIVN------QERYVKITG--------------LYPTITVPEEFASHVANFQKS
+Mers             ---TAPTIVN------QERYVKITG--------------LYPTITVPEEFASHVANFQKS
+                    :*  ::        :. . :**              * . :.:.   .  .:::   
+
+SARS-urbani      QESSFVMMSAPPAEYKLQQGTFLCANEYTGNYQCGHYTHITAKETLYRIDGAHLTKMSEY
+SARS-2020        GMQKYSTLQGPPG---------------TGK------SHFAIGLALYY------------
+Betacov          GYSKYVTVQGPPG---------------TGK------SHFAIGLAIYY------------
+Mers             GYSKYVTVQGPPG---------------TGK------SHFAIGLAIYY------------
+                   ..:  :..**.               **:      :*::   ::*             
+
+SARS-urbani      KGPVTDVFYKETSYTTTIKPVSYKLDGVTYTEIEPKLDGYYKKDNAYYT-EQPIDLVPTQ
+SARS-2020        --PSARIVYTACSHAA--------------------VDALCEKALKYLPIDKCSRIIPAR
+Betacov          --PTARVVYTACSHAA--------------------VDALCEKAFKYLNIAKCSRIIPAK
+Mers             --PTARVVYTACSHAA--------------------VDALCEKAFKYLNIAKCSRIIPAK
+                   * : :.*.  *:::                    :*.  :*   *    :   ::*:.
+
+SARS-urbani      PLPNASFDNFKLTCSNTKFADDLNQMTGFTKPASRELSVTFFPDLNGDVVAIDYRHYSAS
+SARS-2020        ARVE-CFDKFKVNSTLEQYV--------FC-------TVNALPETTADIVVFDEISMATN
+Betacov          ARVE-CYDRFKVNETNSQYL--------FS-------TINALPETSADILVVDEVSMCTN
+Mers             ARVE-CYDRFKVNETNSQYL--------FS-------TINALPETSADILVVDEVSMCTN
+                 .  : .:*.**:. :  ::         *        ::. :*: ..*::..*    .:.
+
+SARS-urbani      FKKG---AKLLHKPIVWHINQATTKTTFKPNTWCLRCLWSTKPVDTSNSFEVLAVEDTQG
+SARS-2020        YDLSVVNARLRAKHYVYIGDPAQLPAP--------RTLLTKGTLEPEYFNSVCRLMKTIG
+Betacov          YDLSIINARIKAKHIVYVGDPAQLPAP--------RTLLTRGTLEPENFNSVTRLMCNLG
+Mers             YDLSIINARIKAKHIVYVGDPAQLPAP--------RTLLTRGTLEPENFNSVTRLMCNLG
+                 :. .   *.:  *  *:  : *   :.        * * :  .::..   .*  :  . *
+
+SARS-urbani      MDNLACESQQPTSEEVVENPTIQKEVIECDVKTTEVVGNVILKPSDEGVKVTQELGHEDL
+SARS-2020        PDMFLGTCRR------------------CPAEIVDTVSALVY---DNKLKAHKDKSAQCF
+Betacov          PDIFLSMCYR------------------CPKEIVSTVSALVY---NNKLLAKKELSGQCF
+Mers             PDIFLSMCYR------------------CPKEIVSTVSALVY---NNKLLAKKELSGQCF
+                  * :   . .                  *  : ...*. ::    :: : . :: . : :
+
+SARS-urbani      MAAY----VENTSITIKKPNELSLALGLKTIATHGIAAINSVPWSKILAYVKPFLGQAAI
+SARS-2020        KMFYKGVITHDVSSAINRP-QIGV---VREFLTRNPA------WRKAV-FISPYNSQNAV
+Betacov          KILYKGNVTHDASSAINRP-QLTF---VKNFITANPA------WSKAV-FISPYNSQNAV
+Mers             KILYKGNVTHDASSAINRP-QLTF---VKNFITANPA------WSKAV-FISPYNSQNAV
+                    *    . :.* :*:.* :: .   :. : * . *      * * : ::.*: .* *:
+
+SARS-urbani      TTSNCAKRLAQRVFNNYMPYVFTLLFQLCTFTKSTNSRIRASLPTTIAKNSVKSVAKLCL
+SARS-2020        ASKILGLPTQTVDSSQGSEYDYVIFTQTTETAHSCNVN-RFNVAITRAKVGI-----LCI
+Betacov          ARSMLGLTTQTVDSSQGSEYQYVIFCQTADTAHANNIN-RFNVAITRAQKGI-----LCV
+Mers             SRSMLGLTTQTVDSSQGSEYQYVIFCQTADTAHANNIN-RFNVAITRAQKGI-----LCV
+                 : .  .        .:   * :.:: *    ::: * . * .:. * *: .:     **:
+
+SARS-urbani      DAGINYVKSPKFSKLFTIAMWLLLLSICLGSLICVTAAFGVLLSNFGAPSYCNGVRELYL
+SARS-2020        MSDRDLYDKLQFTSL-------------------------------EIPRR----NVATL
+Betacov          MTSQALFESLEFTEL-------------------------------SFTNY-------KL
+Mers             MTSQALFESLEFTEL-------------------------------SFTNY-------KL
+                  :.    .. :*:.*                                 .          *
+
+SARS-urbani      NSSNVTTMDFCEGSFP-CSICLSGLDSLDSYPALETIQVTISS-YKLDLTILGLAAEWVL
+SARS-2020        QAENVT------GLFKDCSKVITGLHPTQA-PTHLSVDTKFKT-EGLCVDIPGIPKD---
+Betacov          QSQIVT------GLFKDCSRETSGLSPAYA-PTYVSVDDKYKTSDELCVN-LNLPAN---
+Mers             QSQIVT------GLFKDCSRETSGLSPAYA-PTYVSVDDKYKTSDELCVN-LNLPAN---
+                 ::. **      * *  **   :** .  : *:  ::: . .:   * :   .:. :   
+
+SARS-urbani      AYMLFTKFFYLLGLSAIMQVFFGYFASHFISNSWLMWFIISIVQMAPVSAMVRMYIFFAS
+SARS-2020        --MTYRRLISMMG-----------FKMNYQVNGYPNMFITR----EEAIRHVRAWIGFD-
+Betacov          --VPYSRVISRMG-----------FKLDATVPGYPKLFITR----EEAVRQVRSWIGFD-
+Mers             --VPYSRVISRMG-----------FKLDATVPGYPKLFITR----EEAVRQVRSWIGFD-
+                   : : ..:  :*           *       .:   **        .   ** :* *  
+
+SARS-urbani      FYYIWKSYVHIMDGCTSSTCMMCYKRNRATRVECTTIVNGMKRSFYVYANGGRGFCKTHN
+SARS-2020        -----------VEGC------------HATREAVGTNL----------------------
+Betacov          -----------VEGA------------HASRNACGTNV----------------------
+Mers             -----------VEGA------------HASRNACGTNV----------------------
+                            ::*.            .*:*    * :                      
+
+SARS-urbani      WNCLNCDTFCTGSTFISDEVARDLSLQFKRPINPTDQSSYIVDSVAVKNGALHLYFDKAG
+SARS-2020        ----------------------PLQLGFSTGVN------LVAVPTGYVDTPNNTDFSRVS
+Betacov          ----------------------PLQLGFSTGVN------FVVQPVGVVDTEWGNMLTGIA
+Mers             ----------------------PLQLGFSTGVN------FVVQPVGVVDTEWGNMLTGIA
+                                        *.* *.  :*       :. ...  :      :   .
+
+SARS-urbani      QKTYERHPLSHFVNLDNLRANNTKGSLPINVIVFDGKSKCDESASKSASVYYSQLMCQPI
+SARS-2020        AKPPPGDQFKHLIPL-------MYKGLPWNVVRIKIVQMLSDTLKNLSDRVVFVLWAHGF
+Betacov          ARPPPGEQFKHLVPL-------MHKGAAWPIVRRRIVQMLSDTLDKLSDYCTFVCWAHGF
+Mers             ARPPPGEQFKHLVPL-------MHKGAAWPIVRRRIVQMLSDTLDKLSDYCTFVCWAHGF
+                  ..     :.*:: *          . .  ::     .  .:: .: :.       .: :
+
+SARS-urbani      LLLDQVLVSDVGDSTEVSVKMFDAYVDTFSATFSVPMEKLKALVATAHSELAKGVALDGV
+SARS-2020        ELTSMKYFVKIGPERTCCL------CDRRATCFSTASDTYAC--------WHHSIGFDYV
+Betacov          ELTSASYFCKIGKEQKCCM------CNRRAAAYSSPLQSYAC--------WTHSCGYDYV
+Mers             ELTSASYFCKIGKEQKCCM------CNRRAAAYSSPLQSYAC--------WTHSCGYDYV
+                  * .   . .:* .   .:       :  :: :* . :.  .          :. . * *
+
+SARS-urbani      LSTFVSAARQGVVDTDVDTKDVIECLKLSHHSDLEVTGDSCNNFMLTYNKVENMTPRDLG
+SARS-2020        YNPFMIDVQQWGFTGNLQSNHDLYC---QVHGNAHVA--SCDAIMTRCLAVH--------
+Betacov          YNPFFVDVQQWGYVGNLATNHDRYC---SVHQGAHVA--SNDAIMTRCLAIH--------
+Mers             YNPFFVDVQQWGYVGNLATNHDRYC---SVHQGAHVA--SNDAIMTRCLAIH--------
+                  ..*.  ..*     :: ::    *   . * .  *:  * : :*     :         
+
+SARS-urbani      ACIDCNARHINAQVAKSHNVSLIWNVKDYMSLSEQLRKQIRSAAKKNNIPFRLTCATTRQ
+SARS-2020        ---ECFVKRVD------------WTI-EYPIIGDELK--INAACRK--------------
+Betacov          ---SCFIERVD------------WDI-EYPYISHEKK--LNSCCRI--------------
+Mers             ---SCFIERVD------------WDI-EYPYISHEKK--LNSCCRI--------------
+                    .*   .::            * : :*  :. : .  :.:...               
+
+SARS-urbani      VVNVITTKISLKGGKIVSTCFKLMLKATLLCVLAALVCYIVMPVHTLSIHDGYTNEII-G
+SARS-2020        -VQHMVVKAALLADKF-PVLHDIGNPKAIKCVPQADVEWKFYDAQPCSDKAYKIEELFYS
+Betacov          -VERNVVRAALLAGSF-DKVYDIGNPKGIPIVDDPVVDWHYFDAQPLTRK---VQQLFYT
+Mers             -VERNVVRAALLAGSF-DKVYDIGNPKGIPIVDDPVVDWHYFDAQPLTRK---VQQLFYT
+                  *:  ... :* ...:    ..:     :  *  . * :    .:. : :    ::::  
+
+SARS-urbani      YKAIQDGVTRDIISTDDCFANKHAGFDAWFSQRGGSYKNDKSCPVVAAIITREIGFIVPG
+SARS-2020        YATHSDKFTDGVCLFWNCNVDRYPA-------------NSIVCRFDTRVLSN---LNLPG
+Betacov          -EDMASRFADGLCLFWNCNVPKYPN-------------NAIVCRFDTRVHSE---FNLPG
+Mers             -EDMASRFADGLCLFWNCNVPKYPN-------------NAIVCRFDTRVHSE---FNLPG
+                      . .: .:    :* . .:.              *   * . : : :    : :**
+
+SARS-urbani      LPGTVLRAINGDFLHFLPRVFSAVGNICYTPSKLIEYSDFATSACVLAAECTIFKDAMGK
+SARS-2020        --------CDGGSLYVNKHAF-------HTP----------------AFDKSAFVNL--K
+Betacov          --------CDGGSLYVNKHAF-------HTP----------------AYDVSAFRDL--K
+Mers             --------CDGGSLYVNKHAF-------HTP----------------AYDVSAFRDL--K
+                          :*. *:.  ..*       :**                * : : * :   *
+
+SARS-urbani      PVPYCYDTNLLEGSISYSELRPDTRYVLMDGSIIQFPNTYLEGSVRVVTTFDAEYCRHGT
+SARS-2020        QLPFFY----------YSDSPCESH-----------------GK-QVVSDID--------
+Betacov          PLPFFY----------YSTTPCEVH-----------------GNGSMIEDID--------
+Mers             PLPFFY----------YSTTPCEVH-----------------GNGSMIEDID--------
+                  :*: *          **    : .                 *.  ::  :*        
+
+SARS-urbani      CERSEVGICLSTSGRWVLNNEHYRALSGVFCGVDAMNLIANIFTPLVQPVGALDVSASVV
+SARS-2020        ----------------------YVPLKSATC-ITRCNL----------------------
+Betacov          ----------------------YVPLKSAVC-ITACNL----------------------
+Mers             ----------------------YVPLKSAVC-ITACNL----------------------
+                                       * .*... * :   **                      
+
+SARS-urbani      AGGIIAILVTCAAYYFMKFRRVFGEYNHVVAANALLFLM-SFTILCLVPAYSFLPGVYSV
+SARS-2020        -GGAV------CRHHANEYRLYLDAYNMMISAGFSLWVYKQFDTYNLWNTFTRLQSLENV
+Betacov          -GGAV------CRKHATEYREYMEAYNLVSASGFRLWCYKTFDIYNLWSTFTKVQGLENI
+Mers             -GGAV------CRKHATEYREYMEAYNLVSASGFRLWCYKTFDIYNLWSTFTKVQGLENI
+                  ** :      .  :  ::*  :  ** : ::.  *:    *    *  ::: : .: .:
+
+SARS-urbani      FYLYLTFYFTNDVSFLAHLQWFAMFSPIVPFWITAIYVFCISLKHCHWFFNNYLRKRVMF
+SARS-2020        -----AFNVVNKGHFDGQ-------QGEVPV--------------------------SII
+Betacov          -----AFNFVKQGHFIGV-------EGELPV--------------------------AVV
+Mers             -----AFNVVKQGHFIGV-------EGELPV--------------------------AVV
+                      :* ..:.  * .        .  :*.                           :.
+
+SARS-urbani      NGVTFSTFEEAALCTFLLNKEMYLKLRSETLLPLTQYNRYLALYNKYKYFSGALDTTSYR
+SARS-2020        NNTVYTKVDGVDVELF----------ENKTTLPV---NVAFELWAK-------------R
+Betacov          NDKIFTKSGVNDICMF----------ENKTTLPT---NIAFELYAK-------------R
+Mers             NDKIFTKSGVNDICMF----------ENKTTLPT---NIAFELYAK-------------R
+                 *.  ::.     :  *           .:* **    *  : *: *             *
+
+SARS-urbani      EAACCHLAKALNDFSNSGADVLYQPPQTSITSAVLQSGFRKMAFPSGKVEGCMVQVTCGT
+SARS-2020        NIKPVPEVKILNNL---GVDIAAN--------TVI-WDYKR-------------DAPAHI
+Betacov          AVRSHPDFKLLHNL---QADICYK--------FVL-WDYER-------------SNIYGT
+Mers             AVRSHPDFKLLHNL---QADICYK--------FVL-WDYER-------------SNIYGT
+                         * *:::    .*:  :         *:  .: .             .     
+
+SARS-urbani      TTLNGLWLDDTVYCPRHVICT-----AEDMLNPNYEDLLIRKSNHSFLVQAGNVQLRVIG
+SARS-2020        STIGVCSMTDIAKKPTETICAPLTVFFDGRVDGQVD--LFRNARNGVLITEGSVK-----
+Betacov          ATIGVCKYTDIDVNSALNIC------FDIRDNGSLE--KFMSTPNAIFISDRKIK-----
+Mers             ATIGVCKYTDIDVNSALNIC------FDIRDNCSLE--KFMSTPNAIFISDRKIK-----
+                 :*:.     *    .   **       :   : . :   : .: :..::   .::     
+
+SARS-urbani      HSMQNCLLRLKVDTSNPKTPKYKFVRIQPGQTFSVLACYNGSPSGVYQCAMRPNHTIKGS
+SARS-2020        ---------------------------------------------GLQPSVGPKQ----A
+Betacov          ---------------------------------------------KYPCMVGPDY----A
+Mers             ---------------------------------------------KYPCMVGPDY----A
+                                                                   : *.     :
+
+SARS-urbani      FLNGSCGSVGFNIDYDCVSFCYMHHMELPTGVHAGTDLEGKFYGP----FVDRQTAQAAG
+SARS-2020        SLNGVT-LIGEAVKTQ---FNYYKK------------VDGVVQQLPETYFTQSRNLQEFK
+Betacov          YFNGAI-IRDSDVVKQPVKFYLYKK------------VNNEFIDPTECIYTQSRSCSDFL
+Mers             YFNGAI-IRDSDVVKQPVKFYLYKK------------VNNEFIDPTECIYTQSRSCSDFL
+                  :**     .  :  :   *   ::            ::. .       :.: .. .   
+
+SARS-urbani      TDTTITLNVLAWLYAAVINGDRWFLNRFTTTLNDFNLVAMKYNYEPLTQDHVDILGPLSA
+SARS-2020        PRSQMEIDFLEL---------------------AMDEFIERYKLEGYAFEHI-VYGDFS-
+Betacov          PLSDMEKDFLSF---------------------DSDVFIKKYGLENYAFEHV-VYGDFS-
+Mers             PLSDMEKDFLSF---------------------DSDVFIKKYGLENYAFEHV-VYGDFS-
+                 . : :  :.*                         : .  .*  *  : :*: : * :* 
+
+SARS-urbani      QTGIAVLDMCAALKELLQNGMNGRTILGSTILEDEFTPFDVVRQCSGVTFQGKFKKIVKG
+SARS-2020        HSQLGGLHLLIGLAKRFKES---------PFELEDFIPMDSTVKN---------------
+Betacov          HTTLGGLHLLIGLYKKQQEG---------HIIMEEMLKGSSTIHN---------------
+Mers             HTTLGGLHLLIGLYKKQQEG---------HIIMEEMLKGSSTIHN---------------
+                 :: :. * :  .* :  ::.          :  :::   . . :                
+
+SARS-urbani      THHWMLLTFLTSLLILVQSTQWSLFFFVYENAFLPFTLGIMAIAACAMLLVKHKHAFLCL
+SARS-2020        -------------------------YFITDAQTGSSK------CVCSVIDLLLDD-FVEI
+Betacov          -------------------------YFITETNTAAFK------AVCSVIDLKLDD-FVMI
+Mers             -------------------------YFITETNTAAFK------AVCSVIDLKLDD-FVMI
+                                          :*: :    . .      ..*::: :  .  *: :
+
+SARS-urbani      FLLPSLATVAYFNMVYMPASWVM-RIMTWLELADTSLSGYRLKDCVMYASALVLLILMTA
+SARS-2020        IKSQDLSVVS--KVVKVTIDYTEISFMLWCKDGHVETFYPKLQSSQAWQPGVAM------
+Betacov          LKSQDLGVVS--KVVKVPIDLTMIEFMLWCKDGQVQTFYPRLQASADWKPGHAM------
+Mers             LKSQDLGVVS--KVVKVPIDLTMIEFMLWCKDGQVQTFYPRLQASADWKPGHAM------
+                 :   .*..*:  ::* :. . .   :* * : . ..    .*: .  : .. .:      
+
+SARS-urbani      RTVYDDAARRVWTLMNVITLVYKVYYGNALDQAISMWALVISVTSNYSGVVTTIMFLARA
+SARS-2020        ------------------------------------------------------------
+Betacov          ------------------------------------------------------------
+Mers             ------------------------------------------------------------
+                                                                             
+
+SARS-urbani      IVFVCVEYYPLLFITGNTLQCIMLVYCFLGYCCCCYFGLFCLLNRYFRLTLGVYDYLVST
+SARS-2020        ---------PNLY----KMQRMLLEKCDL-----QNYGDSATLPKGIMMNVAKYTQLC--
+Betacov          ---------PSLF----KVQNVNLERCEL-----ANYKQSIPMPRGVHMNIAKYMQLC--
+Mers             ---------PSLF----KVQNVNLERCEL-----ANYKQSIPMPRGVHMNIAKYMQLC--
+                          * *:    .:* : *  * *       :     : . . :.:. *  *   
+
+SARS-urbani      QEFRYMNSQGLLPPKSSIDAFKLNIKLLGIGGKPCIKVATVQSKMSDVKCTSVVLLSVLQ
+SARS-2020        ---QYLNTLTLAVP------YNMRVIHFGAGSDKGVAPGT----------------AVLR
+Betacov          ---QYLNTCTLAVP------ANMRVIHFGAGSDKGIAPGT----------------SVLR
+Mers             ---QYLNTCTLAVP------ANMRVIHFGAGSDKGIAPGT----------------SVLR
+                    .*:*:  *  *       ::.:  :* *..  :  .*                :**.
+
+SARS-urbani      QLRVESSSKLWAQCVQLHNDILLAKDTTEAFEKMVSLLSVLLSMQGAVDINRLCEEMLDN
+SARS-2020        Q---------W-----LPTGTLLVDSDLNDF-----------------------------
+Betacov          Q---------W-----LPTDAIIIDNDLNEF-----------------------------
+Mers             Q---------W-----LPTDAIIIDNDLNEF-----------------------------
+                 *         *     * .. :: ..  : *                             
+
+SARS-urbani      RATLQAIASEFSSLPSYAAYATAQEAYEQAVANGDSEVVLKKLKKSLNVAKSEFDRDAAM
+SARS-2020        ------------------------------VSDADSTLI-----------------GDCA
+Betacov          ------------------------------VSDADITLF-----------------GDCV
+Mers             ------------------------------VSDADITLF-----------------GDCV
+                                               *::.*  :.                 . . 
+
+SARS-urbani      QRKLEKMADQAMTQMYKQARSEDKRAKVTSAMQTMLFTMLRKLDNDALNNIINNARDGCV
+SARS-2020        TVHTANKWDLIISDMYD---PKTKNVTKENDSKEGFFTYICGFIQQKL------ALGGSV
+Betacov          TVRVGQQVDLVISDMYD---PTTKNVTGSNESKALFFTYLCNLINNNL------ALGGSV
+Mers             TVRVGQQVDLVISDMYD---PTTKNVTGSNESKALFFTYLCNLINNNL------ALGGSV
+                   .  :  *  :::**.   .  *...  .  :  :** :  : :: *      * .*.*
+
+SARS-urbani      PLNIIPLTTAAKLMVVVPDYGTYKNTCDGNTFTYASALWEIQQVVDADSKIVQLSEINMD
+SARS-2020        AIKITEHSWNADLYKLMGHFA-----------------W---------------------
+Betacov          AIKITEHSWSVELYELMGKFA-----------------W---------------------
+Mers             AIKITEHSWSVELYELMGKFA-----------------W---------------------
+                 .::*   :  ..*  ::  :.                 *                     
+
+SARS-urbani      NSPNLAWPLIVTALRANSAVKLQNNELSPVALRQMSCAAGTTQTACTDDNALAYYNNSKG
+SARS-2020        ------WTAFVTNVNASSS------EAFLIGCNYLGKPREQIDGYVMHANYIFWRNTNP-
+Betacov          ------WTVFCTNANASSS------EGFLLGINYLGTIKENIDGGAMHANYIFWRNSTP-
+Mers             ------WTVFCTNANASSS------EGFLLGINYLGTIKENIDGGAMHANYIFWRNSTP-
+                       *. : *  .*.*:      *   :. . :.      :      * : : *..  
+
+SARS-urbani      GRFVLALLSDHQDLKWARFPKSDGTGTIYTELEPPCRFVTDTPKGPKVKYLYFIKGLNNL
+SARS-2020        -----IQLSSYSLFDMSKFPLK-------------------------------LRG----
+Betacov          -----MNLSTYSLFDLSKFQLK-------------------------------LKG----
+Mers             -----MNLSTYSLFDLSKFQLK-------------------------------LKG----
+                        ** :. :. :.*  .                               :.*    
+
+SARS-urbani      NRGMVLGSLAATVRLQAGNATEVPANSTVLSFCAFAVDPAKAYKDYLASGGQPITNCVKM
+SARS-2020        ---------TAVMSLKEGQINDM---------------------------------ILSL
+Betacov          ---------TPVLQLKESQINEL---------------------------------VISL
+Mers             ---------TPVLQLKESQINEL---------------------------------VISL
+                          :..: *: .: .::                                  :.:
+
+SARS-urbani      LCTHTGTGQAITVTPEANMDQESFGGASCCLYCRCHIDHPNPKGFCDLKGKYVQIPTTCA
+SARS-2020        LS----------------------------------------------KGRLI-------
+Betacov          LS----------------------------------------------QGKLL-------
+Mers             LS----------------------------------------------QGKLL-------
+                 *.                                              :*. :       
+
+SARS-urbani      NDPVGFTLRNTVCTVCGMWKGYGCSCDQLREPLMQSADASTFLNGFAV--
+SARS-2020        ----------------------------IRENNRVVISSDVLVNN-----
+Betacov          ----------------------------IRDNDTLSVSTDVLVNTYRKLR
+Mers             ----------------------------IRDNDTLSVSTDVLVNTYRKLR
+                                             :*:      .:..::*      
