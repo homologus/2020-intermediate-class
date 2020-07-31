@@ -1,0 +1,43 @@
+from Bio import SeqIO
+reads=list (SeqIO.parse("/share/SARS/SARS-2020.fasta","fasta"))
+greaterthan100=0
+proteinsgreaterthan100list=[]
+for i in reads:
+	print("reading frame 1")
+	s= i.seq[0:]
+	trans=(s.translate())
+	prsdseq=str(trans).split("*")
+#	print(prsdseq)
+	for g in prsdseq:
+		if len(g)> 99:
+			greaterthan100=greaterthan100+1
+			proteinsgreaterthan100list.append(g)
+
+	print("reading frame 2")
+	s=i.seq[1:]
+	trans=(s.translate())
+	prsdseq=str(trans).split("*")
+#	print(prsdseq)
+	for g in prsdseq:
+		if len(g)> 99:
+			greaterthan100=greaterthan100+1
+			proteinsgreaterthan100list.append(g)
+
+	print("reading frame 3")
+	s=i.seq[2:]
+	trans=(s.translate())
+	prsdseq=str(trans).split("*")
+	print(prsdseq)
+	for g in prsdseq:
+		if len(g)> 99:
+			greaterthan100=greaterthan100+1
+			proteinsgreaterthan100list.append(g)
+
+count=0
+for f in trans:
+	if (f=="*"):
+		count=count+1
+print("total number of genes:",count)	
+print("number of genes larger than 100:",greaterthan100)
+print("Proteins larger than 100", proteinsgreaterthan100list)
+print("hi",proteinsgreaterthan100list[9], "legnth",len(proteinsgreaterthan100list[0]))
