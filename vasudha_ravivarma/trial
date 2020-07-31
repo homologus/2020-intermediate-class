@@ -1,0 +1,2 @@
+blastn -query nucl.fasta -db /share/Human/chr12.fa -out matches.txt -evalue 1e-100
+

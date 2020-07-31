@@ -1,0 +1,30 @@
+from Bio import SeqIO
+reads=list(SeqIO.parse("/share/Human/chr12.fa", "fasta"))
+sequence=(reads.str[0].seq)
+g=(sequence[111803961])
+for i in sequence:
+	trans=(sequence.translate())
+	prsdseq=str(trans).split("*")
+	if prsdseq.find(sequence[111803961]):
+		print(prsdseq)
+#	for l in prsdseq:
+#		if l  == 111803961:
+#			print(prsdeq)
+#	print("reading frame 2")
+#	s=i.seq[1:]
+#	trans=(s.translate())
+#	prsdseq=str(trans).split("*")
+#	print(prsdseq)
+#	for l in prsdseq:
+#		if l  == 111803961:
+#			print(prsdeq)
+#       
+#	print("reading frame 3")
+#	s=i.seq[2:]
+#	trans=(s.translate())
+#	prsdseq=str(trans).split("*")
+#	print(prsdseq)
+#	for l in prsdseq:
+#		if l == 111803961:
+#			print(prsdeq)
+
