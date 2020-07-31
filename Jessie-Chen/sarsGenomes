@@ -1,0 +1,43 @@
+
+from Bio import SeqIO
+
+read = list(SeqIO.parse("/share/SARS/nature-2013.fasta","fasta") 
+
+for i in read:
+    frame1 = i.seq[0:]
+    frame2 = i.seq[1:]
+    frame3 = i.seq[2:]
+prot1=frame1.translate()
+prot1_str=str(prot1)
+fragments1 = prot1_str.split("*")
+
+prot2=frame2.translate()
+prot2_str=str(prot2)
+fragments2 = prot2_str.split("*")
+
+prot3=frame3.translate()
+prot3_str=str(prot3)
+fragments3 = prot3_str.split("*")
+
+
+numLongSeq = 0
+numLongSeq2 = 0
+numLongSeq3 = 0
+
+
+for i in range(0,len(fragments1)):
+        untested = fragments1[i]
+        if len(untested) >= 100:
+                numLongSeq = numLongSeq + 1
+                print(untested+"//")
+for i in range(0,len(fragments2)):
+        untested = fragments2[i]
+        if len(untested) >= 100:
+                numLongSeq = numLongSeq + 1
+                print(untested+"//")
+for i in range(0,len(fragments3)):
+        untested = fragments3[i]
+        if len(untested) >= 100:
+                numLongSeq = numLongSeq + 1
+                print(untested+"//")
+

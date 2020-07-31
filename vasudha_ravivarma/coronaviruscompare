@@ -1,0 +1,742 @@
+MUSCLE (3.8) multiple sequence alignment
+
+
+Bat_coronavirus                       PKGKMESLVLGVNEKTHVQLSLPVLQVRDVLVRGFGDSVEEALSEAREHLKNGTCGLVEL
+SARS_Coronavirus_from_2003            PKGKMESLVLGVNEKTHVQLSLPVLQVRDVLVRGFGDSVEEALSEAREHLKNGTCGLVEL
+Bat_Coronavirus_2                     PKGKMESLVLGVNEKTHVQLSLPVLQVRDVLVRGFGDSVEEALSEAREHLKNGTCGLVEL
+Beta_Coronavirus                      ------------------------------------------------------------
+MERS_Coronavirus*                     ------------------------------------------------------------
+Coronavirus_from_pangolin             ------------------------------------------------------------
+SARS-2_Coronavirus_from_first_pa      ------------------------------------------------------------
+SARS-2_Coronavirus_from_Wuhan         ------------------------------------------------------------
+                                                                                                  
+
+Bat_coronavirus                       EKGVLPQLEQPYVFIKRSDALSTNHGHKVVELVAELDGIQFGRSGITLGVLVPHVGETPI
+SARS_Coronavirus_from_2003            EKGVLPQLEQPYVFIKRSDALSTNHGHKVVELVAEMDGIQYGRSGITLGVLVPHVGETPI
+Bat_Coronavirus_2                     EKGVLPQLEQPYVFIKRSDALSTNHGHKVVELVAELDGIQYGRSGITLGVLVPHVGETPI
+Beta_Coronavirus                      ----------RFQFFKRV------------------------RGSIVNARIEPC------
+MERS_Coronavirus*                     ----------RFQFFKRV------------------------RGSIVNARIEPC------
+Coronavirus_from_pangolin             ----------CTVVFKRV-------------------------CGVSAARLTPC------
+SARS-2_Coronavirus_from_first_pa      ----------CTIVFKRV-------------------------CGVSAARLTPC------
+SARS-2_Coronavirus_from_Wuhan         ----------CTIVFKRV-------------------------CGVSAARLTPC------
+                                                   .:**                           .:  . : *       
+
+Bat_coronavirus                       AYRNVLLRKNGNKGAGGHSFGIDLKSYDLGDELGTDPIEDYEQNWNTKHGSGALRELTRE
+SARS_Coronavirus_from_2003            AYRNVLLRKNGNKGAGGHSYGIDLKSYDLGDELGTDPIEDYEQNWNTKHGSGALRELTRE
+Bat_Coronavirus_2                     AYRNVLLRKNGNKGAGGHSFGIDLKSYDLGDELGTDPIEDYEQNWNTKHGSGVLRELTRE
+Beta_Coronavirus                      --------------SSGLSTDVVFRAFDIC-------------NYKAKVAG---------
+MERS_Coronavirus*                     --------------SSGLSTDVVFRAFDIC-------------NYKAKVAG---------
+Coronavirus_from_pangolin             --------------GTGTSTDVVYRAFDI---------------YNEKVAG---------
+SARS-2_Coronavirus_from_first_pa      --------------GTGTSTDVVYRAFDI---------------YNDKVAG---------
+SARS-2_Coronavirus_from_Wuhan         --------------GTGTSTDVVYRAFDI---------------YNDKVAG---------
+                                                    . * * .:  .::*:               :: * ..         
+
+Bat_coronavirus                       LNGGVVTRYVDNNFCGPDGYPLECIKDFLARAGKSMCTLSEQLDYIESKRGVYCCREHEH
+SARS_Coronavirus_from_2003            LNGGAVTRYVDNNFCGPDGYPLDCIKDFLARAGKSMCTLSEQLDYIESKRGVYCCRDHEH
+Bat_Coronavirus_2                     LNGGAFTRYVDNNFCGPDGYPLDCIKDFLARAGKSMCTLSEQLDYIESKRGVYCCRDHEH
+Beta_Coronavirus                      -----IGKYYKTNTC-------------------RFVELDDQGHHLDS---YFVVKRHTM
+MERS_Coronavirus*                     -----IGKYYKTNTC-------------------RFVELDDQGHHLDS---YFVVKRHTM
+Coronavirus_from_pangolin             -----FAKFLKTNCC-------------------RFQEKDEDGNLIDS---YFIVKRHTF
+SARS-2_Coronavirus_from_first_pa      -----FAKFLKTNCC-------------------RFQEKDEDDNLIDS---YFVVKRHTF
+SARS-2_Coronavirus_from_Wuhan         -----FAKFLKTNCC-------------------RFQEKDEDDNLIDS---YFVVKRHTF
+                                           . .: ..* *                    :   .::   ::*    :  . *  
+
+Bat_coronavirus                       EIVWFTERSEKSYEHQTPFEIKSAKKFDTFKGECPK------FVFPLNSKVKVIQPRVEK
+SARS_Coronavirus_from_2003            EIAWFTERSDKSYEHQTPFEIKSAKKFDTFKGECPK------FVFPLNSKVKVIQPRVEK
+Bat_Coronavirus_2                     EVAWFTERSDKSYEHQTPFEIKSAKKFDTFKGECPK------FVFPLDSKVKVIQPRVEK
+Beta_Coronavirus                      E----------NYELEKHC-------YDLLR-DCDAVAPHDFFIFDVD---KVKTPHIVR
+MERS_Coronavirus*                     E----------NYELEKHC-------YDLLR-DCDAVAPHDFFIFDVD---KVKTPHIVR
+Coronavirus_from_pangolin             S----------NYQHEEAI-------YNLLK-DCPAVAVHDFFKFRVD---GDMVPHISR
+SARS-2_Coronavirus_from_first_pa      S----------NYQHEETI-------YNLLK-DCPAVAKHDFFKFRID---GDMVPHISR
+SARS-2_Coronavirus_from_Wuhan         S----------NYQHEETI-------YNLLK-DCPAVAKHDFFKFRID---GDMVPHISR
+                                      .          .*: :          :: :. :*        * * ::       *.: .
+
+Bat_coronavirus                       KKTEGFMGRIRSVYPVATPQECNDMHL-STLMKCNHCDEVSWQTCDFLKATCEQCGTENL
+SARS_Coronavirus_from_2003            KKTEGFMGRIRSVYPVASPQECNNMHL-STLMKCNHCDEVSWQTCDFLKATCEHCGTENL
+Bat_Coronavirus_2                     KKTEGFMGRIRSVYPVASPQECNNMHL-STLMKCNHCDEVSWQTCDFLKATCEHCGTENS
+Beta_Coronavirus                      QRLTEYT-MMDLVYALRHFDQ-NSEVLKAILVKYGCCDVTYFENKLWFD-----------
+MERS_Coronavirus*                     QRLTEYT-MMDLVYALRHFDQ-NSEVLKAILVKYGCCDVTYFENKLWFD-----------
+Coronavirus_from_pangolin             QRLTKYT-MADLVYALRHFDEGNCDTLKEILVTYNCCTDDYFNKKDWYD-----------
+SARS-2_Coronavirus_from_first_pa      QRLTKYT-MADLVYALRHFDEGNCDTLKEILVTYNCCDDDYFNKKDWYD-----------
+SARS-2_Coronavirus_from_Wuhan         QRLTKYT-MADLVYALRHFDEGNCDTLKEILVTYNCCDDDYFNKKDWYD-----------
+                                      :.   :      **.:   :: *   *   *:. . *    ::.  : .           
+
+Bat_coronavirus                       VCEGPTTCGYLPTNAVVKMPCPACQDPEVGPEHSVADYHNHSNIETRLRKGGRTKCFGGC
+SARS_Coronavirus_from_2003            VIEGPTTCGYLPTNAVVKMPCPACQDPEIGPEHSVADYHNHSNIETRLRKGGRTRCFGGC
+Bat_Coronavirus_2                     VTEGPTTCGYLPTNAVVKMPCPACQDPEIGPEHSVADYHNHSNIETRLRKGGRTRCFGGC
+Beta_Coronavirus                      FVENPSVIG---------------------------------------------------
+MERS_Coronavirus*                     FVENPSVIG---------------------------------------------------
+Coronavirus_from_pangolin             FVENPDILR---------------------------------------------------
+SARS-2_Coronavirus_from_first_pa      FVENPDILR---------------------------------------------------
+SARS-2_Coronavirus_from_Wuhan         FVENPDILR---------------------------------------------------
+                                      . *.*                                                       
+
+Bat_coronavirus                       VFSYVGCYNKRAYWVPRASANIGANHTGITGENVETLNEDLLEILNRERVNINIVGDFRF
+SARS_Coronavirus_from_2003            VFAYVGCYNKRAYWVPRASADIGSGHTGITGDNVETLNEDLLEILSRERVNINIVGDFHL
+Bat_Coronavirus_2                     VFAYVGCYNKRAYWVPRASADIGSGHTGITGDNVETLNEDLLEILSRERVNINIVGDFQL
+Beta_Coronavirus                      VYHKLG-----------------------------------------ERVRQAILNTVKF
+MERS_Coronavirus*                     VYHKLG-----------------------------------------ERVRQAILNTVKF
+Coronavirus_from_pangolin             VYANLG-----------------------------------------ERVRQALLKTVQF
+SARS-2_Coronavirus_from_first_pa      VYANLG-----------------------------------------ERVRQALLKTVQF
+SARS-2_Coronavirus_from_Wuhan         VYANLG-----------------------------------------ERVRQALLKTVQF
+                                      *:  :*                                         ***.  ::  ..:
+
+Bat_coronavirus                       NEEVAIILASFSASPSAFIETVKGLDYKSFKVIVESCGNYKVTNGEPVTGAWNIGQQRSI
+SARS_Coronavirus_from_2003            NEEVAIILASFSASTSAFIDTIKSLDYKSFKTIVESCGNYKVTKGKPVKGAWNIGQQRSV
+Bat_Coronavirus_2                     NEEVAIILASFSASTSAFIDTIRSLDYKSFKAIVESCGNYKVTKGKPVKGAWNIGQQRSV
+Beta_Coronavirus                      CDHMV----------KAGLVGVLTLDNQDLNGKWYDFGDFVIT--QPGSGVAIVDSYYSY
+MERS_Coronavirus*                     CDHMV----------KAGLVGVLTLDNQDLNGKWYDFGDFVIT--QPGSGVAIVDSYYSY
+Coronavirus_from_pangolin             CDAMR----------DAGIVGVLTLDNQDLNGNWYDFGDFIQT--TPGSGVPIVDSYYSL
+SARS-2_Coronavirus_from_first_pa      CDAMR----------NAGIVGVLTLDNQDLNGNWYDFGDFIQT--TPGSGVPVVDSYYSL
+SARS-2_Coronavirus_from_Wuhan         CDAMR----------NAGIVGVLTLDNQDLNGNWYDFGDFIQT--TPGSGVPVVDSYYS-
+                                       : :           .* :  :  ** :.::    . *::  *   * .*.  :..  * 
+
+Bat_coronavirus                       LTPLCGFPSQAAGVIRSIFSRTLDAANHSILDLQRAAVTTLDGISEQSLRLVDAMVYTSD
+SARS_Coronavirus_from_2003            LTPLCGFPSQAAGVIRSIFARTLDAANHSIPDLQRAAVTILDGISEQSLRLVDAMVYTSD
+Bat_Coronavirus_2                     LTPLCGFPSQAAGVIRSIFARTLDAANHSIPDLQRAAVTILDGISEQSLRLVDVMVYTSD
+Beta_Coronavirus                      LMPVLS------------MTDCLAAETHRDCDFNKPLIE---------------------
+MERS_Coronavirus*                     LMPVLS------------MTDCLAAETHRDCDFNKPLIE---------------------
+Coronavirus_from_pangolin             LMPILT------------LTRALAAESHLDADLTKPYVK---------------------
+SARS-2_Coronavirus_from_first_pa      LMPILT------------LTRALTAESHVDTDLTKPYIK---------------------
+SARS-2_Coronavirus_from_Wuhan         ------------------------------------------------------------
+                                                                                                  
+
+Bat_coronavirus                       LLTNSVVVMAYVTGGLVQQTMQWLSNMLGTAVDKLKPVFTWVEAKLSAGVEFLRDAWEIL
+SARS_Coronavirus_from_2003            LLTNSVIIMAYVTGGLVQQTSQWLSNLLGTTVEKLRPIFEWIEAKLSAGVEFLKDAWEIL
+Bat_Coronavirus_2                     LLTNSVIIMAYVTGGLVQQTSQWLSNLLGTTVEKLRPIFVWIEAKLSAGVEFLKDAWEIL
+Beta_Coronavirus                      --------------------------------------------------------WPLT
+MERS_Coronavirus*                     --------------------------------------------------------WPLT
+Coronavirus_from_pangolin             --------------------------------------------------------WDLL
+SARS-2_Coronavirus_from_first_pa      --------------------------------------------------------WDLL
+SARS-2_Coronavirus_from_Wuhan         ------------------------------------------------------------
+                                                                                                  
+
+Bat_coronavirus                       KFLITGVFDVIKGQIQVATDNIKECVKIFLGVVNKALEMCLDQVTIAGTKLRALNLGEVF
+SARS_Coronavirus_from_2003            KFLITGVFDIVKGQIQVASDNIKDCVKCFIDVVNKALEMCIDQVTIAGAKLRSLNLGEVF
+Bat_Coronavirus_2                     KFLITGVFDIVKGQIQVASDNIKGCVKCFIDVVNKALEMCIDQVTIAGTKLRSLNLGEVF
+Beta_Coronavirus                      E------YDFTDYKVQL----FEKYFKYWDQTYHANCVNCTDD-----------------
+MERS_Coronavirus*                     E------YDFTDYKVQL----FEKYFKYWDQTYHANCVNCTDD-----------------
+Coronavirus_from_pangolin             K------YDFTEERLNL----FNRYFKYWDQTYHPNCVNCLDD-----------------
+SARS-2_Coronavirus_from_first_pa      K------YDFTEERLKL----FDRYFKYWDQTYHPNCVNCLDD-----------------
+SARS-2_Coronavirus_from_Wuhan         ------------------------------------------------------------
+                                                                                                  
+
+Bat_coronavirus                       IAQSRGLYRQCIRGKEQLQLLMPLKAPKEVTFLEGDAHDTVLTSEEVVLKSGELEALETP
+SARS_Coronavirus_from_2003            IAQSKGLYRQCIRGKEQLQLLMPLKAPKEVTFLEGDSHDTVLTSEEVVLKNGELEALETP
+Bat_Coronavirus_2                     IAQSKGLYRQCIRGKEQLQLLMPLKAPKEVTFLEGDSHDTVLTSEEVVLKNGELEALETP
+Beta_Coronavirus                      ---------RCVLHCANFNVLFAMTMP---------------------------------
+MERS_Coronavirus*                     ---------RCVLHCANFNVLFAMTMP---------------------------------
+Coronavirus_from_pangolin             ---------RCILHCANFNVLFSTVFP---------------------------------
+SARS-2_Coronavirus_from_first_pa      ---------RCILHCANFNVLFSTVFP---------------------------------
+SARS-2_Coronavirus_from_Wuhan         ------------------------------------------------------------
+                                                                                                  
+
+Bat_coronavirus                       IDSFTSGAVVGTPVCINGLMLLELENKEQYCALSPGLLATNNVFRLKGGAPVKGVTFGED
+SARS_Coronavirus_from_2003            VDSFTNGAIVGTPVCVNGLMLLEIKDKEQYCALSPGLLATNNVFRLKGGAPIKGVTFGED
+Bat_Coronavirus_2                     VDSFTNGAVVGTPVCVNGLMLLEIKDKEQYCALSPGLLATNNVFRLKGGAPTKVVTFGED
+Beta_Coronavirus                      ------------KTCFGPIV------RKIFVDGVPFVVSCGYHYKELGLVMNMDVSL---
+MERS_Coronavirus*                     ------------KTCFGPIV------RKIFVDGVPFVVSCGYHYKELGLVMNMDVSL---
+Coronavirus_from_pangolin             ------------PTSFGPLV------RKIFVDGVPFVVSTGYHFRELGVVHNQDVNI---
+SARS-2_Coronavirus_from_first_pa      ------------PTSFGPLV------RKIFVDGVPFVVSTGYHFRELGVVHNQDVNL---
+SARS-2_Coronavirus_from_Wuhan         ------------------------------------------------------------
+                                                                                                  
+
+Bat_coronavirus                       TVLEVQGYKNVKITFE--LDERVDKVLNEKCSVYTVESGTEVTEFACVVAEAVVKTLQPV
+SARS_Coronavirus_from_2003            TVWEVQGYKNVRITFE--LDERVDKVLNEKCSVYTVESGTEVTEFACVVAEAVVKTLQPV
+Bat_Coronavirus_2                     TVLEVQGYKNVRITFE--LDERVDKVLNEKCSVYTVESGTEVTEFACVVAEAVVKTLQPV
+Beta_Coronavirus                      --------HRHRLSLKELMMYAADPAMHIASSNAFLDLRTSCFSVAALTTGLTFQTVRP-
+MERS_Coronavirus*                     --------HRHRLSLKELMMYAADPAMHIASSNAFLDLRTSCFSVAALTTGLTFQTVRP-
+Coronavirus_from_pangolin             --------HSSRLSFKELLVYAADPAMHAASGNLLLDKRTTCFSVAALTNNVAFQTVKP-
+SARS-2_Coronavirus_from_first_pa      --------HSSRLSFKELLVYAADPAMHAASGNLLLDKRTTCFSVAALTNNVAFQTVKP-
+SARS-2_Coronavirus_from_Wuhan         ------------------------------------------------------------
+                                                                                                  
+
+Bat_coronavirus                       SDLLTPMGIDLDEWSVATFYLFDDAGEEKLSSRMYCSFYPPDEEEDCEECEDEE----ET
+SARS_Coronavirus_from_2003            SDLLTNMGIDLDEWSVATFYLFDDAGEENFSSRMYCSFYPPDEEEE-DDAECEEEEIDET
+Bat_Coronavirus_2                     SDLLTNMGIDLDEWSVATFYLFDDAGEEKLSSRMYCSFYPPDDEEDCDEYDEEEEVLEES
+Beta_Coronavirus                      ----GNFNQDFYDFVVSKGFF-----KEGSSVTLKHFFFAQDGNAAITDYNYYSYNLPTM
+MERS_Coronavirus*                     ----GNFNQDFYDFVVSKGFF-----KEGSSVTLKHFFFAQDGNAAITDYNYYSYNLPTM
+Coronavirus_from_pangolin             ----GNFNKDFYDFAVSKGFF-----KEGSSVELKHFFFAQDGNAAISDYDYYRYNLPTM
+SARS-2_Coronavirus_from_first_pa      ----GNFNKDFYDFAVSKGFF-----KEGSSVELKHFFFAQDGNAAISDYDYYRYNLPTM
+SARS-2_Coronavirus_from_Wuhan         ------------------------------------------------------------
+                                                                                                  
+
+Bat_coronavirus                       CEHEYGTEDDYKGLPLEFGASTETPHVEEEEEEEDWLDDAIEA---EPEPEPLPEEPVNQ
+SARS_Coronavirus_from_2003            CEHEYGTEDDYQGLPLEFGASAETVRV-EEEEEEDWLDDTTEQSEIEPEPEPTPEEPVNQ
+Bat_Coronavirus_2                     CAHEYGTEEDYQGLSLEFGASTE-MQV-EEEEEEDWLGDATELSEHEPEPELTPEEPVNQ
+Beta_Coronavirus                      CD-------------------------------------------------------IKQ
+MERS_Coronavirus*                     CD-------------------------------------------------------IKQ
+Coronavirus_from_pangolin             CD-------------------------------------------------------IRQ
+SARS-2_Coronavirus_from_first_pa      CD-------------------------------------------------------IRQ
+SARS-2_Coronavirus_from_Wuhan         ------------------------------------------------------------
+                                                                                                  
+
+Bat_coronavirus                       FVGYLKLTDNVAIKCIDIVKEAQSAKPTVIVNAANTHLKHGGGVAGALNKATNGAMQNES
+SARS_Coronavirus_from_2003            FTGYLKLTDNVAIKCVDIVKEAQSANPMVIVNAANIHLKHGGGVAGALNKATNGAMQKES
+Bat_Coronavirus_2                     FTGYLKLTDNVAIKCVDIVKEAQNANPTVIVNAANIHLKHGGGVAGALNKATNGAMQKES
+Beta_Coronavirus                      M-----------LFCMEVV-----------------------------------------
+MERS_Coronavirus*                     M-----------LFCMEVV-----------------------------------------
+Coronavirus_from_pangolin             L-----------LFVVEVV-----------------------------------------
+SARS-2_Coronavirus_from_first_pa      L-----------LFVVEVV-----------------------------------------
+SARS-2_Coronavirus_from_Wuhan         ------------------------------------------------------------
+                                                                                                  
+
+Bat_coronavirus                       DEYIRQNGPLTVGGSCLLSGHNLAEKCLHVVGPNLNAGEDVQLLKRAYENFNSQDVLLAP
+SARS_Coronavirus_from_2003            DDYIKLNGPLTVGGSCLLSGHNLAKKCLHVVGPNLNAGEDIQLLKAAYENFNSQDILLAP
+Bat_Coronavirus_2                     DDYIKLNGPLVVGGSCLLSGHNLAKKCLHVVGPNLNAGEDIQLLKAAYENFNSQDTLLAP
+Beta_Coronavirus                      NKYFE-----IYDGGCLNASEVVVNNLDKSAGHPFNKFGKARVYYESM-SYQEQDELFA-
+MERS_Coronavirus*                     NKYFE-----IYDGGCLNASEVVVNNLDKSAGHPFNKFGKARVYYESM-SYQEQDELFA-
+Coronavirus_from_pangolin             DKYFD-----CYDGGCINANQVIVNNLDKSAXXXXXXXXXXXXXXXXXXXXXXXXXXX--
+SARS-2_Coronavirus_from_first_pa      DKYFD-----CYDGGCINANQVIVNNLDKSAGFPFNKWGKARLYYDSM-SYEDQDALFA-
+SARS-2_Coronavirus_from_Wuhan         ------------------------------------------------------------
+                                                                                                  
+
+Bat_coronavirus                       LLSAGIFGAKPLQSLKMCVEIVRTQVYLAVNDKSLYDQIVLDYLDSLKPKVESPNKEEEP
+SARS_Coronavirus_from_2003            LLSAGIFGAKPLQSLQVCVQTVRTQVYIAVNDKALYEQVVMDYLDNLKPRVEAPKQEEPP
+Bat_Coronavirus_2                     LLSAGIFGAKPLQSLQVCVQTVRTQVYIAVNDKALYEQVVMDYLDSLKPRVEAPKQEEPP
+Beta_Coronavirus                      --------------------------MTKRNVIPTMTQMNLKYAISAKNRART-------
+MERS_Coronavirus*                     --------------------------MTKRNVIPTMTQMNLKYAISAKNRART-------
+Coronavirus_from_pangolin             --------------------------XXXXXXXXXXXXXXXXXXXXXXXXXXX-------
+SARS-2_Coronavirus_from_first_pa      --------------------------YTKRNVIPTITQMNLKYAISAKNRART-------
+SARS-2_Coronavirus_from_Wuhan         ------------------------------------------------------------
+                                                                                                  
+
+Bat_coronavirus                       KLEEPKAVQ-PVAEKPVDVKPKIKACIDEVTTTLEETKFLTNKLLLFADINGKLYQDSQN
+SARS_Coronavirus_from_2003            NTEDSKTEEKSVVQKPVDVKPKIKACIDEVTTTLEETKFLTNKLLLFADINGKLYHDSQN
+Bat_Coronavirus_2                     RTEDPKIEEKSVVQKPIDVKPKIKACIDEVTTTLEETKFLTNKLLLFADINGKLYHDSHN
+Beta_Coronavirus                      ----------------------------------------VAGVSILSTMTNRQYHQK--
+MERS_Coronavirus*                     ----------------------------------------VAGVSILSTMTNRQYHQK--
+Coronavirus_from_pangolin             ----------------------------------------XXXXXXCSTMTNRQFHQK--
+SARS-2_Coronavirus_from_first_pa      ----------------------------------------VAGVSICSTMTNRQFHQK--
+SARS-2_Coronavirus_from_Wuhan         ------------------------------------------------------------
+                                                                                                  
+
+Bat_coronavirus                       MLRGEDMSFLEKDAPYIVGDVINSGDITCVIIPAKKSGGTTEMLARALKEVPVAEYITTY
+SARS_Coronavirus_from_2003            MLRGEDMSFLEKDAPYMVGDVITSGDITCVVIPSKKAGGTTEMLSRALKKVPVDEYITTY
+Bat_Coronavirus_2                     MLRGEDMSFLEKDAPYVVGDVITSGDITCVVIPSKKAGGTTEMLSRALKKVPVDEYITTY
+Beta_Coronavirus                      ----------------MLKSMAATRGATCVIGTTKFYGGWDFMLKTLYKDVDNPHLM---
+MERS_Coronavirus*                     ----------------MLKSMAATRGATCVIGTTKFYGGWDFMLKTLYKDVDNPHLM---
+Coronavirus_from_pangolin             ----------------LLKSIAATRGATVVIGTSKFYGGWNNMLKTVYSDVENPHLM---
+SARS-2_Coronavirus_from_first_pa      ----------------LLKSIAATRGATVVIGTSKFYGGWHNMLKTVYSDVENPHLM---
+SARS-2_Coronavirus_from_Wuhan         ------------------------------------------------------------
+                                                                                                  
+
+Bat_coronavirus                       PGQGCAGYTLEEAKTALKKCKSAFYVLPSETPNEKEEVLGTVSWNLREMLAHAEETRKLM
+SARS_Coronavirus_from_2003            PGQGCAGYTLEEAKTALKKCKSAFYVLPSEAPNAKEEILGTVSWNLREMLAHAEETRKLM
+Bat_Coronavirus_2                     PGQGCAGYTLEEAKTALKKCKSAFYVLPSETPNAKEEILGTVSWNLREMLAHAEETRKLM
+Beta_Coronavirus                      ------GWDYPKCDRAMP--------------------------NMCRIFASLILARKHG
+MERS_Coronavirus*                     ------GWDYPKCDRAMP--------------------------NMCRIFASLILARKHG
+Coronavirus_from_pangolin             ------GWDYPKCDRAMP--------------------------NMLRIMASLVLARKHT
+SARS-2_Coronavirus_from_first_pa      ------GWDYPKCDRAMP--------------------------NMLRIMASLVLARKHT
+SARS-2_Coronavirus_from_Wuhan         ------------------------------------------------------------
+                                                                                                  
+
+Bat_coronavirus                       PICLDVRAIMATIQRKYKGIKVQEGIVDYGVRFFFYTSKEPVASIITKLNSLNEPLVTMP
+SARS_Coronavirus_from_2003            PICMDVRAIMATIQRKYKGIKIQEGIVDYGVRFFFYTSKEPVASIITKLNSLNEPLVTMP
+Bat_Coronavirus_2                     PICMDVRAIMATIQRKYKGIKVQEGIVDYGVRFFFYTSKEPVASIITKLNSLNEPLVTMP
+Beta_Coronavirus                      TCC--------------------------TTRDRFYRLANECAQVLSEYVLCGGGYYVKP
+MERS_Coronavirus*                     TCC--------------------------TTRDRFYRLANECAQVLSEYVLCGGGYYVKP
+Coronavirus_from_pangolin             TCC--------------------------SLSHRFYRLANECAQVLSEMVMCGGSLYVKP
+SARS-2_Coronavirus_from_first_pa      TCC--------------------------SLSHRFYRLANECAQVLSEMVMCGGSLYVKP
+SARS-2_Coronavirus_from_Wuhan         ------------------------------------------------------------
+                                                                                                  
+
+Bat_coronavirus                       IGYVTHGLNLEEAARCMRSLKA--PAVVSVSSPDAVTAYNGYLTSSSKTPEEYFVETTSL
+SARS_Coronavirus_from_2003            IGYVTHGFNLEEAARCMRSLKA--PAVVSVSSPDAVTTYNGYLTSSSKTSEEHFVETVSL
+Bat_Coronavirus_2                     IGYVTHGFNLEEAARCMRSLKA--PAVVSVSSPDAVTTYNGYLTSSSKTSEEHFVETVSL
+Beta_Coronavirus                      GGTSSGDATTAYANSVFNILQATTANVSALMGANGNKIVDKEVKDMQFDLYVNVYRSTSP
+MERS_Coronavirus*                     GGTSSGDATTAYANSVFNILQATTANVSALMGANGNKIVDKEVKDMQFDLYVNVYRSTSP
+Coronavirus_from_pangolin             GGTSSGDATTAYANSVFNICQAVTANVNALLSTDGNKIGDKYIRNLQHRLYECLYRNRDV
+SARS-2_Coronavirus_from_first_pa      GGTSSGDATTAYANSVFNICQAVTANVNALLSTDGNKIADKYVRNLQHRLYECLYRNRDV
+SARS-2_Coronavirus_from_Wuhan         ------------------------------------------------------------
+                                                                                                  
+
+Bat_coronavirus                       AGSYRDWSYSGQRTELGVEFLKRGDKIVYHTTGSPIEFHLDGEVLPLDKLKSLLSLREVK
+SARS_Coronavirus_from_2003            AGSYRDWSYSGQRTELGVEFLKRGDKIVYHTLESPVEFHLDGEVLSLDKLKSLLSLREVK
+Bat_Coronavirus_2                     AGSYRDWYYSGQRTELGVEFLKRGDKIVYHTLESPVEFHLDGEVLPLDKLKSLLSLREVK
+Beta_Coronavirus                      DPKFVDKYYAFLNKHFSMMILSDDGVVCYNS-----DYAAKGYIAGIQNFKETLYYQN--
+MERS_Coronavirus*                     DPKFVDKYYAFLNKHFSMMILSDDGVVCYNS-----DYAAKGYIAGIQNFKETLYYQN--
+Coronavirus_from_pangolin             DTDFVNEFYAYLRKHFSMMILSDDAVVCFNS-----TYASQGLVASIKNFKSVLYYQN--
+SARS-2_Coronavirus_from_first_pa      DTDFVNEFYAYLRKHFSMMILSDDAVVCFNS-----TYASQGLVASIKNFKSVLYYQN--
+SARS-2_Coronavirus_from_Wuhan         ------------------------------------------------------------
+                                                                                                  
+
+Bat_coronavirus                       TIKVFTTVDNTNLHTHIVDMSMTYGQQFGPTYLDGADVTKIKPHVNHEGKTFFVLPSDDT
+SARS_Coronavirus_from_2003            TIKVFTTVDNTNLHTQLVDMSMTYGQQFGPTYLDGADVTKIKPHVNHEGKTFFVLPSDDT
+Bat_Coronavirus_2                     TIKVFTTVDNTNLHTQLVDMSMTYGQQFGPTYLDGADVTKIKPHVNHEGKTFFVLPSDDT
+Beta_Coronavirus                      --NVFMSEAKCWVETDLKK---------GPHEFCSQHTLYIK-----DGDDGYFLPYPDP
+MERS_Coronavirus*                     --NVFMSEAKCWVETDLKK---------GPHEFCSQHTLYIK-----DGDDGYFLPYPDP
+Coronavirus_from_pangolin             --NVFMSEAKCWTETDLTK---------DLHEFCSQHTMLVK-----QGDDYVYLPYPDP
+SARS-2_Coronavirus_from_first_pa      --NVFMSEAKCWTETDLTK---------GPHEFCSQHTMLVK-----QGDDYVYLPYPDP
+SARS-2_Coronavirus_from_Wuhan         ------------------------------------------------------------
+                                                                                                  
+
+Bat_coronavirus                       LRSEAFEYYHTIDESFLGRYMSALNHTKKWKFPQVGGLTSIKWADNNCYLSSVLLALQQV
+SARS_Coronavirus_from_2003            LRSEAFEYYHTLDESFLGRYMSALNHTKKWKFPQVGGLTSIKWADNNCYLSSVLLALQQL
+Bat_Coronavirus_2                     LRSEAFEYYHTLDESFLGRYMSALNHTKKWKFPQVGGLTSIKWADNNCYLSSVLLALQQI
+Beta_Coronavirus                      SR----------------------------------------ILSAGCFVDDIVKTDGTL
+MERS_Coronavirus*                     SR----------------------------------------ILSAGCFVDDIVKTDGTL
+Coronavirus_from_pangolin             SR----------------------------------------ILGAGCFVDDIVKTDGTL
+SARS-2_Coronavirus_from_first_pa      SR----------------------------------------ILGAGCFVDDIVKTDGTL
+SARS-2_Coronavirus_from_Wuhan         ------------------------------------------------------------
+                                                                                                  
+
+Bat_coronavirus                       EVKFNAPALQEAYYRARAGDAANFCALILAYSNKTVGELGDVRETMTHLLQHANLESAKR
+SARS_Coronavirus_from_2003            EVKFNAPALQEAYYRARAGDAANFCALILAYSNKTVGELGDVRETMTHLLQHANLESAKR
+Bat_Coronavirus_2                     EVKFNAPALQEAYYRARAGDAANFCALILAYSNKTVGELGDVRETMTHLLQHANLESAKR
+Beta_Coronavirus                      MVERFVSLAIDAY----------------------------------PLTKHEDIEYQN-
+MERS_Coronavirus*                     MVERFVSLAIDAY----------------------------------PLTKHEDIEYQN-
+Coronavirus_from_pangolin             MIERFVSLAIDAY----------------------------------PLTKHPNQEYAD-
+SARS-2_Coronavirus_from_first_pa      MIERFVSLAIDAY----------------------------------PLTKHPNQEYAD-
+SARS-2_Coronavirus_from_Wuhan         ------------------------------------------------------------
+                                                                                                  
+
+Bat_coronavirus                       VLNVVCKHCGQKTTTLKGVEAVMYMGTLSYDELKTGVSIPCVCGRNATQYLVQQESSFVM
+SARS_Coronavirus_from_2003            VLNVVCKHCGQKTTTLTGVEAVMYMGTLSYDNLKTGVSIPCVCGRDATQYLVQQESSFVM
+Bat_Coronavirus_2                     VLNVVCKHCGQKTTTLTGVEAVMYMGTLSYDNLKTGVSIPCVCGRDATQYLVQQESSFVM
+Beta_Coronavirus                      VFWVYLQYIEKLYKDLTGHMLDSYSVML--------------CGDNSAKFW--EEAFYRD
+MERS_Coronavirus*                     VFWVYLQYIEKLYKDLTGHMLDSYSVML--------------CGDNSAKFW--EEAFYRD
+Coronavirus_from_pangolin             VFHLYLQYIRKLHDELTGHMLDMYSVML--------------TNDSTSRYW--EPEFYEA
+SARS-2_Coronavirus_from_first_pa      VFHLYLQYIRKLHDELTGHMLDMYSVML--------------TNDNTSRYW--EPEFYEA
+SARS-2_Coronavirus_from_Wuhan         ------------------------------------------------------------
+                                                                                                  
+
+Bat_coronavirus                       MSAPPAEYKLQQGAFLCANEYTGNYQCGHYTHITAKETLYRVDGAHLTKMSEYKGPVTDV
+SARS_Coronavirus_from_2003            MSAPPAEYKLQQGTFLCANEYTGNYQCGHYTHITAKETLYRIDGAHLTKMSEYKGPVTDV
+Bat_Coronavirus_2                     MSAPPAEYKLQQGTFLCANEYTGNYQCGHYTHITAKETLYRIDGAHLTKMSEYKGPVTDV
+Beta_Coronavirus                      LYSSPTTLQAVGSCVVCHSQ--TSLRCGTC-----------IRRPFLCCKCCYD----HV
+MERS_Coronavirus*                     LYSSPTTLQAVGSCVVCHSQ--TSLRCGTC-----------IRRPFLCCKCCYD----HV
+Coronavirus_from_pangolin             MYTPHTVLQAVGACVLCNSQ--TSLRCGAC-----------IRRPFLCCKCCYD----HV
+SARS-2_Coronavirus_from_first_pa      MYTPHTVLQAVGACVLCNSQ--TSLRCGAC-----------IRRPFLCCKCCYD----HV
+SARS-2_Coronavirus_from_Wuhan         ------------------------------------------------------------
+                                                                                                  
+
+Bat_coronavirus                       FYKETSYTTAIKPVSYKLDGVTYTEIEPKLDGYYKKGNAYYTEQPIDLVPTQPMPNA-SF
+SARS_Coronavirus_from_2003            FYKETSYTTTIKPVSYKLDGVTYTEIEPKLDGYYKKDNAYYTEQPIDLVPTQPLPNA-SF
+Bat_Coronavirus_2                     FYKETSYTTTIKPVSYKLDGVTYTEIEPKLDGYYKKDNAYYTEQPIDLVPTQPLPNA-SF
+Beta_Coronavirus                      IATPHKMVLSVSPYVCNAPGCGVSDVTK----LYLGGMSYFCVDHRPVCSFPLCANGLVF
+MERS_Coronavirus*                     IATPHKMVLSVSPYVCNAPGCGVSDVTK----LYLGGMSYFCVDHRPVCSFPLCANGLVF
+Coronavirus_from_pangolin             ISTSHKLVLSVNPYVCNATGCDVTDVTQ----LYLGGMSYYCKAHK--------------
+SARS-2_Coronavirus_from_first_pa      ISTSHKLVLSVNPYVCNAPGCDVTDVTQ----LYLGGMSYYCKSHKPPISFPLCANGQVF
+SARS-2_Coronavirus_from_Wuhan         ------------------------------------------------------------
+                                                                                                  
+
+Bat_coronavirus                       DNFKLTCSNTKFADDLNQMTGFKKPASRELTVTFFPDLNGDVVAIDYRHYSTSFKKGAKL
+SARS_Coronavirus_from_2003            DNFKLTCSNTKFADDLNQMTGFTKPASRELSVTFFPDLNGDVVAIDYRHYSASFKKGAKL
+Bat_Coronavirus_2                     DNFKLTCSNTKFADDLNQMTGFTKPASRELYVTFFPDLNGDVVAIDYRHYSASFKKGAKL
+Beta_Coronavirus                      GLYKNMCTGSPSIVEFNRLA----------------------------------------
+MERS_Coronavirus*                     GLYKNMCTGSPSIVEFNRLA----------------------------------------
+Coronavirus_from_pangolin             ------------------------------------------------------------
+SARS-2_Coronavirus_from_first_pa      GLYKNTCVGSDNVTDFNAIA----------------------------------------
+SARS-2_Coronavirus_from_Wuhan         ------------------------------------------------------------
+                                                                                                  
+
+Bat_coronavirus                       VHKPILWHINQTTNKTTYKPNIWCLRCLWSTKPVDTSNSFEVLVVEDTQGMDNLACESQT
+SARS_Coronavirus_from_2003            LHKPIVWHINQATTKTTFKPNTWCLRCLWSTKPVDTSNSFEVLAVEDTQGMDNLACESQQ
+Bat_Coronavirus_2                     LHKPIVWHINQATTKTTFKPNTWCLRCLWSTKPVDTSNSFEVLAVEDTQGMDNLACESQQ
+Beta_Coronavirus                      -------------------------TCDW------TESGDYTLANTTTEPLKLFAAETLR
+MERS_Coronavirus*                     -------------------------TCDW------TESGDYTLANTTTEPLKLFAAETLR
+Coronavirus_from_pangolin             ------------------------------------------------------------
+SARS-2_Coronavirus_from_first_pa      -------------------------TCDW------TNAGDYILANTCTERLKLFAAETLK
+SARS-2_Coronavirus_from_Wuhan         ------------------------------------------------------------
+                                                                                                  
+
+Bat_coronavirus                       TTSEEVVENPTVQKEIIECDVKTTEVVGNVILKPSEEGVKVTQELGHEDLMAAYVEETSI
+SARS_Coronavirus_from_2003            PTSEEVVENPTIQKEVIECDVKTTEVVGNVILKPSDEGVKVTQELGHEDLMAAYVENTSI
+Bat_Coronavirus_2                     PTSEEVVENPTIQKEVIECDVKTTEVVGNVILKPSDEGVKVTQELDHEDLMAAYVENTSI
+Beta_Coronavirus                      ATEEASKQSYAI--------ATIKEIVGERQLLLVWEAGKSKPPLNRNYVFTGYHITKNS
+MERS_Coronavirus*                     ATEEASKQSYAI--------ATIKEIVGERQLLLVWEAGKSKPPLNRNYVFTGYHITKNS
+Coronavirus_from_pangolin             ------------------------------------------------------------
+SARS-2_Coronavirus_from_first_pa      ATEETFKLSYGI--------ATVREVLSDRELHLSWEVGKPRPPLNRNYVFTGYRVTKNS
+SARS-2_Coronavirus_from_Wuhan         ------------------------------------------------------------
+                                                                                                  
+
+Bat_coronavirus                       TIKKPNELSLALGLKTLATHGAAAINSVPWSKILAYVKPFLGQTAVITSNCIKKCVQRVF
+SARS_Coronavirus_from_2003            TIKKPNELSLALGLKTIATHGIAAINSVPWSKILAYVKPFLGQAAITTSNCAKRLAQRVF
+Bat_Coronavirus_2                     TIKKPNELSLALGLKTIATHGIAAINSVPWSKILAYVKPFLGQAAITTSNCAKRLAQRVF
+Beta_Coronavirus                      KVQ----------LGEYIFERIDYSDAVSYKSSTTY-KLTVGDIFVLTSHSVATLTAPTI
+MERS_Coronavirus*                     KVQ----------LGEYIFERIDYSDAVSYKSSTTY-KLTVGDIFVLTSHSVATLTAPTI
+Coronavirus_from_pangolin             ---------------------------------TAY------------------------
+SARS-2_Coronavirus_from_first_pa      KVQ----------IGEYTFEKGDYGDAVVYRGTTTY-KLNVGDYFVLTSHTVMPLSAPTL
+SARS-2_Coronavirus_from_Wuhan         ------------------------------------------------------------
+                                                                                                  
+
+Bat_coronavirus                       SNYMPYVITLLFQLCTFTKSTNSRIKASLPTTIAKNSVKSVAKLCLDVCINYVKSPKFSK
+SARS_Coronavirus_from_2003            NNYMPYVFTLLFQLCTFTKSTNSRIRASLPTTIAKNSVKSVAKLCLDAGINYVKSPKFSK
+Bat_Coronavirus_2                     NNYMPYVLTLLFQLCTFTKSTNSRIRASLPTTIAKNSVRGVARLCLDAGINYVKSPKFSK
+Beta_Coronavirus                      VNQERYV----------------KITGLYPTITVPEE--------FASHVANFQKSGYSK
+MERS_Coronavirus*                     VNQERYV----------------KITGLYPTITVPEE--------FASHVANFQKSGYSK
+Coronavirus_from_pangolin             ------------------------------------------------------------
+SARS-2_Coronavirus_from_first_pa      VPQEHYV----------------RITGLYPTLNISDE--------FSSNVANYQKVGMQK
+SARS-2_Coronavirus_from_Wuhan         ------------------------------------------------------------
+                                                                                                  
+
+Bat_coronavirus                       LFTIVMWLLLLSICLGSLTYVTAVLGVCLSSLGVPSYCDGVRELYINSSNVTTMDFCQGY
+SARS_Coronavirus_from_2003            LFTIAMWLLLLSICLGSLICVTAAFGVLLSNFGAPSYCNGVRELYLNSSNVTTMDFCEGS
+Bat_Coronavirus_2                     LFTIAMWLLLLSICLGSLIYVTAALGVLLSNFGAPSYCSGVRESYLNSSNVTTMDFCEGS
+Beta_Coronavirus                      YVTVQ---------------GPPGTGKSHFAIGLAIYYPTARVVYTACSHAAVDALCEKA
+MERS_Coronavirus*                     YVTVQ---------------GPPGTGKSHFAIGLAIYYPTARVVYTACSHAAVDALCEKA
+Coronavirus_from_pangolin             ------------------------------------------------------------
+SARS-2_Coronavirus_from_first_pa      YSTLQ---------------GPPGTGKSHFAIGLALYYPSARIVYTACSHAAVDALCEKA
+SARS-2_Coronavirus_from_Wuhan         ------------------------------------------------------------
+                                                                                                  
+
+Bat_coronavirus                       FPCSVCLSGLDSLDSYPALETIQVTISSYKLDLTFLGLAAEWLLAYMLFTKFFYLLGLSA
+SARS_Coronavirus_from_2003            FPCSICLSGLDSLDSYPALETIQVTISSYKLDLTILGLAAEWVLAYMLFTKFFYLLGLSA
+Bat_Coronavirus_2                     FPCSVCLSGLDSLDSYPALETIQVTISSYKLDLTILGLAAEWFLAYMLFTKFFYLLGLSA
+Beta_Coronavirus                      FK-------------------------------------------YLNIAKCSRIIPAKA
+MERS_Coronavirus*                     FK-------------------------------------------YLNIAKCSRIIPAKA
+Coronavirus_from_pangolin             ------------------------------------------------------------
+SARS-2_Coronavirus_from_first_pa      LK-------------------------------------------YLPIDKCSRIIPARA
+SARS-2_Coronavirus_from_Wuhan         ------------------------------------------------------------
+                                                                                                  
+
+Bat_coronavirus                       IMQAFFGYFASHFISNSWLMWFIISIVQMAPVSAMVRMYIFFASFYYVWKSYVHIMDGCT
+SARS_Coronavirus_from_2003            IMQVFFGYFASHFISNSWLMWFIISIVQMAPVSAMVRMYIFFASFYYIWKSYVHIMDGCT
+Bat_Coronavirus_2                     IMQVFFGYFASHFISNSWLMWFIISIVQMAPVSAMVRMYIFFASFYYIWKSYVHIMDGCT
+Beta_Coronavirus                      RVECY-----DRFKVNETNSQYLFSTINALPE---------------------------T
+MERS_Coronavirus*                     RVECY-----DRFKVNETNSQYLFSTINALPE---------------------------T
+Coronavirus_from_pangolin             ------------------------------------------------------------
+SARS-2_Coronavirus_from_first_pa      RVECF-----DKFKVNSTLEQYVFCTVNALPE---------------------------T
+SARS-2_Coronavirus_from_Wuhan         ------------------------------------------------------------
+                                                                                                  
+
+Bat_coronavirus                       SSTCMMCYKRNRATRVECTTIVNGVKRSFYVYANGGRGFCKAHNWNCLNCDTFCAGSTFI
+SARS_Coronavirus_from_2003            SSTCMMCYKRNRATRVECTTIVNGMKRSFYVYANGGRGFCKTHNWNCLNCDTFCTGSTFI
+Bat_Coronavirus_2                     SSTCMMCYKRNRATRVECTTIVNGMKRSFYVYANGGRGFCKTHNWNCLNCDTFCTGSTFI
+Beta_Coronavirus                      SADILVVDEVSMCTNYDLSIINARIKAKHIVYVGD-------------------------
+MERS_Coronavirus*                     SADILVVDEVSMCTNYDLSIINARIKAKHIVYVGD-------------------------
+Coronavirus_from_pangolin             ------------------------------------------------------------
+SARS-2_Coronavirus_from_first_pa      TADIVVFDEISMATNYDLSVVNARLRAKHYVYIGD-------------------------
+SARS-2_Coronavirus_from_Wuhan         ------------------------------------------------------------
+                                                                                                  
+
+Bat_coronavirus                       SDEVARDLSLQFKRPINPTDQSAYVVDSVTVKNGALHLYFDKAGQKTYERHPLSHFVNLD
+SARS_Coronavirus_from_2003            SDEVARDLSLQFKRPINPTDQSSYIVDSVAVKNGALHLYFDKAGQKTYERHPLSHFVNLD
+Bat_Coronavirus_2                     SDEVARDLSLQFKRPINPTDQSSYIVDSVAVKNGALHLYFDKAGQKTYERHPLSHFINLD
+Beta_Coronavirus                      PAQLPAPRTLLTRGTLEPENFNSV---TRLMCNLGPDIFLSMCYRCPKEIVSTVSALVYN
+MERS_Coronavirus*                     PAQLPAPRTLLTRGTLEPENFNSV---TRLMCNLGPDIFLSMCYRCPKEIVSTVSALVYN
+Coronavirus_from_pangolin             ------------------------------------------------------------
+SARS-2_Coronavirus_from_first_pa      PAQLPAPRTLLTKGTLEPEYFNSV---CRLMKTIGPDMFLGTCRRCPAEIVDTVSALVYD
+SARS-2_Coronavirus_from_Wuhan         ------------------------------------------------------------
+                                                                                                  
+
+Bat_coronavirus                       NLRANNTKGSLPINVIVFDGKSKCEESAAKSASVYYSQLMCQPILLLDQALVSDVGDSTE
+SARS_Coronavirus_from_2003            NLRANNTKGSLPINVIVFDGKSKCDESASKSASVYYSQLMCQPILLLDQVLVSDVGDSTE
+Bat_Coronavirus_2                     NLRANNTKGSLPINVIVFDGKSKCDESAARSASVYYSQLMCQPILLLDQALISDVGDSTE
+Beta_Coronavirus                      NKLLAKKELSGQCFKILYKGNVTHDASSA---------INRPQLTFVKNFITANPAWSKA
+MERS_Coronavirus*                     NKLLAKKELSGQCFKILYKGNVTHDASSA---------INRPQLTFVKNFITANPAWSKA
+Coronavirus_from_pangolin             ------------------------------------------------------------
+SARS-2_Coronavirus_from_first_pa      NKLKAHKDKSAQCFKMFYKGVITHDVSSA---------INRPQIGVVREFLTRNPAWRKA
+SARS-2_Coronavirus_from_Wuhan         ------------------------------------------------------------
+                                                                                                  
+
+Bat_coronavirus                       VSVKMFDAYVDTFSATFSVPMEKLKALVATAHSELAKGVALDGVLSTFVSAARQGVVDTD
+SARS_Coronavirus_from_2003            VSVKMFDAYVDTFSATFSVPMEKLKALVATAHSELAKGVALDGVLSTFVSAARQGVVDTD
+Bat_Coronavirus_2                     VSVKMFDAYVDTFSATFSVPMEKLRALVATAHSELAKGVALDGVLSTFVSAARQGVVDTD
+Beta_Coronavirus                      VFISPYNSQNAVARSMLGLTTQTVDSSQGSEYQYVIFCQTADTAHANNINRFNVAITRAQ
+MERS_Coronavirus*                     VFISPYNSQNAVSRSMLGLTTQTVDSSQGSEYQYVIFCQTADTAHANNINRFNVAITRAQ
+Coronavirus_from_pangolin             ------------------------------------------------------------
+SARS-2_Coronavirus_from_first_pa      VFISPYNSQNAVASKILGLPTQTVDSSQGSEYDYVIFTQTTETAHSCNVNRFNVAITRAK
+SARS-2_Coronavirus_from_Wuhan         ------------------------------------------------------------
+                                                                                                  
+
+Bat_coronavirus                       VDTKDVIECLKLSHHSDIEVTGDSCNNFMLTYNKVENMTPRDLGACIDCNARHINAQVAK
+SARS_Coronavirus_from_2003            VDTKDVIECLKLSHHSDLEVTGDSCNNFMLTYNKVENMTPRDLGACIDCNARHINAQVAK
+Bat_Coronavirus_2                     VDTKDVIECLKLSHHSDLEVTGDSCNNFMLTYNKVENMTPRDLGACIDCNARHINAQVAK
+Beta_Coronavirus                      KGILCVMTSQAL--FESLEFTELSFTNYKLQSQIVTGL----FKDCSRETSGLSPAYAPT
+MERS_Coronavirus*                     KGILCVMTSQAL--FESLEFTELSFTNYKLQSQIVTGL----FKDCSRETSGLSPAYAPT
+Coronavirus_from_pangolin             ------------------------------------------------------------
+SARS-2_Coronavirus_from_first_pa      VGILCIMSDRDL--YDKLQFTSLEIPRRNVATLQAENVTGL-FKDCSKVITGLHPTQAPT
+SARS-2_Coronavirus_from_Wuhan         ------------------------------------------------------------
+                                                                                                  
+
+Bat_coronavirus                       SHNVSLVWNVKDYMSLSEQLRKQIRSAAKKNNIPFRLTCATTRQVVNVITTKISLKGGKV
+SARS_Coronavirus_from_2003            SHNVSLIWNVKDYMSLSEQLRKQIRSAAKKNNIPFRLTCATTRQVVNVITTKISLKGGKI
+Bat_Coronavirus_2                     SHNVSLIWNVKDYMSLSEQLRKQIRSAAKKNNIPFRLTCATTRQVVNVITTKISLKGGKI
+Beta_Coronavirus                      YVSVDDKYKTSDELCVNLNLPANVPYSRVISRMGFKLDATVPGYPKLFITREEAVRQ---
+MERS_Coronavirus*                     YVSVDDKYKTSDELCVNLNLPANVPYSRVISRMGFKLDATVPGYPKLFITREEAVRQ---
+Coronavirus_from_pangolin             ------------------------------------------------------------
+SARS-2_Coronavirus_from_first_pa      HLSVDTKFKTEGLCVDIPGIPKDMTYRRLISMMGFKMNYQVNGYPNMFITREEAIRH---
+SARS-2_Coronavirus_from_Wuhan         ------------------------------------------------------------
+                                                                                                  
+
+Bat_coronavirus                       VSTWFKLLLKVTLLCVLAALFCYVIMPVHSLSVHDGYTNEIIGYKAIQDGVTRDIVSTDD
+SARS_Coronavirus_from_2003            VSTCFKLMLKATLLCVLAALVCYIVMPVHTLSIHDGYTNEIIGYKAIQDGVTRDIISTDD
+Bat_Coronavirus_2                     VSTWFKLMLKATLLCVIATLVCYIVMPVHTLSAHDGYTNEIIGYKAIQDGVTRDIISTDD
+Beta_Coronavirus                      VRSWIGFDVEG---AHASRNACGTNVPLQ------------LGFSTGVNFVVQPVGVVDT
+MERS_Coronavirus*                     VRSWIGFDVEG---AHASRNACGTNVPLQ------------LGFSTGVNFVVQPVGVVDT
+Coronavirus_from_pangolin             ------------------------------------------------------------
+SARS-2_Coronavirus_from_first_pa      VRAWIGFDVEG---CHATREAVGTNLPLQ------------LGFSTGVNLVAVPTGYVDT
+SARS-2_Coronavirus_from_Wuhan         ------------------------------------------------------------
+                                                                                                  
+
+Bat_coronavirus                       CFANKHAGFDSWFSQRGGSYRNDKNCPVVAAIITREIGFIVPGLPGTVLRALNGDFLHFL
+SARS_Coronavirus_from_2003            CFANKHAGFDAWFSQRGGSYKNDKSCPVVAAIITREIGFIVPGLPGTVLRAINGDFLHFL
+Bat_Coronavirus_2                     CFANKHAGFDSWLSQRGGSYKNDKSCPVVAAIITREIGFIVPGLPGTVLRAINGDFLHFL
+Beta_Coronavirus                      EWGNMLTGIAA--------------RPPPGEQFKHLVPLMHKGAAWPIVRR---------
+MERS_Coronavirus*                     EWGNMLTGIAA--------------RPPPGEQFKHLVPLMHKGAAWPIVRR---------
+Coronavirus_from_pangolin             ------------------------------------------------------------
+SARS-2_Coronavirus_from_first_pa      PNNTDFSRVSA--------------KPPPGDQFKHLIPLMYKGLPWNVVRI---------
+SARS-2_Coronavirus_from_Wuhan         ------------------------------------------------------------
+                                                                                                  
+
+Bat_coronavirus                       PRVFSAVGNICYTPSKLIEYSDFATSACVLAAECTIFKDAMGKPVPYCYDTNLLEGSISY
+SARS_Coronavirus_from_2003            PRVFSAVGNICYTPSKLIEYSDFATSACVLAAECTIFKDAMGKPVPYCYDTNLLEGSISY
+Bat_Coronavirus_2                     PRVFSAVGNICYTPSKLIEYSDFATSACVLAAECTIFKDAMGKPVPYCYDTNLLEGSISY
+Beta_Coronavirus                      ----RIVQMLSDTLDKLSDYCTFVCWAHGFELTSASYFCKIGKEQKCC------------
+MERS_Coronavirus*                     ----RIVQMLSDTLDKLSDYCTFVCWAHGFELTSASYFCKIGKEQKCC------------
+Coronavirus_from_pangolin             ------------------------------------------------------------
+SARS-2_Coronavirus_from_first_pa      ----KIVQMLSDTLKNLSDRVVFVLWAHGFELTSMKYFVKIGPERTCC------------
+SARS-2_Coronavirus_from_Wuhan         ------------------------------------------------------------
+                                                                                                  
+
+Bat_coronavirus                       SELRPDTRYVLMDGSIIQFPNTYLEGSVRVVTTFDAEYCRHGTCERSEVGVCLSTSGRWV
+SARS_Coronavirus_from_2003            SELRPDTRYVLMDGSIIQFPNTYLEGSVRVVTTFDAEYCRHGTCERSEVGICLSTSGRWV
+Bat_Coronavirus_2                     SELRPDTRYVLMDGSIIQFPNTYLEGSVRVVTTFDAEYCRHGTCERSEAGICLSTSGRWV
+Beta_Coronavirus                      ------------------------------------------MCNRR-------------
+MERS_Coronavirus*                     ------------------------------------------MCNRR-------------
+Coronavirus_from_pangolin             ------------------------------------------------------------
+SARS-2_Coronavirus_from_first_pa      ------------------------------------------LCDRR-------------
+SARS-2_Coronavirus_from_Wuhan         ------------------------------------------------------------
+                                                                                                  
+
+Bat_coronavirus                       LNNEHYRALPGVFCGVDAMNLIANIFTPLVQPVGALDVSASVVAGGIIAILVTCAAYYFM
+SARS_Coronavirus_from_2003            LNNEHYRALSGVFCGVDAMNLIANIFTPLVQPVGALDVSASVVAGGIIAILVTCAAYYFM
+Bat_Coronavirus_2                     LNNEHYRALPGVFCGVDAMNLIANIFTPLVQPVGALDVSASVVAGGIIAILVTCAAYYFM
+Beta_Coronavirus                      ------------------------------------------------------------
+MERS_Coronavirus*                     ------------------------------------------------------------
+Coronavirus_from_pangolin             ------------------------------------------------------------
+SARS-2_Coronavirus_from_first_pa      ------------------------------------------------------------
+SARS-2_Coronavirus_from_Wuhan         ------------------------------------------------------------
+                                                                                                  
+
+Bat_coronavirus                       KFRRAFGEYNHVVAANALLFLMSFTILCLAPAYSFLPGVYSIFYLYLTFYFTNDVSFLAH
+SARS_Coronavirus_from_2003            KFRRVFGEYNHVVAANALLFLMSFTILCLVPAYSFLPGVYSVFYLYLTFYFTNDVSFLAH
+Bat_Coronavirus_2                     KFRRAFGEYNHVVAANALLFLMSFTILCLAPAYSFLPGVYSVFYLYLTFYFTNDVSFLAH
+Beta_Coronavirus                      -----------------------------AAAYSSPLQSYACWTHSCGYDYVYNPFFVDV
+MERS_Coronavirus*                     -----------------------------AAAYSSPLQSYACWTHSCGYDYVYNPFFVDV
+Coronavirus_from_pangolin             ------------------------------------------------------------
+SARS-2_Coronavirus_from_first_pa      -----------------------------ATCFSTASDTYACWHHSIGFDYVYNPFMIDV
+SARS-2_Coronavirus_from_Wuhan         ------------------------------------------------------------
+                                                                                                  
+
+Bat_coronavirus                       LQWFAMFSPIVPFWITAIYVFCISLKHFHWFFSNYLKKRVMFNGVTFSTFEEAALCTFLL
+SARS_Coronavirus_from_2003            LQWFAMFSPIVPFWITAIYVFCISLKHCHWFFNNYLRKRVMFNGVTFSTFEEAALCTFLL
+Bat_Coronavirus_2                     LQWFAMFSPIVPFWITAIYVFCISLKHCHWFFNNYLRKRVMFNGVTFSTFEEAALCTFLL
+Beta_Coronavirus                      QQW----------------------GYVGNLATNHDRYCSVHQGAHVASNDAIMTRCLAI
+MERS_Coronavirus*                     QQW----------------------GYVGNLATNHDRYCSVHQGAHVASNDAIMTRCLAI
+Coronavirus_from_pangolin             ------------------------------------------------------------
+SARS-2_Coronavirus_from_first_pa      QQW----------------------GFTGNLQSNHDLYCQVHGNAHVASCDAIMTRCLAV
+SARS-2_Coronavirus_from_Wuhan         ------------------------------------------------------------
+                                                                                                  
+
+Bat_coronavirus                       NKEMYLRLRSETLLPLTQYNRYLALYNKYKYFSGALDTTSYREAACCHLAKALNDFSNSG
+SARS_Coronavirus_from_2003            NKEMYLKLRSETLLPLTQYNRYLALYNKYKYFSGALDTTSYREAACCHLAKALNDFSNSG
+Bat_Coronavirus_2                     NKEMYLKLRSETLLPLTQYNRYLALYNKYKYFSGALDTTSYREAACCHLAKALNDFSNSG
+Beta_Coronavirus                      HSCFIERVDWDIEYPYISHEKKL--------------------NSCCRIV----------
+MERS_Coronavirus*                     HSCFIERVDWDIEYPYISHEKKL--------------------NSCCRIV----------
+Coronavirus_from_pangolin             ------------------------------------------------------------
+SARS-2_Coronavirus_from_first_pa      HECFVKRVDWTIEYPIIGDELKI--------------------NAACRKV----------
+SARS-2_Coronavirus_from_Wuhan         ------------------------------------------------------------
+                                                                                                  
+
+Bat_coronavirus                       ADVLYQPPQTSITSAVLQSGFRKMAFPSGKVEG--CMVQVTCGTTTLNGLWLDDTVYCPR
+SARS_Coronavirus_from_2003            ADVLYQPPQTSITSAVLQSGFRKMAFPSGKVEG--CMVQVTCGTTTLNGLWLDDTVYCPR
+Bat_Coronavirus_2                     ADVLYQPPQTSITSAVLQSGFRKMAFPSGKVEG--CMVQVTCGTTTLNGLWLDDTVYCPR
+Beta_Coronavirus                      --------ERNVVRAALLAGSFDKVYDIGNPKGIPIVDDPVVDWHYFDAQPLTRKV----
+MERS_Coronavirus*                     --------ERNVVRAALLAGSFDKVYDIGNPKGIPIVDDPVVDWHYFDAQPLTRKV----
+Coronavirus_from_pangolin             ------------------------------------------------------------
+SARS-2_Coronavirus_from_first_pa      --------QHMVVKAALLADKFPVLHDIGNPKAIKCVPQADVEWKFYDAQPCSDKAYKIE
+SARS-2_Coronavirus_from_Wuhan         ------------------------------------------------------------
+                                                                                                  
+
+Bat_coronavirus                       HVVCTAEDMLNPNYDDLLIRKSNHSFLVQAGNVQLRVIGHSMQNCLLRLKVDTSNPKTPK
+SARS_Coronavirus_from_2003            HVICTAEDMLNPNYEDLLIRKSNHSFLVQAGNVQLRVIGHSMQNCLLRLKVDTSNPKTPK
+Bat_Coronavirus_2                     HVICTAEDMLNPNYEDLLIRKSNHSFLVQAGNVQLRVIGHSMQNCLLRLKVDTSNPKTPK
+Beta_Coronavirus                      QQLFYTEDMASRFADGL---------------------------CLFWNCNVPKYPNNAI
+MERS_Coronavirus*                     QQLFYTEDMASRFADGL---------------------------CLFWNCNVPKYPNNAI
+Coronavirus_from_pangolin             ------------------------------------------------------------
+SARS-2_Coronavirus_from_first_pa      ELFYSYATHSDKFTDGV---------------------------CLFWNCNVDRYPANSI
+SARS-2_Coronavirus_from_Wuhan         ------------------------------------------------------------
+                                                                                                  
+
+Bat_coronavirus                       YKFVRIQPGQTFSVLACYNGSPSGVYQCAMRPNHTIKGSFLNGSCGSVGFNIDYDCVSFC
+SARS_Coronavirus_from_2003            YKFVRIQPGQTFSVLACYNGSPSGVYQCAMRPNHTIKGSFLNGSCGSVGFNIDYDCVSFC
+Bat_Coronavirus_2                     YKFVRIQPGQTFSVLACYNGSPSGVYQCAMRPNHTIKGSFLNGSCGSVGFNIDYDCVSFC
+Beta_Coronavirus                      VCRFDTRVHSEFNLPGCDGGSLYVNKHAFHTPAYDVSAF--------------RDLKPLP
+MERS_Coronavirus*                     VCRFDTRVHSEFNLPGCDGGSLYVNKHAFHTPAYDVSAF--------------RDLKPLP
+Coronavirus_from_pangolin             ------------------------------------------------------------
+SARS-2_Coronavirus_from_first_pa      VCRFDTRVLSNLNLPGCDGGSLYVNKHAFHTPAFDKSAF--------------VNLKQLP
+SARS-2_Coronavirus_from_Wuhan         ------------------------------------------------------------
+                                                                                                  
+
+Bat_coronavirus                       YMHHMELPTGVHA-GTDLEGKFYGPFVDRQTAQAAGTDTTITLNVLAWLYAAVINGDRWF
+SARS_Coronavirus_from_2003            YMHHMELPTGVHA-GTDLEGKFYGPFVDRQTAQAAGTDTTITLNVLAWLYAAVINGDRWF
+Bat_Coronavirus_2                     YMHHMELPTGVHA-GTDLEGKFYGPFVDRQTAQAAGTDTTITLNVLAWLYAAVINGDRWF
+Beta_Coronavirus                      FFYYSTTPCEVHGNGSMIEDIDYVPLKSAVCITACNLGGAVC---------------RKH
+MERS_Coronavirus*                     FFYYSTTPCEVHGNGSMIEDIDYVPLKSAVCITACNLGGAVC---------------RKH
+Coronavirus_from_pangolin             ------------------------------------------------------------
+SARS-2_Coronavirus_from_first_pa      FFYYSDSPCESHG-KQVVSDIDYVPLKSATCITRCNLGGAVC---------------RHH
+SARS-2_Coronavirus_from_Wuhan         ------------------------------------------------------------
+                                                                                                  
+
+Bat_coronavirus                       LNRFTTTLNDFNLVAMKYNYEPLTQDHVDILGPLSAQTGIAVLDMCA--ALKELLQNGMN
+SARS_Coronavirus_from_2003            LNRFTTTLNDFNLVAMKYNYEPLTQDHVDILGPLSAQTGIAVLDMCA--ALKELLQNGMN
+Bat_Coronavirus_2                     LNRFTTTLNDFNLVAMKYNYEPLTQDHVDILGPLSAQTGIAVLDMCA--ALKELLQNGMN
+Beta_Coronavirus                      ATEYREYMEAYNLVSAS-GFRLWCYKTFDIYNLWSTFTKVQGLENIAFNFVKQGHFIGVE
+MERS_Coronavirus*                     ATEYREYMEAYNLVSAS-GFRLWCYKTFDIYNLWSTFTKVQGLENIAFNVVKQGHFIGVE
+Coronavirus_from_pangolin             ------------------------------------------------------------
+SARS-2_Coronavirus_from_first_pa      ANEYRLYLDAYNMMISA-GFSLWVYKQFDTYNLWNTFTRLQSLENVAFNVVNKGHFDGQQ
+SARS-2_Coronavirus_from_Wuhan         ------------------------------------------------------------
+                                                                                                  
+
+Bat_coronavirus                       GRTILGSTILEDEFTPFDVVRQC---------SGVTFQGKFKKIVKGTHHWMLLTFLTSL
+SARS_Coronavirus_from_2003            GRTILGSTILEDEFTPFDVVRQC---------SGVTFQGKFKKIVKGTHHWMLLTFLTSL
+Bat_Coronavirus_2                     GRTILGSTILEDEFTPFDVVRQC---------SGVTFQGKFKKIVKGTHHWMLLTFLTSL
+Beta_Coronavirus                      GELPV-AVVNDKIFTKSGVNDICMFENKTTLPTNIAFELYAKRAVRSHPDFKLLHNLQAD
+MERS_Coronavirus*                     GELPV-AVVNDKIFTKSGVNDICMFENKTTLPTNIAFELYAKRAVRSHPDFKLLHNLQAD
+Coronavirus_from_pangolin             ------------------------------------------------------------
+SARS-2_Coronavirus_from_first_pa      GEVPV-SIINNTVYTKVDGVDVELFENKTTLPVNVAFELWAKRNIKPVPEVKILNNLGVD
+SARS-2_Coronavirus_from_Wuhan         ------------------------------------------------------------
+                                                                                                  
+
+Bat_coronavirus                       LILVQSTQWSLFFFVYENAFLPFALGIMAVAACAMLLVKHKHAFLCL------FLLPSLA
+SARS_Coronavirus_from_2003            LILVQSTQWSLFFFVYENAFLPFTLGIMAIAACAMLLVKHKHAFLCL------FLLPSLA
+Bat_Coronavirus_2                     LILVQSTQWSLFFFVYENAFLPFTLGIMAIAACAMLLVKHKHAFLCL------FLLPSLA
+Beta_Coronavirus                      IC------YKFVLWDYERSNI---YGTATIGVCKYTDIDVNSALNIC------FDIRDNG
+MERS_Coronavirus*                     IC------YKFVLWDYERSNI---YGTATIGVCKYTDIDVNSALNIC------FDIRDNC
+Coronavirus_from_pangolin             ------------------------------------------------------------
+SARS-2_Coronavirus_from_first_pa      IA------ANTVIWDYKRDAP---AHISTIGVCSMTDIAKKPTETICAPLTVFFDGRVDG
+SARS-2_Coronavirus_from_Wuhan         ------------------------------------------------------------
+                                                                                                  
+
+Bat_coronavirus                       TVAYF----NMVYMPASWVMRIMTWLELADTSLSGYRLKDCVMYASALVLLILMTARTVY
+SARS_Coronavirus_from_2003            TVAYF----NMVYMPASWVMRIMTWLELADTSLSGYRLKDCVMYASALVLLILMTARTVY
+Bat_Coronavirus_2                     TVAYF----NMVYMPASWVMRIMTWFELADTSLSGYRLKDCVMYASALVLLILMTARTVY
+Beta_Coronavirus                      SLEKFMSTPNAIFISDRKIKKYPCMVGPDYAYFNGAIIRDSDVVKQPVKFYLYKKVNNEF
+MERS_Coronavirus*                     SLEKFMSTPNAIFISDRKIKKYPCMVGPDYAYFNGAIIRDSDVVKQPVKFYLYKKVNNEF
+Coronavirus_from_pangolin             ------------------------------------------------------------
+SARS-2_Coronavirus_from_first_pa      QVDLFRNARNGVLITEGSVKGLQPSVGPKQASLNGVTLIGEAVKTQ---FNYYKKVDGVV
+SARS-2_Coronavirus_from_Wuhan         ------------------------------------------------------------
+                                                                                                  
+
+Bat_coronavirus                       DDAARRVWTLMNVITLVYKVYYGNSLDQAISMWALVISVTSNYSGVVTTIMFLARAIVFV
+SARS_Coronavirus_from_2003            DDAARRVWTLMNVITLVYKVYYGNALDQAISMWALVISVTSNYSGVVTTIMFLARAIVFV
+Bat_Coronavirus_2                     DDAARRVWTLMNVITLVYKVYYGNALDQAISMWALVISVTSNYSGVVTTIMFLARAIVFV
+Beta_Coronavirus                      IDPTECIYT----------------QSRSCSDFLPLSDMEKDF-----------------
+MERS_Coronavirus*                     IDPTECIYT----------------QSRSCSDFLPLSDMEKDF-----------------
+Coronavirus_from_pangolin             ------------------------------------------------------------
+SARS-2_Coronavirus_from_first_pa      QQLPETYFT----------------QSRNLQEFKPRSQMEIDF-----------------
+SARS-2_Coronavirus_from_Wuhan         ------------------------------------------------------------
+                                                                                                  
+
+Bat_coronavirus                       CVEYYPLLFITGNTLQCIMLVYCFLGYCCCCYFGLFCLLNRYFRLTLGVYDYLVSTQEFR
+SARS_Coronavirus_from_2003            CVEYYPLLFITGNTLQCIMLVYCFLGYCCCCYFGLFCLLNRYFRLTLGVYDYLVSTQEFR
+Bat_Coronavirus_2                     CVEYYPLLFITGNTLQCIMLVYCFLGYCCCCYFGLFCLLNRYFRLTLGVYDYLVSTQEFR
+Beta_Coronavirus                      -LSFDSDVFIKKYGLENYAFEHVVYGDFSHTTLGGLHLLIGLYK-----------KQQEG
+MERS_Coronavirus*                     -LSFDSDVFIKKYGLENYAFEHVVYGDFSHTTLGGLHLLIGLYK-----------KQQEG
+Coronavirus_from_pangolin             ------------------------------------------------------------
+SARS-2_Coronavirus_from_first_pa      -LELAMDEFIERYKLEGYAFEHIVYGDFSHSQLGGLHLLIGLAK-----------RFKES
+SARS-2_Coronavirus_from_Wuhan         ------------------------------------------------------------
+                                                                                                  
+
+Bat_coronavirus                       YMNSQGLLPPKSSIDAFKLNIKLLGIGGKPCIKVATVQSKMSDVKCTSVVLLSVLQQLRV
+SARS_Coronavirus_from_2003            YMNSQGLLPPKSSIDAFKLNIKLLGIGGKPCIKVATVQSKMSDVKCTSVVLLSVLQQLRV
+Bat_Coronavirus_2                     YMNSQGLLPPKSSIDAFKLNIKLLGIGGKPCIKVATVQSKMSDVKCTSVVLLSVLQQLRV
+Beta_Coronavirus                      HIIMEEMLKGSSTIHNY-------------------------------------------
+MERS_Coronavirus*                     HIIMEEMLKGSSTIHNY-------------------------------------------
+Coronavirus_from_pangolin             ------------------------------------------------------------
+SARS-2_Coronavirus_from_first_pa      PFELEDFIPMDSTVKNY-------------------------------------------
+SARS-2_Coronavirus_from_Wuhan         ------------------------------------------------------------
+                                                                                                  
+
+Bat_coronavirus                       ESSSKLWAQCVQLHNDILLAKDTTEAFEKMVSLLSVLLSMQGAVDINKLCEEMLDNRATL
+SARS_Coronavirus_from_2003            ESSSKLWAQCVQLHNDILLAKDTTEAFEKMVSLLSVLLSMQGAVDINRLCEEMLDNRATL
+Bat_Coronavirus_2                     ESSSKLWAQCVQLHNDILLAKDTTEAFEKMVSLLSVLLSMQGAVDINKLCEEMLDNRATL
+Beta_Coronavirus                      -----------------FITETNTAAFKAVCSVIDLKL----------------------
+MERS_Coronavirus*                     -----------------FITETNTAAFKAVCSVIDLKL----------------------
+Coronavirus_from_pangolin             ------------------------------------------------------------
+SARS-2_Coronavirus_from_first_pa      -----------------FITDAQTGSSKCVCSVIDLLL----------------------
+SARS-2_Coronavirus_from_Wuhan         ------------------------------------------------------------
+                                                                                                  
+
+Bat_coronavirus                       QAIASEFSSLPSYAAYATAQEAYEQAVSNGDSEVVLKKLKKSLNVAKSEF----------
+SARS_Coronavirus_from_2003            QAIASEFSSLPSYAAYATAQEAYEQAVANGDSEVVLKKLKKSLNVAKSEF----------
+Bat_Coronavirus_2                     QAIASEFSSLPSYAAYATAQEAYEQAVANGDSEVVLKKLKKSLNVAKSEF----------
+Beta_Coronavirus                      --------------------DDFVMILKSQDLGVVSKVVKVPIDLTMIEFMLWCKDGQVQ
+MERS_Coronavirus*                     --------------------DDFVMILKSQDLGVVSKVVKVPIDLTMIEFMLWCKDGQVQ
+Coronavirus_from_pangolin             ------------------------------------------------------------
+SARS-2_Coronavirus_from_first_pa      --------------------DDFVEIIKSQDLSVVSKVVKVTIDYTEISFMLWCKDGHVE
+SARS-2_Coronavirus_from_Wuhan         ------------------------------------------------------------
+                                                                                                  
+
+Bat_coronavirus                       DHDAAMQRKLEKMADQAMTQMYKQARSEDKRAKVTSAMQTMLFTMLRKLDNDALNNIINN
+SARS_Coronavirus_from_2003            DRDAAMQRKLEKMADQAMTQMYKQARSEDKRAKVTSAMQTMLFTMLRKLDNDALNNIINN
+Bat_Coronavirus_2                     DRDAAMQRKLEKMADQAMTQMYKQARSEDKRAKVTSAMQTMLFTMLRKLDNDALNNIINN
+Beta_Coronavirus                      TFYPRLQASADWKPGHAMPSLFKVQNVNLERCELANYKQSIPMPRGVHMNIAKYMQL---
+MERS_Coronavirus*                     TFYPRLQASADWKPGHAMPSLFKVQNVNLERCELANYKQSIPMPRGVHMNIAKYMQL---
+Coronavirus_from_pangolin             ------------------------------------------------------------
+SARS-2_Coronavirus_from_first_pa      TFYPKLQSSQAWQPGVAMPNLYKMQRMLLEKCDLQNYGDSATLPKGIMMNVAKYTQL---
+SARS-2_Coronavirus_from_Wuhan         ------------------------------------------------------------
+                                                                                                  
+
+Bat_coronavirus                       ARDGCVPLNIIPLTTAAKLMVVVPDYGTYKNTCDGNTFTYASALWEIQQVVDADSKIVQL
+SARS_Coronavirus_from_2003            ARDGCVPLNIIPLTTAAKLMVVVPDYGTYKNTCDGNTFTYASALWEIQQVVDADSKIVQL
+Bat_Coronavirus_2                     ARDGCVPLNIIPLTTAAKLMVVVPDYGTYKNTCDGNTFTYASALWEIQQVVDADSKIVQL
+Beta_Coronavirus                      ----CQYLNTCTLAVPANMRVIHFGAGSDKGIAPGTSV--------LRQWLPTDAIIIDN
+MERS_Coronavirus*                     ----CQYLNTCTLAVPANMRVIHFGAGSDKGIAPGTSV--------LRQWLPTDAIIIDN
+Coronavirus_from_pangolin             ------------------------------------------------------------
+SARS-2_Coronavirus_from_first_pa      ----CQYLNTLTLAVPYNMRVIHFGAGSDKGVAPGTAV--------LRQWLPTGTLLVDS
+SARS-2_Coronavirus_from_Wuhan         ------------------------------------------------------------
+                                                                                                  
+
+Bat_coronavirus                       SEINMDNSPNLAWPLIVTALRANSAVKLQNNELSPVALRQMSCAAGTTQTACTDDNALAY
+SARS_Coronavirus_from_2003            SEINMDNSPNLAWPLIVTALRANSAVKLQNNELSPVALRQMSCAAGTTQTACTDDNALAY
+Bat_Coronavirus_2                     SEINMDNSPNLAWPLIVTALRANSAVKLQNNELSPVALRQMSCAAGTTQTACTDDNALAY
+Beta_Coronavirus                      DLNEFVSDADITLFGDCVTVRVGQQVDLVISDMYDPTTKNVTGSNESKALFFTYLCNLIN
+MERS_Coronavirus*                     DLNEFVSDADITLFGDCVTVRVGQQVDLVISDMYDPTTKNVTGSNESKALFFTYLCNLIN
+Coronavirus_from_pangolin             ------------------------------------------------------------
+SARS-2_Coronavirus_from_first_pa      DLNDFVSDADSTLIGDCATVHTANKWDLIISDMYDPKTKNVTKENDSKEGFFTYICGFIQ
+SARS-2_Coronavirus_from_Wuhan         ------------------------------------------------------------
+                                                                                                  
+
+Bat_coronavirus                       YNNAKGGRFVLALLSDHQDLKWARFPKSDGTGTIYTELEPPCRFVTDTPKGPKVKYLYFI
+SARS_Coronavirus_from_2003            YNNSKGGRFVLALLSDHQDLKWARFPKSDGTGTIYTELEPPCRFVTDTPKGPKVKYLYFI
+Bat_Coronavirus_2                     YNNSKGGRFVLALLSDHQDLKWARFPKSDGTGTIYTELEPPCRFVTDTPKGPKVKYLYFI
+Beta_Coronavirus                      NNLALGGSVAIKITEHSWSVELYE---------LMGKFAWWTVFCTNANASSSEGFLLGI
+MERS_Coronavirus*                     NNLALGGSVAIKITEHSWSVELYE---------LMGKFAWWTVFCTNANASSSEGFLLGI
+Coronavirus_from_pangolin             ------------------------------------------------------------
+SARS-2_Coronavirus_from_first_pa      QKLALGGSVAIKITEHSWNADLYK---------LMGHFAWWTAFVTNVNASSSEAFLIGC
+SARS-2_Coronavirus_from_Wuhan         ------------------------------------------------------------
+                                                                                                  
+
+Bat_coronavirus                       KGLNNLNRGMVLGSLAATVRLQAGNATEVPANSTVLSFCAFAVDPAKAYKDYLASGGQPI
+SARS_Coronavirus_from_2003            KGLNNLNRGMVLGSLAATVRLQAGNATEVPANSTVLSFCAFAVDPAKAYKDYLASGGQPI
+Bat_Coronavirus_2                     KGLNNLNRGMVLGSLAATVRLQAGNATEVPANSTVLSFCAFAVDPAKAYKDYLASGGQPI
+Beta_Coronavirus                      NYLGTIKENIDGGAMHANYIFWRNSTPMNLSTYSLFDLSKFQLK----------------
+MERS_Coronavirus*                     NYLGTIKENIDGGAMHANYIFWRNSTPMNLSTYSLFDLSKFQLK----------------
+Coronavirus_from_pangolin             ------------------------------------------------------------
+SARS-2_Coronavirus_from_first_pa      NYLGKPREQIDGYVMHANYIFWRNTNPIQLSSYSLFDMSKFPLK----------------
+SARS-2_Coronavirus_from_Wuhan         ------------------------------------------------------------
+                                                                                                  
+
+Bat_coronavirus                       TNCVKMLCTHTGTGQAITVTPEANMDQESFGGASCCLYCRCHIDHPNPKGFCDLKGKYVQ
+SARS_Coronavirus_from_2003            TNCVKMLCTHTGTGQAITVTPEANMDQESFGGASCCLYCRCHIDHPNPKGFCDLKGKYVQ
+Bat_Coronavirus_2                     TNCVKMLCTHTGTGQAITVTPEANMDQESFGGASCCLYCRCHIDHPNPKGFCDLKGKYVQ
+Beta_Coronavirus                      ----------------LKGTPVLQLKESQINELVISLLSQGKL-----------------
+MERS_Coronavirus*                     ----------------LKGTPVLQLKESQINELVISLLSQGKL-----------------
+Coronavirus_from_pangolin             ------------------------------------------------------------
+SARS-2_Coronavirus_from_first_pa      ----------------LRGTAVMSLKEGQINDMILSLLSKGRL-----------------
+SARS-2_Coronavirus_from_Wuhan         ------------------------------------------------------------
+                                                                                                  
+
+Bat_coronavirus                       IPTTCANDPVGFTLRNTVCTVCGMWKGYGCSCDQLREPMMQSADASTFLNGFAV--
+SARS_Coronavirus_from_2003            IPTTCANDPVGFTLRNTVCTVCGMWKGYGCSCDQLREPLMQSADASTFLNGFAV--
+Bat_Coronavirus_2                     IPTTCANDPVGFTLRNTVCTVCGMWKGYGCSCDQLREPMMQSADASTFLNGFAV--
+Beta_Coronavirus                      ---------------------------------LIRDNDTLSVSTDVLVNTYRKLR
+MERS_Coronavirus*                     ---------------------------------LIRDNDTLSVSTDVLVNTYRKLR
+Coronavirus_from_pangolin             --------------------------------------------------------
+SARS-2_Coronavirus_from_first_pa      ---------------------------------IIRENNRVVISSDVLVNN-----
+SARS-2_Coronavirus_from_Wuhan         --------------------------------------------------------
+                                                                                              

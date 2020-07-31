@@ -1,0 +1,13 @@
+from Bio import SeqIO
+reads = list(SeqIO.parse("/share/SARS/SARS-2020.fasta","fasta"))
+
+translatedSeq = reads[0].seq.translate()
+numLongSeq = 0
+newSequences = translatedSeq.split("*") 
+for i in range(0,len(newSequences)): 
+	untested = newSequences[i]
+	if len(untested) >= 100: 
+		numLongSeq = numLongSeq + 1	print("There are",numLongSeq,"Long Sequences") 
+ 
+
+

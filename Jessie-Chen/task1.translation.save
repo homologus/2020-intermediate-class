@@ -1,0 +1,5 @@
+anslation of the covid dna sequence
+from Bio.Seq import Seq
+read = /share/SARS/SARS-2020.fasta
+print(read.translate())
+
