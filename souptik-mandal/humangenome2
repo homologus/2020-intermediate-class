@@ -1,0 +1,23 @@
+from Bio import SeqIO
+
+reads = list(SeqIO.parse("nucl.fasta", "fasta"))
+
+count = 1
+count2 = 1
+for i in reads:
+	s = i.seq
+	aminoAcids = s.translate()
+	prots = str(aminoAcids)
+	fragments = prots.split("*")
+	for x in fragments[0]:
+		for k in x:
+			if count2 == 1510:
+				print(k)
+			else:
+				count2+=1
+	for x in i.seq:
+		if count == 1510:
+			print(x)
+			break
+		else:
+			count+=1

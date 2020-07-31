@@ -1,0 +1,38 @@
+MUSCLE (3.8) multiple sequence alignment
+
+
+whale           MLRAVVLAAARPCQGRRLLSAAATPAVPAPNQQPEVFYNKIFINNEWHDSVSKRTFPTIN
+dolphin         ----------------------------------------IFINNEWHDSVSKKTFPTIN
+                                                        *************.******
+
+whale           PSTGDVICHVAEGDKEDVDRAVKAARAAFQLGSPWRRMDASKRGWLLNRLADLIERDRTY
+dolphin         PSTGDVICHVAEGDKXXXXXXXXXXXXXXXXXXXXXXMDASKR-LLLNRLADLIERDRTY
+                ***************                      ******  ***************
+
+whale           LAALETLDNGKPYVISYLVDLDMVLRCLRYYAGWADKYHGKTIPIDGDYFSYTRHEPVGV
+dolphin         LAALETLDNGKPYVISYLVDLDMVLKCLRYYAGWADKYHGKTIPIDGDYFSYTRHEPVGV
+                *************************.**********************************
+
+whale           CGQIIPWNFPLLMQAWKLGPALATGNVVVMKVAEQTPLTALYVANLIKEAGFPPGVVNII
+dolphin         CGQIIPWNFPLLMQAWKLGPALATGNVVVMKVAEQTPLTALYVANLIKEAGFPPGVVNIV
+                ***********************************************************:
+
+whale           PGFGPTAGAAIASHEDVDKVAFTGSTEVGHLIQTAAGNSNLKRVTLELGGKSPNIIMSDA
+dolphin         PGFGPTAGAAVASHEDVDKVAFTGSTEVGHLIQTAAGNSNLKRVTLELGGKSPNIIMSDA
+                **********:*************************************************
+
+whale           DMDWAVEQAHFALFFNQGQCCCAGSRTFVQEDIYSKFVERSVARARSR------------
+dolphin         DMDWAVEQAHFALFFNQGQCCCAGSRTFVQEDVYTEFVERSVARARSRVVGNPFDSRTEQ
+                ********************************:*::************            
+
+whale           ---VDETQFKKVLGYIKSGKEEGAKLLCGGGAAADRGYFIQPTVFGDVQDGMTIAKEEIF
+dolphin         GPQVDETQFKKVLGYIKSGKEEGAKLLCGGGAAADRGYFIQPTVFGDVQDGMTIAKEEIF
+                   *********************************************************
+
+whale           GPVMQILKFKTIEEVVRRANNSKYGLAAAVFTKDLDKAXYLSQALQAGTVWVNCYDVFGA
+dolphin         GPVMQILKFKTIEEVVGRANNSKYGLAAAVFTKDLDKANYLSQALQAGTVWVNCYDVFGA
+                **************** ********************* *********************
+
+whale           QSPFGGYKLSGSGRELGEYGLQAYTEVKTVTVKVPQKNS
+dolphin         QSPFGGYKLSGSGRELGEYGLQAYTEVKT----------
+                *****************************          

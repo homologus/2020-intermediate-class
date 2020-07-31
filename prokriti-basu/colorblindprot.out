@@ -1,0 +1,30 @@
+MUSCLE (3.8) multiple sequence alignment
+
+
+HumanGreenOpsin        MAQQWSLQRLAGRHPQDSYEDSTQSSIFTYTNSNSTRGPFEGPNYHIAPRWVYHLTSVWM
+MutatedGreenOpsin      MAQQWSLQRLAGRHPQDSYEDSTQSSIFTYTNSNSTRGPFEGPNYHIAPRWVYHLTSVWM
+                       ************************************************************
+
+HumanGreenOpsin        IFVVIASVFTNGLVLAATMKFKKLRHPLNWILVNLAVADLAETVIASTISVVNQVYGYFV
+MutatedGreenOpsin      IFVVIASVFTNGLVLAATMKFKKLRHPLNWILVNLAVADLAETVIASTISVVNQVYGYFV
+                       ************************************************************
+
+HumanGreenOpsin        LGHPMCVLEGYTVSLCGITGLWSLAIISWERWMVVCKPFGNVRFDAKLAIVGIAFSWIWA
+MutatedGreenOpsin      LGHPMCVLEGYTVSLCGITGLWSLAIISWERWMVVCKPFGNVRFDAKLAIVGIAFSWIWA
+                       ************************************************************
+
+HumanGreenOpsin        AVWTAPPIFGWSRYWPHGLKTSCGPDVFSGSSYPGVQSYMIVLMVTCCITPLSIIVLCYL
+MutatedGreenOpsin      AVWTAPPIFGWSRYWPHGLKTSCGPDVFSGSSYPGVQSYMIVLMVTCCITPLSIIVLCYL
+                       ************************************************************
+
+HumanGreenOpsin        QVWLAIRAVAKQQKESESTQKAEKEVTRMVVVMVLAFCFCWGPYAFFACFAAANPGYPFH
+MutatedGreenOpsin      QVWLAIRAVAKQQKESESTQKAEKEVTRMVVVMVLAFCFCWGPYAFFACFAAANPGYPFH
+                       ************************************************************
+
+HumanGreenOpsin        PLMAALPAFFAKSATIYNPVIYVFMNRQFRNCILQLFGKKVDDGSELSSASKTEVSSVSS
+MutatedGreenOpsin      PLMAALPAFFAKSATIYNPVIYVFMNRQFQNCILQLFGKKVDDGSELSSASKTEVSSVSS
+                       *****************************.******************************
+
+HumanGreenOpsin        VSPA
+MutatedGreenOpsin      VSPA
+                       ****
