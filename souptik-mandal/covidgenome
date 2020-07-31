@@ -1,0 +1,48 @@
+from Bio import SeqIO
+
+reads = list(SeqIO.parse("/share/SARS/SARS-2020.fasta", "fasta"))
+
+for i in reads:
+	print("reading frame 1")
+	s = i.seq[0:]
+	aminoAcids = s.translate()
+	count = 0
+	genes = 0
+	prot = str(aminoAcids)
+	fragments = prot.split("*")
+	genesOver100 = 0
+	for x in fragments:
+		if len(x) >= 100:
+			print("\n", x)				
+			count = 0
+			genesOver100+=1
+	print("Genes: ", genes)
+	print("Genes with over 100 amino acids: ", genesOver100)
+
+	print("reading frame 2")
+	s = i.seq[1:]
+	aminoAcids = s.translate()
+	count = 0
+	genes = 0
+	prot = str(aminoAcids)
+	fragments = prot.split("*")
+	genesOver100 = 0
+	for x in fragments:
+		if len(x) >= 100:
+			print("\n", x)
+	print("Genes: ", genes)
+	print("Genes with over 100 amino acids: ", genesOver100)
+
+	print("reading frame 3")
+	s = i.seq[2:]
+	aminoAcids = s.translate()
+	count = 0
+	genes = 0
+	prot = str(aminoAcids)
+	fragments = prot.split("*")
+	genesOver100 = 0
+	for x in fragments:
+		if len(x) >= 100:
+			print("\n", x)
+	print("Genes: ", genes)
+	print("Genes with over 100 amino acids: ", genesOver100)

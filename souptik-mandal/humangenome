@@ -1,0 +1,12 @@
+from Bio import SeqIO
+
+reads = list(SeqIO.parse("/share/Human/chr12.fa", "fasta"))
+
+count = 1
+for i in reads:
+	for x in i.seq:
+		if count == 111803962:
+			print(x)
+			break
+		else:
+			count+=1

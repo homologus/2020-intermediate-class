@@ -1,0 +1,48 @@
+import string
+from Bio.Seq import Seq
+from Bio import SeqIO
+
+
+filepath = "/share/SARS/SARS-2020.fasta"
+
+
+def read_frames(filepath: str):
+        reads = list(SeqIO.parse(filepath, "fasta"))
+        # rna = reads[0].seq.transcribe()
+        for i in reads:
+                rf1 = i.seq[0:]
+                rf2 = i.seq[1:]
+                rf3 = i.seq[2:]
+
+        return rf1, rf2, rf3
+
+def  protein_reader(s, Cut_off_count: int):
+        p = s.transcribe()
+        p = p.translate()
+
+        counter = 0
+        res = 0
+        for i in range(0,len(p)) :
+            if p[i] != '*':
+                counter = counter + 1
+            elif counter >= Cut_off_count and p[i] == '*':
+		res = res + 1
+		startLocation = i - counter
+		endLocation = i-1
+		print(startLocation, endLocation, p[startLocation: endLocation])
+		counter = 0
+            else:
+                counter = 0
+        if counter >= Cut_off_count :
+		res = res + 1
+		startLocation = len - 1 - counter
+		endLocation = len
+		print(startLocation, endLocation, p[startLocation: endLocation])
+        return res
+
+cut_off = 100
+r1, r2, r3 = read_frames(filepath)
+c1 = protein_reader(r1, cut_off)
+c2 = protein_reader(r2, cut_off)
+c3 = protein_reader(r3, cut_off)
+print(c1, c2, c3, c1+c2+c3)
