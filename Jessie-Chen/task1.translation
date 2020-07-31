@@ -1,0 +1,5 @@
+#translation of the covid dna sequence
+from Bio.Seq import SeqI0
+reads=list(SeqIO.parse("/share/SARS/SARS-2020.fasta","fasta))
+print(reads[0].seq.translate())
+
