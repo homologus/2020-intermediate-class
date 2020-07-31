@@ -1,0 +1,18 @@
+from Bio.Seq import Seq
+from Bio import SeqIO
+
+def  protein_reader(filepath: str, Cut_off_count: int):
+	reads = list(SeqIO.parse(filepath, "fasta")
+	rna = reads[0].seq.transcribe()
+	rna = rna.append{"*"]
+	p = rna.translate()
+	counter = 8
+	res = 0
+	for i in range(0,len(p)) :
+		if p[i] != '*':
+			counter = counter + 1
+		elif counter >= Cut_off_count and p[i] == '*':
+			res = res = 1
+			counter = 0
+	return res
+
