@@ -1,0 +1,752 @@
+MUSCLE (3.8) multiple sequence alignment
+
+
+Pangolin        ------------------LITVVDRKRVTRXXXXXXXXXXXXXXXXXXX-XXXXXXXXXX
+Sars2003        -----------PKGKMESLVLGVNEKTHVQLSLPVLQVRDVLVRGFGDS-VEEALSEARE
+Bat             -----------PKGKMESLVLGVNEKTHVQLSLPVLQVRDVLVRGFGDS-VEEALSEARE
+Beta            -----------RFQFFKRVRGSIVNARIEPCSSGL--STDVVFRAFDICNYKAKVAGIGK
+MERS            -----------RFQFFKRVRGSIVNARIEPCSSGL--STDVVFRAFDICNYKAKVAGIGK
+Wuhan           -----------CTIVFKRVC-GVSAARLTPCGTGT--STDVVYRAFDI--YNDKVAGFAK
+First           -----------CTIVFKRVC-GVSAARLTPCGTGT--STDVVYRAFDI--YNDKVAGFAK
+Bat             STPRTHDAVCGCVNVFKRVC-GVSAARLTPCGTGT--STDVVYRAFDI--YNEKVAGFAK
+                                  :   :                                     
+
+Pangolin        XXXXXXPGFNEKTTR-------------------------------------PTQFXCSS
+Sars2003        HLKNGTCGLVELEKGVLPQLEQPYVFIKRSDALSTNHGHKVVELVAEMDGI---QYGRSG
+Bat             HLKNGTCGLVELEKGVLPQLEQPYVFIKRSDALSTNHGHKVVELVAELDGI---QFGRSG
+Beta            YYKTNTCRFVELDDQ--GHHLDSYFVVKRHTMENYELEKHCYDLLRDCDAVAPHDFFIFD
+MERS            YYKTNTCRFVELDDQ--GHHLDSYFVVKRHTMENYELEKHCYDLLRDCDAVAPHDFFIFD
+Wuhan           FLKTNCCRFQEKDED--DNLIDSYFVVKRHTFSNYQHEETIYNLLKDCPAVAKHDFFKFR
+First           FLKTNCCRFQEKDED--DNLIDSYFVVKRHTFSNYQHEETIYNLLKDCPAVAKHDFFKFR
+Bat             FLKTNCCRFQEKDEE--GNLLDSYFVVKRHTMSNYQHEETIYNLVKNCPAVAVHDFFKFR
+                        : *                                           ::    
+
+Pangolin        GS-RAASTWL-------------------------------------------------W
+Sars2003        ITLGVLVPHVGETPIAYRNVLLRKNGNKGAGGHSYGIDLKSYDLGDELGTDPIEDYEQNW
+Bat             ITLGVLVPHVGETPIAYRNVLLRKNGNKGAGGHSFGIDLKSYDLGDELGTDPIEDYEQNW
+Beta            VD-KVKTPHI-------------------------------------------------V
+MERS            VD-KVKTPHI-------------------------------------------------V
+Wuhan           ID-GDMVPHI-------------------------------------------------S
+First           ID-GDMVPHI-------------------------------------------------S
+Bat             VD-GDMVPHI-------------------------------------------------S
+                       ..:                                                  
+
+Pangolin        RLRGGGXXXXXXXXXX------XXXXXXXX-------XXXXXXXXXXALCVCXXXXXXXX
+Sars2003        NTKHGSGALRELTRELNGGAVTRYVDNNFCGPDGYPLDCIKDFLARAGKSMCTLSEQLDY
+Bat             NTKHGSGALRELTRELNGGVVTRYVDNNFCGPDGYPLECIKDFLARAGKSMCTLSEQLDY
+Beta            RQRLTEYTMMDLVYAL------RHFDQNS--------EVLKAILVKYGCCDVTYFENKLW
+MERS            RQRLTEYTMMDLVYAL------RHFDQNS--------EVLKAILVKYGCCDVTYFENKLW
+Wuhan           RQRLTKYTMADLVYAL------RHFDEGNC-------DTLKEILVTYNCCDDDYFNKKDW
+First           RQRLTKYTMADLVYAL------RHFDEGNC-------DTLKEILVTYNCCDDDYFNKKDW
+Bat             RQRLTKYTMADLVYAL------RHFDEGNC-------DTLKEILVTYNCCDDDYFNKKDW
+                . .                                              .          
+
+Pangolin        XXX----XXXXXXXXXTRWCSVRSKFFVQHVIIQKWDLSTVSQNTIMNLVLKPLFVKVVV
+Sars2003        IESKRGVYCCRDHEHEIAWFTERSDKSYEH--QTPFEIKSAKKFDTFKGE-CPKFVFPLN
+Bat             IESKRGVYCCREHEHEIVWFTERSEKSYEH--QTPFEIKSAKKFDTFKGE-CPKFVFPLN
+Beta            -------FDFVENPSVIGVYHKLGERVRQA--I----LNTVKFCDHMVKA-GLVGVLTLD
+MERS            -------FDFVENPSVIGVYHKLGERVRQA--I----LNTVKFCDHMVKA-GLVGVLTLD
+Wuhan           -------YDFVENPDILRVYANLGERVRQA--L----LKTVQFCDAMRNA-GIVGVLTLD
+First           -------YDFVENPDILRVYANLGERVRQA--L----LKTVQFCDAMRNA-GIVGVLTLD
+Bat             -------YDFVENPDILRVYANLGERVRQA--L----LKTVQFCDAMRDA-GIVGVLTLD
+                                       ..   :        :.:..    :        *  : 
+
+Pangolin        PK--------------------------------------------HLE----DVCSLMW
+Sars2003        SKVKVIQPRVEKKKTEGFMGRIRSVYPVASPQECNNMHLSTLMKCNHCDEVSWQTCDFLK
+Bat             SKVKVIQPRVEKKKTEGFMGRIRSVYPVATPQECNDMHLSTLMKCNHCDEVSWQTCDFLK
+Beta            NQ--------------------------------------------DLNGKWYDFGDFVI
+MERS            NQ--------------------------------------------DLNGKWYDFGDFVI
+Wuhan           NQ--------------------------------------------DLNGNWYDFGDFIQ
+First           NQ--------------------------------------------DLNGNWYDFGDFIQ
+Bat             NQ--------------------------------------------DLNGNWYDFGDFVQ
+                 :                                              :    :  .:: 
+
+Pangolin        AVTTKC------------------------------------------------------
+Sars2003        ATCEHCGTENLVIEGPTTCGYLPTNAVVKMPCPACQDPEIGPEHSVADYHNHSNIETRLR
+Bat             ATCEQCGTENLVCEGPTTCGYLPTNAVVKMPCPACQDPEVGPEHSVADYHNHSNIETRLR
+Beta            TQP---------------------------------------------------------
+MERS            TQP---------------------------------------------------------
+Wuhan           TTP---------------------------------------------------------
+First           TTP---------------------------------------------------------
+Bat             VAP---------------------------------------------------------
+                .                                                           
+
+Pangolin        ----------------------AYWVPRAAANVGRNHTGVVGEGSESLNDNLLEILTKEK
+Sars2003        KGGRTRCFGGCVFAYVGCYNKRAYWVPRASADIGSGHTGITGDNVETLNEDLLEILSRER
+Bat             KGGRTKCFGGCVFSYVGCYNKRAYWVPRASANIGANHTGITGENVETLNEDLLEILNRER
+Beta            ---------GSGVAIVDSYY--SYLMPVLSMT-----DCLAAETHRDCD------FNKPL
+MERS            ---------GSGVAIVDSYY--SYLMPVLSMT-----DCLAAETHRDCD------FNKPL
+Wuhan           ---------GSGVPVVDSYY--SLLMPILTLT-----RALTAESHVDTD------LTKPY
+First           ---------GSGVPVVDSYY--SLLMPILTLT-----RALTAESHVDTD------LTKPY
+Bat             ---------GCGVPIVDSYY--SLLMPILTLT-----RALAAESHMDAD------LAKPL
+                                      :  :*  :         :..:     :      : .  
+
+Pangolin        VNINIVGDFKLTEEIAIILASFSA--STSAFVETVKGLDYKSFKQIVESCGNFKVTKGKF
+Sars2003        VNINIVGDFHLNEEVAIILASFSA--STSAFIDTIKSLDYKSFKTIVESCGNYKVTKGKP
+Bat             VNINIVGDFRFNEEVAIILASFSA--SPSAFIETVKGLDYKSFKVIVESCGNYKVTNGEP
+Beta            IEWPLTE-YDFTDYKVQLFEKYFKYWDQTYHANCVNCTDDRC----VLHCANFNVL----
+MERS            IEWPLTE-YDFTDYKVQLFEKYFKYWDQTYHANCVNCTDDRC----VLHCANFNVL----
+Wuhan           IKWDLLK-YDFTEERLKLFDRYFKYWDQTYHPNCVNCLDDRC----ILHCANFNVL----
+First           IKWDLLK-YDFTEERLKLFDRYFKYWDQTYHPNCVNCLDDRC----ILHCANFNVL----
+Bat             IKWDLLK-YDFTEERLCLFDRYFKYWDQTYHPNCINCLDDRC----ILHCANFNVL----
+                ::  :   : :.:    ::  :    . : . : ::  * ..    :  *.*::*     
+
+Pangolin        KKNAWNIGEPKSILSPLYAFPSEAARVVRSIFSRTLETAQHSVRVLQKAAITILDGISQY
+Sars2003        VKGAWNIGQQRSVLTPLCGFPSQAAGVIRSIFARTLDAANHSIPDLQRAAVTILDGISEQ
+Bat             VTGAWNIGQQRSILTPLCGFPSQAAGVIRSIFSRTLDAANHSILDLQRAAVTTLDGISEQ
+Beta            ----FAMTMPKTCFGPI----------VRKIFVDGVPFVVSCGYHYKELGLVMNMDVSLH
+MERS            ----FAMTMPKTCFGPI----------VRKIFVDGVPFVVSCGYHYKELGLVMNMDVSLH
+Wuhan           ----FSTVFPPTSFGPL----------VRKIFVDGVPFVVSTGYHFRELGVVHNQDVNLH
+First           ----FSTVFPPTSFGPL----------VRKIFVDGVPFVVSTGYHFRELGVVHNQDVNLH
+Bat             ----FSTVFPPTSFGPL----------VRKIFVDGVPFVVSTGYHFRELGVVHNQDVNLH
+                    :      : : *:          :*.**   :  .       .  .:.   .:.  
+
+Pangolin        SLRLI--DAMLFTSELTTDSIVXXXXXXGGVVQMTTQWLTNIFGTVYEKLKP------IL
+Sars2003        SLRLV--DAMVYTSDLLTNSVIIMAYVTGGLVQQTSQWLSNLLGTTVEKLRP------IF
+Bat             SLRLV--DAMVYTSDLLTNSVVVMAYVTGGLVQQTMQWLSNMLGTAVDKLKP------VF
+Beta            RHRLSLKELMMYAADPAMHIASSNAFLDLRTSCFSVAALTT--GLTFQTVRPGNFNQDFY
+MERS            RHRLSLKELMMYAADPAMHIASSNAFLDLRTSCFSVAALTT--GLTFQTVRPGNFNQDFY
+Wuhan           SSRLSFKELLVYAADPAMHAASGNLLLDKRTTCFSVAALTN--NVAFQTVKPGNFNKDFY
+First           SSRLSFKELLVYAADPAMHAASGNLLLDKRTTCFSVAALTN--NVAFQTVKPGNFNKDFY
+Bat             SSRLSFKELLVYAADPAMHAASGNLLLDKRTTCFSVAALTN--NVAFQTVKPGNFNKDFY
+                  **   : ::::::                   :   *:.  . . :.:.*      . 
+
+Pangolin        DWLEEK--FKEGIE-------FLKDG------WEIVKFITTCSCEIIGXXXXXXXTELKD
+Sars2003        EWIEAK--LSAGVE-------FLKDA------WEILKFLITGVFDIVKGQIQVASDNIKD
+Bat             TWVEAK--LSAGVE-------FLRDA------WEILKFLITGVFDVIKGQIQVATDNIKE
+Beta            DFVVSKGFFKEGSSVTLKHFFFAQDGNAAITDYNYYSYNLPTMCDI--KQMLFCMEVVNK
+MERS            DFVVSKGFFKEGSSVTLKHFFFAQDGNAAITDYNYYSYNLPTMCDI--KQMLFCMEVVNK
+Wuhan           DFAVSKGFFKEGSSVELKHFFFAQDGNAAISDYDYYRYNLPTMCDI--RQLLFVVEVVDK
+First           DFAVSKGFFKEGSSVELKHFFFAQDGNAAISDYDYYRYNLPTMCDI--RQLLFVVEVVDK
+Bat             DFAVSKGFFKEGSSVELKHFFFAQDGNAAISDYDYYRYNLPTMCDI--RQLLFVVEVVDK
+                 :   *  :. * .       * .*.      ::   :  .   ::           :..
+
+Pangolin        SVKKFFKLVNKFLALCADSIVIG-GAKLKALNLGETF-----VAHSRGLY----KKCVKS
+Sars2003        CVKCFIDVVNKALEMCIDQVTIA-GAKLRSLNLGEVF-----IAQSKGLY----RQCIRG
+Bat             CVKIFLGVVNKALEMCLDQVTIA-GTKLRALNLGEVF-----IAQSRGLY----RQCIRG
+Beta            YFEIYDGGCLNASEVVVNNLDKSAGHPFNKFGKARVYYESMSYQEQDELFAMTKRNVIPT
+MERS            YFEIYDGGCLNASEVVVNNLDKSAGHPFNKFGKARVYYESMSYQEQDELFAMTKRNVIPT
+Wuhan           YFDCYDGGCINANQVIVNNLDKSAGFPFNKWGKARLYYDSMSYEDQDALFAYTKRNVIPT
+First           YFDCYDGGCINANQVIVNNLDKSAGFPFNKWGKARLYYDSMSYEDQDALFAYTKRNVIPT
+Bat             YFDCYDGGCINANQVIVNNLDKSAGFPFNKWGKARLYYDSMSYEDQDALFAYTKRNVIPT
+                 .. :     :   :  :.:  . *  :.  . .  :        .  *:    .: :  
+
+Pangolin        RGDSGLLMPLKAPKEVIFLDGETLPTEVLSEEVILKTGELQPLEEPTAQAVEVPLVGTPV
+Sars2003        KEQLQLLMPLKAPKEVTFLEGDSHDTVLTSEEVVLKNGELEALETPVDSFTNGAIVGTPV
+Bat             KEQLQLLMPLKAPKEVTFLEGDAHDTVLTSEEVVLKSGELEALETPIDSFTSGAVVGTPV
+Beta            MTQMNLKYAISAKNRARTVAGVSILSTMTNRQYHQKM-----LKSMAATRGATCVIGTTK
+MERS            MTQMNLKYAISAKNRARTVAGVSILSTMTNRQYHQKM-----LKSMAATRGATCVIGTTK
+Wuhan           ITQMNLKYAISAKNRARTVAGVSICSTMTNRQFHQKL-----LKSIAATRGATVVIGTSK
+First           ITQMNLKYAISAKNRARTVAGVSICSTMTNRQFHQKL-----LKSIAATRGATVVIGTSK
+Bat             ITQMNLKYAISAKNRARTVAGVSICSTMTNRQFHQKL-----LKSIAATRGATVVIGTSK
+                  :  *  .:.* : .  : * :  : : . :   *      *:          ::**. 
+
+Pangolin        CINGLMLLEIKDTEKYCALAPNMMVTNNTFTLKGGAPTK-VTFGDDTVIEVQG--YKNVN
+Sars2003        CVNGLMLLEIKDKEQYCALSPGLLATNNVFRLKGGAPIKGVTFGEDTVWEVQG--YKNVR
+Bat             CINGLMLLELENKEQYCALSPGLLATNNVFRLKGGAPVKGVTFGEDTVLEVQG--YKNVK
+Beta            FYGGWDFML---KTLYKDVDNPHLMGWDYPKCDRAMPNMCRIFASLILARKHGTCCTTRD
+MERS            FYGGWDFML---KTLYKDVDNPHLMGWDYPKCDRAMPNMCRIFASLILARKHGTCCTTRD
+Wuhan           FYGGWHNML---KTVYSDVENPHLMGWDYPKCDRAMPNMLRIMASLVLARKHTTCCSLSH
+First           FYGGWHNML---KTVYSDVENPHLMGWDYPKCDRAMPNMLRIMASLVLARKHTTCCSLSH
+Bat             FYGGWHNML---KTVYSDVETPHLMGWDYPKCDRAMPNMLRIMASLVLARKHSTCCNLSH
+                  .*   :    .  *  :    :  .:    . . *     :..  :   :    .   
+
+Pangolin        ITFELDERVDKVLNEKCSN----YTVELGTNIDELACVVAEAVIKTLQPVSELLTPLGID
+Sars2003        ITFELDERVDKVLNEKCSV----YTVESGTEVTEFACVVAEAVVKTLQPVSDLLTNMGID
+Bat             ITFELDERVDKVLNEKCSV----YTVESGTEVTEFACVVAEAVVKTLQPVSDLLTPMGID
+Beta            RFYRLANECAQVLSEYVLCGGGYYVKPGGTSSGDATTAYANSVFNILQATTANVSAL-MG
+MERS            RFYRLANECAQVLSEYVLCGGGYYVKPGGTSSGDATTAYANSVFNILQATTANVSAL-MG
+Wuhan           RFYRLANECAQVLSEMVMCGGSLYVKPGGTSSGDATTAYANSVFNICQAVTANVNAL-LS
+First           RFYRLANECAQVLSEMVMCGGSLYVKPGGTSSGDATTAYANSVFNICQAVTANVNAL-LS
+Bat             RFYRLANECAQVLSEMVMCGGSLYVKPGGTSSGDATTAYANSVFNICQAVTANVNAL-LS
+                  : * :   :**.*        *.   **.  : : . *::*.:  *..:  :. : :.
+
+Pangolin        LDEWGVATYYLFDESGEYTLSSRMYCSFY---PPDEDYEEE-YSEEEQ------PEQPTQ
+Sars2003        LDEWSVATFYLFDDAGEENFSSRMYCSFY---PPDEEEEDDAECEEEE------IDETCE
+Bat             LDEWSVATFYLFDDAGEEKLSSRMYCSFY---PPDEEEDCE-ECEDEE--------ETCE
+Beta            ANGNKIVDKEV------KDMQFDLYVNVYRSTSPDPKFVDKYYAFLNKHFSMMILSDDGV
+MERS            ANGNKIVDKEV------KDMQFDLYVNVYRSTSPDPKFVDKYYAFLNKHFSMMILSDDGV
+Wuhan           TDGNKIADKYV------RNLQHRLYECLYRNRDVDTDFVNEFYAYLRKHFSMMILSDDAV
+First           TDGNKIADKYV------RNLQHRLYECLYRNRDVDTDFVNEFYAYLRKHFSMMILSDDAV
+Bat             TDGNKIADKYV------RNLQHRLYECLYRNRDVDHEFVDEFYAYLRKHFSMMILSDDAV
+                 : . :.   :        :.  :*  .*     * .   .  .   :        :   
+
+Pangolin        YEYGTESDYKGLPLEFGA--SSVQQQEE----QEEDWLETEAEVVEQEVTPTEQEEELPI
+Sars2003        HEYGTEDDYQGLPLEFGASAETVRVEEE----EEEDWLDDTTEQSEIEPEPEPTPEEP--
+Bat             HEYGTEDDYKGLPLEFGASTETPHVEEE---EEEEDWLDDAIEA---EPEPEPLPEEP--
+Beta            VCYNSDYAAKGYIAGIQNFKETLYYQNNVFMSEAKCWVETDL---------KKGPHEF--
+MERS            VCYNSDYAAKGYIAGIQNFKETLYYQNNVFMSEAKCWVETDL---------KKGPHEF--
+Wuhan           VCFNSTYASQGLVASIKNFKSVLYYQNNVFMSEAKCWTETDL---------TKGPHEF--
+First           VCFNSTYASQGLVASIKNFKSVLYYQNNVFMSEAKCWTETDL---------TKGPHEF--
+Bat             VCYNSNYAAQGLVASIKNFKAVLYYQNNVFMSEAKCWTETDL---------TKGPHEF--
+                  :.:    :*    :         :::    : : * :                 *   
+
+Pangolin        TEIVPAVEQTTIVELECDNFTGYLKLTDN---VSIKNVDIVSEAKNVKPTIVVNAANVHL
+Sars2003        ----------------VNQFTGYLKLTDN---VAIKCVDIVKEAQSANPMVIVNAANIHL
+Bat             ----------------VNQFVGYLKLTDN---VAIKCIDIVKEAQSAKPTVIVNAANTHL
+Beta            ----------------CSQHTLYIKDGDDGYFLPYPDPSRILSAGCFVDDIVKTDGTLMV
+MERS            ----------------CSQHTLYIKDGDDGYFLPYPDPSRILSAGCFVDDIVKTDGTLMV
+Wuhan           ----------------CSQHTMLVKQGDDYVYLPYPDPSRILGAGCFVDDIVKTDGTLMI
+First           ----------------CSQHTMLVKQGDDYVYLPYPDPSRILGAGCFVDDIVKTDGTLMI
+Bat             ----------------CSQHTMLVKQGDDYVYLPYPDPSRILGAGCFVDDIVKTDGTLMI
+                                 .:..  :*  *:   :.    . :  *      :: . ..  :
+
+Pangolin        KHGGGV---AGALNKATNNAMQIESDDYIARNGPLNVGGSCLLNGHNLAKNCLHVVGPNL
+Sars2003        KHGGGV---AGALNKATNGAMQKESDDYIKLNGPLTVGGSCLLSGHNLAKKCLHVVGPNL
+Bat             KHGGGV---AGALNKATNGAMQNESDEYIRQNGPLTVGGSCLLSGHNLAEKCLHVVGPNL
+Beta            ERFVSLAIDAYPLTKHEDIEYQNVFWVYLQYIEKLYKD----LTGHMLDSYSVMLCGDNS
+MERS            ERFVSLAIDAYPLTKHEDIEYQNVFWVYLQYIEKLYKD----LTGHMLDSYSVMLCGDNS
+Wuhan           ERFVSLAIDAYPLTKHPNQEYADVFHLYLQYIRKLHDE----LTGHMLDMYSVMLTNDNT
+First           ERFVSLAIDAYPLTKHPNQEYADVFHLYLQYIRKLHDE----LTGHMLDMYSVMLTNDNT
+Bat             ERFVSLAIDAYPLTKHPNQEYADVFHLYLQYIRKLHDE----LTGHMLDMYSVMLTNDNT
+                :.  .:   * .*.*  :         *:     *       *.** *   .: : . * 
+
+Pangolin        NKGEDIQLLKVAYENFNHHEKLLAPLLSA-------GIFGAQPITV--------------
+Sars2003        NAGEDIQLLKAAYENFNSQDILLAPLLSA-------GIFGAKPLQSLQVCVQTVRTQVYI
+Bat             NAGEDVQLLKRAYENFNSQDVLLAPLLSA-------GIFGAKPLQSLKMCVEIVRTQVYL
+Beta            AKFWEEAFYRDLYSSPTTLQAVGSCVVCHSQTSLRCGTCIRRPFLCCKCCYDHVIATPHK
+MERS            AKFWEEAFYRDLYSSPTTLQAVGSCVVCHSQTSLRCGTCIRRPFLCCKCCYDHVIATPHK
+Wuhan           SRYWEPEFYEAMYTPHTVLQAVGACVLCNSQTSLRCGACIRRPFLCCKCCYDHVISTSHK
+First           SRYWEPEFYEAMYTPHTVLQAVGACVLCNSQTSLRCGACIRRPFLCCKCCYDHVISTSHK
+Bat             SRYWEPEFYEAMYTPHTVLQAVGACVLCNSQTSLRCGACIRRPFLCCKCCYDHVISTSHK
+                    :  :    *   .  : : : ::.        *    .*:                
+
+Pangolin        ------------------------------------------------------------
+Sars2003        AVNDKALYEQVVMDYLDNLKPRVEAPKQEEPPNTEDSKTEEKSVVQKPVDVKPKIKACID
+Bat             AVNDKSLYDQIVLDYLDSLKPKVESPNKEEEPKLEEPKAVQ-PVAEKPVDVKPKIKACID
+Beta            MV----------------------------------------------------------
+MERS            MV----------------------------------------------------------
+Wuhan           LV----------------------------------------------------------
+First           LV----------------------------------------------------------
+Bat             LV----------------------------------------------------------
+                                                                            
+
+Pangolin        ------------------------------------------------------------
+Sars2003        EVTTTLEETKFLTNKLLLFADINGKLYHDSQNMLRGEDMSFLEKDAPYMVGDVITSGDIT
+Bat             EVTTTLEETKFLTNKLLLFADINGKLYQDSQNMLRGEDMSFLEKDAPYIVGDVINSGDIT
+Beta            ------------------------------------------------------------
+MERS            ------------------------------------------------------------
+Wuhan           ------------------------------------------------------------
+First           ------------------------------------------------------------
+Bat             ------------------------------------------------------------
+                                                                            
+
+Pangolin        ------------------------------------------------------------
+Sars2003        CVVIPSKKAGGTTEMLSRALKKVPVDEYITTYPGQGCAGYTLEEAKTALKKCKSAFYVLP
+Bat             CVIIPAKKSGGTTEMLARALKEVPVAEYITTYPGQGCAGYTLEEAKTALKKCKSAFYVLP
+Beta            ----------------------LSVSPYVCNAPGCG------------------------
+MERS            ----------------------LSVSPYVCNAPGCG------------------------
+Wuhan           ----------------------LSVNPYVCNAPGCD------------------------
+First           ----------------------LSVNPYVCNAPGCD------------------------
+Bat             ----------------------LSVNPYVCNAPGCD------------------------
+                                                                            
+
+Pangolin        ------------------------------------------------------------
+Sars2003        SEAPNAKEEILGTVSWNLREMLAHAEETRKLMPICMDVRAIMATIQRKYKGIKIQEGIVD
+Bat             SETPNEKEEVLGTVSWNLREMLAHAEETRKLMPICLDVRAIMATIQRKYKGIKVQEGIVD
+Beta            -----------------------------------------VSDVTKLYLG---------
+MERS            -----------------------------------------VSDVTKLYLG---------
+Wuhan           -----------------------------------------VTDVTQLYLG---------
+First           -----------------------------------------VTDVTQLYLG---------
+Bat             -----------------------------------------VTDVTQLYLG---------
+                                                                            
+
+Pangolin        ------------------------------------------------------------
+Sars2003        YGVRFFFYTSKEPVASIITKLNSLNEPLVTMPIGYVTHGFNLEEAARCMRSLKAPAVVSV
+Bat             YGVRFFFYTSKEPVASIITKLNSLNEPLVTMPIGYVTHGLNLEEAARCMRSLKAPAVVSV
+Beta            -GMSYFCVDHR---------------PVCSFPLCANGLVFGLYKN-------------MC
+MERS            -GMSYFCVDHR---------------PVCSFPLCANGLVFGLYKN-------------MC
+Wuhan           -GMSYYCKSHK---------------PPISFPLCANGQVFGLYKN-------------TC
+First           -GMSYYCKSHK---------------PPISFPLCANGQVFGLYKN-------------TC
+Bat             -GMSYYCKSHK---------------PPISFPLCANGQVFGLYKN-------------TC
+                                                                            
+
+Pangolin        ------------------------------------------------------------
+Sars2003        SSPDAVTTYNGYLTSSSKTSEEHFVETVSLAGSYRDWSYSGQRTELGVEFLKRGDKIVYH
+Bat             SSPDAVTAYNGYLTSSSKTPEEYFVETTSLAGSYRDWSYSGQRTELGVEFLKRGDKIVYH
+Beta            TGSPSIVEFNRLATCDWTESGDYTLANTT----------TEPLKLFAAETLRATEEASKQ
+MERS            TGSPSIVEFNRLATCDWTESGDYTLANTT----------TEPLKLFAAETLRATEEASKQ
+Wuhan           VGSDNVTDFNAIATCDWTNAGDYILANTC----------TERLKLFAAETLKATEETFKL
+First           VGSDNVTDFNAIATCDWTNAGDYILANTC----------TERLKLFAAETLKATEETFKL
+Bat             VGSDNVTDFNAIATCDWTNAGDYILANTC----------TERLKLFAAETLKATEETFKL
+                                                                            
+
+Pangolin        ------------------------------------------------------------
+Sars2003        TLESPVEFHLDGEVLSLDKLKSLLSLREVKTIKVFTTVDNTNLHTQLVDMSMTYGQQFGP
+Bat             TTGSPIEFHLDGEVLPLDKLKSLLSLREVKTIKVFTTVDNTNLHTHIVDMSMTYGQQFGP
+Beta            SYA-------------IATIKEIVGERQLLLVW---------------------------
+MERS            SYA-------------IATIKEIVGERQLLLVW---------------------------
+Wuhan           SYG-------------IATVREVLSDRELHLSW---------------------------
+First           SYG-------------IATVREVLSDRELHLSW---------------------------
+Bat             SYG-------------IATVREVLSDRELHLSW---------------------------
+                                                                            
+
+Pangolin        ------------------------------------------------------------
+Sars2003        TYLDGADVTKIKPHVNHEGKTFFVLPSDDTLRSEAFEYYHTLDES--FLGRYMSALNHTK
+Bat             TYLDGADVTKIKPHVNHEGKTFFVLPSDDTLRSEAFEYYHTIDES--FLGRYMSALNHTK
+Beta            ------EAGKSKPPLN---------------RNYVFTGYHITKNSKVQLGEYI-------
+MERS            ------EAGKSKPPLN---------------RNYVFTGYHITKNSKVQLGEYI-------
+Wuhan           ------EVGKPRPPLN---------------RNYVFTGYRVTKNSKVQIGEYT-------
+First           ------EVGKPRPPLN---------------RNYVFTGYRVTKNSKVQIGEYT-------
+Bat             ------EVGKPRPPLN---------------RNYVFTGYRVTKNSKVQIGEYT-------
+                                                                            
+
+Pangolin        ------------------------------------------------------------
+Sars2003        KWKFPQVGGLTSIKWADNNCYLSSVLLALQQLEVKFNAPALQEAYYRARAGDAANFCALI
+Bat             KWKFPQVGGLTSIKWADNNCYLSSVLLALQQVEVKFNAPALQEAYYRARAGDAANFCALI
+Beta            ---------FERIDYSDAVSYKSSTTYKL-------------------------------
+MERS            ---------FERIDYSDAVSYKSSTTYKL-------------------------------
+Wuhan           ---------FEKGDYGDAVVYRGTTTYKL-------------------------------
+First           ---------FEKGDYGDAVVYRGTTTYKL-------------------------------
+Bat             ---------FEKGDYGDAVVYRGTTTYKL-------------------------------
+                                                                            
+
+Pangolin        ------------------------------------------------------------
+Sars2003        LAYSNKTVGELGDVRETMTHLLQHANLESAKRVLNVVCKHCGQKTTTLTGVEAVMYMGTL
+Bat             LAYSNKTVGELGDVRETMTHLLQHANLESAKRVLNVVCKHCGQKTTTLKGVEAVMYMGTL
+Beta            ------TVGDIFVLTSHSVATLTAPTIVNQERYVKIT-----------------------
+MERS            ------TVGDIFVLTSHSVATLTAPTIVNQERYVKIT-----------------------
+Wuhan           ------NVGDYFVLTSHTVMPLSAPTLVPQEHYVRIT-----------------------
+First           ------NVGDYFVLTSHTVMPLSAPTLVPQEHYVRIT-----------------------
+Bat             ------NVGDYFVLTSHTVMPLSAPTLVPQEHYVRIT-----------------------
+                                                                            
+
+Pangolin        ------------------------------------------------------------
+Sars2003        SYDNLKTGVSIPCVCGRDATQYLVQQESSFVMMSAPPAEYKLQQGTFLCANEYTGNYQCG
+Bat             SYDELKTGVSIPCVCGRNATQYLVQQESSFVMMSAPPAEYKLQQGAFLCANEYTGNYQCG
+Beta            ---GLYPTITVPEEFASHVANFQKSGYSKYVTVQGPPGTGK-------------------
+MERS            ---GLYPTITVPEEFASHVANFQKSGYSKYVTVQGPPGTGK-------------------
+Wuhan           ---GLYPTLNISDEFSSNVANYQKVGMQKYSTLQGPPGTGK-------------------
+First           ---GLYPTLNISDEFSSNVANYQKVGMQKYSTLQGPPGTGK-------------------
+Bat             ---GLYPTLNISDEFSSNVANYQKVGMQKYSTLQGPPGTGK-------------------
+                                                                            
+
+Pangolin        ------------------------------------------------------------
+Sars2003        HYTHITAKETLYRIDGAHLTKMSEYKGPVTDVFYKETSYTTTIKPVSYKLDGVTYTEIEP
+Bat             HYTHITAKETLYRVDGAHLTKMSEYKGPVTDVFYKETSYTTAIKPVSYKLDGVTYTEIEP
+Beta            --SHFAIGLAIYY--------------PTARVVYTACSHAA-------------------
+MERS            --SHFAIGLAIYY--------------PTARVVYTACSHAA-------------------
+Wuhan           --SHFAIGLALYY--------------PSARIVYTACSHAA-------------------
+First           --SHFAIGLALYY--------------PSARIVYTACSHAA-------------------
+Bat             --SHFAIGLALYY--------------PSARIVYTACSHAA-------------------
+                                                                            
+
+Pangolin        ------------------------------------------------------------
+Sars2003        KLDGYYKKDNAYYTEQPIDLVPTQPLPNASFDNFKLTCSNTKFADDLNQMTGFTKPASRE
+Bat             KLDGYYKKGNAYYTEQPIDLVPTQPMPNASFDNFKLTCSNTKFADDLNQMTGFKKPASRE
+Beta            -VDALCEKAFKYLNIAKCSRIIPAKARVECYDRFKVNETNSQYL---------------F
+MERS            -VDALCEKAFKYLNIAKCSRIIPAKARVECYDRFKVNETNSQYL---------------F
+Wuhan           -VDALCEKALKYLPIDKCSRIIPARARVECFDKFKVNSTLEQYV---------------F
+First           -VDALCEKALKYLPIDKCSRIIPARARVECFDKFKVNSTLEQYV---------------F
+Bat             -VDALCEKALKYLPIDKCSRIIPARARVECFDKFKVNSTLEQYV---------------F
+                                                                            
+
+Pangolin        ------------------------------------------------------------
+Sars2003        LSVTFFPDLNGDVVAIDYRHYSASFKKG---AKLLHKPIVWHINQATTKTTFKPNTWCLR
+Bat             LTVTFFPDLNGDVVAIDYRHYSTSFKKG---AKLVHKPILWHINQTTNKTTYKPNIWCLR
+Beta            STINALPETSADILVVDEVSMCTNYDLSIINARIKAKHIVYVGDPAQLPAP--------R
+MERS            STINALPETSADILVVDEVSMCTNYDLSIINARIKAKHIVYVGDPAQLPAP--------R
+Wuhan           CTVNALPETTADIVVFDEISMATNYDLSVVNARLRAKHYVYIGDPAQLPAP--------R
+First           CTVNALPETTADIVVFDEISMATNYDLSVVNARLRAKHYVYIGDPAQLPAP--------R
+Bat             CTVNALPETTADIVVFDEISMATNYDLSVVNARLRAKHYVYIGDPAQLPAP--------R
+                                                                            
+
+Pangolin        ------------------------------------------------------------
+Sars2003        CLWSTKPVDTSNSFEVLAVEDTQGMDNLACESQQPTSEEVVENPTIQKEVIECDVKTTEV
+Bat             CLWSTKPVDTSNSFEVLVVEDTQGMDNLACESQTTTSEEVVENPTVQKEIIECDVKTTEV
+Beta            TLLTRGTLEPENFNSVTRLMCNLGPDIF---------------------LSMCYRCPKEI
+MERS            TLLTRGTLEPENFNSVTRLMCNLGPDIF---------------------LSMCYRCPKEI
+Wuhan           TLLTKGTLEPEYFNSVCRLMKTIGPDMF---------------------LGTCRRCPAEI
+First           TLLTKGTLEPEYFNSVCRLMKTIGPDMF---------------------LGTCRRCPAEI
+Bat             TLLTKGTLEPEYFNSVCRLMKTIGPDMF---------------------LGTCRRCPAEI
+                                                                            
+
+Pangolin        ------------------------------------------------------------
+Sars2003        VGNVILKPSDEGVKVTQELGHEDLMAAYVENTSITIKKPNELSLALGLKTIATHGIAAIN
+Bat             VGNVILKPSEEGVKVTQELGHEDLMAAYVEETSITIKKPNELSLALGLKTLATHGAAAIN
+Beta            VSTVSALVYNNKLLAKKELSGQCFKILYKGNVT------HDASSAINRPQLTFVKNFITA
+MERS            VSTVSALVYNNKLLAKKELSGQCFKILYKGNVT------HDASSAINRPQLTFVKNFITA
+Wuhan           VDTVSALVYDNKLKAHKDKSAQCFKMFYKGVIT------HDVSSAINRPQIGVVREFLTR
+First           VDTVSALVYDNKLKAHKDKSAQCFKMFYKGVIT------HDVSSAINRPQIGVVREFLTR
+Bat             VDTVSALVYDNKLKAHKEKSAQCFKMFYKGVIT------HDVSSAINRPQIGVVREFLTR
+                                                                            
+
+Pangolin        ------------------------------------------------------------
+Sars2003        SVPWSKILAYVKPFLGQAAITTSNCAKRLAQRVFNNYMPYVFTLLFQLCTFTKSTNSRIR
+Bat             SVPWSKILAYVKPFLGQTAVITSNCIKKCVQRVFSNYMPYVITLLFQLCTFTKSTNSRIK
+Beta            NPAWSKAV-FISPYNSQNAVARS------MLGLTTQTVDSSQGSEYQYVIFCQTADTAHA
+MERS            NPAWSKAV-FISPYNSQNAVSRS------MLGLTTQTVDSSQGSEYQYVIFCQTADTAHA
+Wuhan           NPAWRKAV-FISPYNSQNAVASK------ILGLPTQTVDSSQGSEYDYVIFTQTTETAHS
+First           NPAWRKAV-FISPYNSQNAVASK------ILGLPTQTVDSSQGSEYDYVIFTQTTETAHS
+Bat             NPAWRKAV-FISPYNSQNAVASK------ILGLPTQTVDSSQGSEYDYVIFTQTTETAHS
+                                                                            
+
+Pangolin        ------------------------------------------------------------
+Sars2003        ASLPTTIAKNSVKSVAKLCLDAGINYVKSPKFSKLFTIAMWLLLLSICLGSLICVTAAFG
+Bat             ASLPTTIAKNSVKSVAKLCLDVCINYVKSPKFSKLFTIVMWLLLLSICLGSLTYVTAVLG
+Beta            NNINRFNVAITRAQKGILCVMTSQALFESLEFTEL-------------------------
+MERS            NNINRFNVAITRAQKGILCVMTSQALFESLEFTEL-------------------------
+Wuhan           CNVNRFNVAITRAKVGILCIMSDRDLYDKLQFTSL-------------------------
+First           CNVNRFNVAITRAKVGILCIMSDRDLYDKLQFTSL-------------------------
+Bat             CNVNRFNVAITRAKIGILCIMSDRDLYDKLQFTSL-------------------------
+                                                                            
+
+Pangolin        ------------------------------------------------------------
+Sars2003        VLLSNFGAPSYCNGVRELYLNSSNVTTMDFCEGSFPCSICLSGLDSLDSYPALETIQVTI
+Bat             VCLSSLGVPSYCDGVRELYINSSNVTTMDFCQGYFPCSVCLSGLDSLDSYPALETIQVTI
+Beta            ------SFTNY----K---LQSQIVTGL-----FKDCSRETSGL-----SPAYAPTYVSV
+MERS            ------SFTNY----K---LQSQIVTGL-----FKDCSRETSGL-----SPAYAPTYVSV
+Wuhan           ------EIPRR----NVATLQAENVTGL-----FKDCSKVITGL-----HPTQAPTHLSV
+First           ------EIPRR----NVATLQAENVTGL-----FKDCSKVITGL-----HPTQAPTHLSV
+Bat             ------EVPRR----NVATLQAENVTGL-----FKDCSKIITGL-----HPTQAPTHLSV
+                                                                            
+
+Pangolin        ------------------------------------------------------------
+Sars2003        SSYKLDLTILGLAAEWVLAYMLFTKFFYLLGLSAIMQVFFGYFASHFISNSWLMWFIISI
+Bat             SSYKLDLTFLGLAAEWLLAYMLFTKFFYLLGLSAIMQAFFGYFASHFISNSWLMWFIISI
+Beta            DDKYKTSDELCVNL-NLPANVPYSRVISRMG-----------FKLDATVPGYPKLFITRE
+MERS            DDKYKTSDELCVNL-NLPANVPYSRVISRMG-----------FKLDATVPGYPKLFITRE
+Wuhan           DTKFKT-EGLCVDIPGIPKDMTYRRLISMMG-----------FKMNYQVNGYPNMFITRE
+First           DTKFKT-EGLCVDIPGIPKDMTYRRLISMMG-----------FKMNYQVNGYPNMFITRE
+Bat             DTKFKT-EGLCVDIPGIPKDMTYRRLISMMG-----------FKMNYQVNGYPNMFITRE
+                                                                            
+
+Pangolin        ------------------------------------------------------------
+Sars2003        VQMAPVSAMVRMYIFFASFYYIWKSYVHIMDGCTSSTCMMCYKRNRATRVECTTIVNGMK
+Bat             VQMAPVSAMVRMYIFFASFYYVWKSYVHIMDGCTSSTCMMCYKRNRATRVECTTIVNGVK
+Beta            EAVRQVRSWIGFDV----------------EGA------------HASRNACGTNV----
+MERS            EAVRQVRSWIGFDV----------------EGA------------HASRNACGTNV----
+Wuhan           EAIRHVRAWIGFDV----------------EGC------------HATREAVGTNL----
+First           EAIRHVRAWIGFDV----------------EGC------------HATREAVGTNL----
+Bat             EAIRHVRAWIGFDV----------------EGC------------HATRDAVGTNL----
+                                                                            
+
+Pangolin        ------------------------------------------------------------
+Sars2003        RSFYVYANGGRGFCKTHNWNCLNCDTFCTGSTFISDEVARDLSLQFKRPINPTDQSSYIV
+Bat             RSFYVYANGGRGFCKAHNWNCLNCDTFCAGSTFISDEVARDLSLQFKRPINPTDQSAYVV
+Beta            ----------------------------------------PLQLGFSTGVN------FVV
+MERS            ----------------------------------------PLQLGFSTGVN------FVV
+Wuhan           ----------------------------------------PLQLGFSTGVN------LVA
+First           ----------------------------------------PLQLGFSTGVN------LVA
+Bat             ----------------------------------------PLQLGFSTGVN------LVA
+                                                                            
+
+Pangolin        ------------------------------------------------------------
+Sars2003        DSVAVKNGALHLYFDKAGQKTYERHPLSHFVNLDNLRANNTKGSLPINVIVFDGKSKCDE
+Bat             DSVTVKNGALHLYFDKAGQKTYERHPLSHFVNLDNLRANNTKGSLPINVIVFDGKSKCEE
+Beta            QPVGVVDTEWGNMLTGIAARPPPGEQFKHLVPL-------MHKGAAWPIVRRRIVQMLSD
+MERS            QPVGVVDTEWGNMLTGIAARPPPGEQFKHLVPL-------MHKGAAWPIVRRRIVQMLSD
+Wuhan           VPTGYVDTPNNTDFSRVSAKPPPGDQFKHLIPL-------MYKGLPWNVVRIKIVQMLSD
+First           VPTGYVDTPNNTDFSRVSAKPPPGDQFKHLIPL-------MYKGLPWNVVRIKIVQMLSD
+Bat             VPTGYVDTENNTEFTRVNARPPPGDQFKHLIPL-------MYKGLPWNVVRIKIVQMLSD
+                                                                            
+
+Pangolin        ------------------------------------------------------------
+Sars2003        SASKSASVYYSQLMCQPILLLDQVLVSDVGDSTEVSVKMFDAYVDTFSATFSVPMEKLKA
+Bat             SAAKSASVYYSQLMCQPILLLDQALVSDVGDSTEVSVKMFDAYVDTFSATFSVPMEKLKA
+Beta            TLDKLSDYCTFVCWAHGFELTSASYFCKIGKEQKCCM------CNRRAAAYSSPLQ----
+MERS            TLDKLSDYCTFVCWAHGFELTSASYFCKIGKEQKCCM------CNRRAAAYSSPLQ----
+Wuhan           TLKNLSDRVVFVLWAHGFELTSMKYFVKIGPERTCCL------CDRRATCFSTASD----
+First           TLKNLSDRVVFVLWAHGFELTSMKYFVKIGPERTCCL------CDRRATCFSTASD----
+Bat             TLKGLSDRVVFVLWAHGFELTSMKYFVKIGPERTCCL------CDKRATCFSTSSD----
+                                                                            
+
+Pangolin        --------------FEGVY-----------------------------------------
+Sars2003        LVATAHSELAKGVALDGVLSTFVSAARQGVVDTDVDTKDVIECLKLSHHSDLEVTGDSCN
+Bat             LVATAHSELAKGVALDGVLSTFVSAARQGVVDTDVDTKDVIECLKLSHHSDIEVTGDSCN
+Beta            ----SYACWTHSCGYDYVYNPFFVDVQQWGYVGNLATNHDRYC-----------------
+MERS            ----SYACWTHSCGYDYVYNPFFVDVQQWGYVGNLATNHDRYC-----------------
+Wuhan           ----TYACWHHSIGFDYVYNPFMIDVQQWGFTGNLQSNHDLYC-----------------
+First           ----TYACWHHSIGFDYVYNPFMIDVQQWGFTGNLQSNHDLYC-----------------
+Bat             ----TYACWNHSVGFDYVYNPFMIDVQQWGFTGNLQSNHDQHC-----------------
+                               : *                                          
+
+Pangolin        ------------------------------------------------------------
+Sars2003        NFMLTYNKVENMTPRDLGACIDCNARHINAQVAKSHNVSLIWNVKDYMSLSEQLRKQIRS
+Bat             NFMLTYNKVENMTPRDLGACIDCNARHINAQVAKSHNVSLVWNVKDYMSLSEQLRKQIRS
+Beta            ------------------------SVHQGAHVASNDAI-----MTRCLAIHSCFIERVDW
+MERS            ------------------------SVHQGAHVASNDAI-----MTRCLAIHSCFIERVDW
+Wuhan           ------------------------QVHGNAHVASCDAI-----MTRCLAVHECFVKRVDW
+First           ------------------------QVHGNAHVASCDAI-----MTRCLAVHECFVKRVDW
+Bat             ------------------------QVHGNAHVASCDAI-----MTRCLAVHECFVKRVDW
+                                                                            
+
+Pangolin        ------------------------------------------------------------
+Sars2003        AAKKNNIPFRLTCATTRQVVNVITTKISLKGGKIVSTCFKLMLKATLLCVLAALVCYIVM
+Bat             AAKKNNIPFRLTCATTRQVVNVITTKISLKGGKVVSTWFKLLLKVTLLCVLAALFCYVIM
+Beta            DIEYPYISHEKKLNSCCRIVERNVVRAALLAGSF-DKVYDIGNPKGIPIVDDPVVDWHYF
+MERS            DIEYPYISHEKKLNSCCRIVERNVVRAALLAGSF-DKVYDIGNPKGIPIVDDPVVDWHYF
+Wuhan           TIEYPIIGDELKINAACRKVQHMVVKAALLADKF-PVLHDIGNPKAIKCVPQADVEWKFY
+First           TIEYPIIGDELKINAACRKVQHMVVKAALLADKF-PVLHDIGNPKAIKCVPQADVEWKFY
+Bat             SVEYPIIGDELKINSACRKVQHMVVKSALLADKF-PVLHDIGNPKAIKCVPQAEVEWKFY
+                                                                            
+
+Pangolin        ------------------------------------------------------------
+Sars2003        PVHTLSIHDGYTNEII-GYKAIQDGVTRDIISTDDCFANKHAGFDAWFSQRGGSYKNDKS
+Bat             PVHSLSVHDGYTNEII-GYKAIQDGVTRDIVSTDDCFANKHAGFDSWFSQRGGSYRNDKN
+Beta            DAQPLTR---KVQQLFYT-EDMASRFADGLCLFWNCNVPKYPN-------------NAIV
+MERS            DAQPLTR---KVQQLFYT-EDMASRFADGLCLFWNCNVPKYPN-------------NAIV
+Wuhan           DAQPCSDKAYKIEELFYSYATHSDKFTDGVCLFWNCNVDRYPA-------------NSIV
+First           DAQPCSDKAYKIEELFYSYATHSDKFTDGVCLFWNCNVDRYPA-------------NSIV
+Bat             DAQPCSDKAYKIEELFYSYATHHDKFTDGVCLFWNCNVDRYPA-------------NAIV
+                                                                            
+
+Pangolin        ------------------------------------------------------------
+Sars2003        CPVVAAIITREIGFIVPGLPGTVLRAINGDFLHFLPRVFSAVGNICYTPSKLIEYSDFAT
+Bat             CPVVAAIITREIGFIVPGLPGTVLRALNGDFLHFLPRVFSAVGNICYTPSKLIEYSDFAT
+Beta            CRFDTRVHSE---FNLPGCDGGSLYVNKHAFHT------PAYDVSAFRDLKPLPFFYYST
+MERS            CRFDTRVHSE---FNLPGCDGGSLYVNKHAFHT------PAYDVSAFRDLKPLPFFYYST
+Wuhan           CRFDTRVLSN---LNLPGCDGGSLYVNKHAFHT------PAFDKSAFVNLKQLPFFYYSD
+First           CRFDTRVLSN---LNLPGCDGGSLYVNKHAFHT------PAFDKSAFVNLKQLPFFYYSD
+Bat             CRFDTRVLSN---LNLPGCDGGSLYVNKHAFHT------PAFDKSAFTNLKQLPFFYYSD
+                                                                            
+
+Pangolin        ------------------------------------------------------------
+Sars2003        SACVLAAECTIFKDAMGKPVPYCYDTNLLEGSISYSELRPDTRYVLMDGSIIQFPNTYLE
+Bat             SACVLAAECTIFKDAMGKPVPYCYDTNLLEGSISYSELRPDTRYVLMDGSIIQFPNTYLE
+Beta            TPCEVHGNGSMIED------------------IDYVPLKS--------------------
+MERS            TPCEVHGNGSMIED------------------IDYVPLKS--------------------
+Wuhan           SPCESHGK-QVVSD------------------IDYVPLKS--------------------
+First           SPCESHGK-QVVSD------------------IDYVPLKS--------------------
+Bat             SPCESHGK-QVVSD------------------IDYVPLKS--------------------
+                                                                            
+
+Pangolin        ------------------------------------------------------------
+Sars2003        GSVRVVTTFDAEYCRHGTCERSEVGICLSTSGRWVLNNEHYRALSGVFCGVDAMNLIANI
+Bat             GSVRVVTTFDAEYCRHGTCERSEVGVCLSTSGRWVLNNEHYRALPGVFCGVDAMNLIANI
+Beta            ------------------------AVCITACN-----------LGGAVC-----------
+MERS            ------------------------AVCITACN-----------LGGAVC-----------
+Wuhan           ------------------------ATCITRCN-----------LGGAVC-----------
+First           ------------------------ATCITRCN-----------LGGAVC-----------
+Bat             ------------------------ATCITRCN-----------LGGAVC-----------
+                                                                            
+
+Pangolin        ------------------------------------------------------------
+Sars2003        FTPLVQPVGALDVSASVVAGGIIAILVTCAAYYFMKFRRVFGEYNHVVAANALLFLMSFT
+Bat             FTPLVQPVGALDVSASVVAGGIIAILVTCAAYYFMKFRRAFGEYNHVVAANALLFLMSFT
+Beta            -------------------------------------RKHATEYREYMEAYNLVSASGFR
+MERS            -------------------------------------RKHATEYREYMEAYNLVSASGFR
+Wuhan           -------------------------------------RHHANEYRLYLDAYNMMISAGFS
+First           -------------------------------------RHHANEYRLYLDAYNMMISAGFS
+Bat             -------------------------------------RHHANEYRQYLDAYNMMISAGFS
+                                                                            
+
+Pangolin        ------------------------------------------------------------
+Sars2003        ILCLVPAYSFLPGVYSVFYLYLTFYFTNDVSFLAHLQWFAMFSPIVPFWITAIYVFCISL
+Bat             ILCLAPAYSFLPGVYSIFYLYLTFYFTNDVSFLAHLQWFAMFSPIVPFWITAIYVFCISL
+Beta            LWCYKT--------FDIYNLWSTFTKVQGLENIAF----------------------NFV
+MERS            LWCYKT--------FDIYNLWSTFTKVQGLENIAF----------------------NVV
+Wuhan           LWVYKQ--------FDTYNLWNTFTRLQSLENVAF----------------------NVV
+First           LWVYKQ--------FDTYNLWNTFTRLQSLENVAF----------------------NVV
+Bat             LWIYKQ--------FDTYNLWNTFTRLQSLENVAY----------------------NVV
+                                                                            
+
+Pangolin        ------------------------------------------------------------
+Sars2003        KHCHWFFNNYLRKRVMFNGVTFSTFEEAALCTFLLNKEMYLKLRSETLLPLTQYNRYLAL
+Bat             KHFHWFFSNYLKKRVMFNGVTFSTFEEAALCTFLLNKEMYLRLRSETLLPLTQYNRYLAL
+Beta            KQGHFIGVEGELPVAVVNDKIFTKSGVNDICMF----------ENKTTLPTNI-------
+MERS            KQGHFIGVEGELPVAVVNDKIFTKSGVNDICMF----------ENKTTLPTNI-------
+Wuhan           NKGHFDGQQGEVPVSIINNTVYTKVDGVDVELF----------ENKTTLPVNV-------
+First           NKGHFDGQQGEVPVSIINNTVYTKVDGVDVELF----------ENKTTLPVNV-------
+Bat             NKGHFDGQAGEAPVSIINNAVYTKVDGVDVEIF----------ENKTTLPVNV-------
+                                                                            
+
+Pangolin        ------------------------------------------------------------
+Sars2003        YNKYKYFSGALDTTSYREAACCHLAKALNDFSNSGADVLYQPPQTSITSAVLQSGFRKMA
+Bat             YNKYKYFSGALDTTSYREAACCHLAKALNDFSNSGADVLYQPPQTSITSAVLQSGFRKMA
+Beta            ---------AFELYAKRAVRSHPDFKLLHNL------------QADICYKFVLWDYERSN
+MERS            ---------AFELYAKRAVRSHPDFKLLHNL------------QADICYKFVLWDYERSN
+Wuhan           ---------AFELWAKRNIKPVPEVKILNNL------------GVDIAANTVIWDYKRDA
+First           ---------AFELWAKRNIKPVPEVKILNNL------------GVDIAANTVIWDYKRDA
+Bat             ---------AFELWAKRNIKPVPEIKILNNL------------GVDIAANTVVWDYKREA
+                                                                            
+
+Pangolin        ------------------------------------------------------------
+Sars2003        FPSGKVEGCMVQVTCGTTTLNGLWLDDTVYCPRHVICTAEDMLNPNYEDLLIRKSNHSFL
+Bat             FPSGKVEGCMVQVTCGTTTLNGLWLDDTVYCPRHVVCTAEDMLNPNYDDLLIRKSNHSFL
+Beta            IYGTATIGVCKYTDIDVNSALNIC------FDIRDNGSLEKFMSTPNAIFISDRKIKKYP
+MERS            IYGTATIGVCKYTDIDVNSALNIC------FDIRDNCSLEKFMSTPNAIFISDRKIKKYP
+Wuhan           PAHISTIGVCSMTDIAKKPTETICAPLTVFFDGRVDGQVDLFRNARNGVLITEGSVKGLQ
+First           PAHISTIGVCSMTDIAKKPTETICAPLTVFFDGRVDGQVDLFRNARNGVLITEGSVKGLQ
+Bat             PAHMSTIGVCTMTDIAKKPTESACSSLTVLFDGRVVGQADLFRNARNGVLITEGSVKGLT
+                                                                            
+
+Pangolin        ------------------------------------------------------------
+Sars2003        VQAGNVQLRVIGHSMQNCLLRLKVDTSNPKTPKYKFVRIQPGQTFSVLACYNGSPSGVYQ
+Bat             VQAGNVQLRVIGHSMQNCLLRLKVDTSNPKTPKYKFVRIQPGQTFSVLACYNGSPSGVYQ
+Beta            CMVGPDYAYFNGAIIRD-------SDVVKQPVKFYLYKKVNNEFIDPTECIYTQSRSCSD
+MERS            CMVGPDYAYFNGAIIRD-------SDVVKQPVKFYLYKKVNNEFIDPTECIYTQSRSCSD
+Wuhan           PSVGPKQASLNGVTLIG-------EAVKTQ---FNYYKKVDGVVQQLPETYFTQSRNLQE
+First           PSVGPKQASLNGVTLIG-------EAVKTQ---FNYYKKVDGVVQQLPETYFTQSRNLQE
+Bat             PSKGPAQASVNGVTLIG-------ESVKTQ---FNYFKKVDGIIQQLPETYFTQSRDLED
+                                                                            
+
+Pangolin        ------------------------------------------------------------
+Sars2003        CAMRPNHTIKGSFLNGSCGSVGFNIDYDCVSFCYMHHMELPTGVHAGTDLEGKFYGPFVD
+Bat             CAMRPNHTIKGSFLNGSCGSVGFNIDYDCVSFCYMHHMELPTGVHAGTDLEGKFYGPFVD
+Beta            --FLPLSDMEKDFLSFDSDVFIKKYGLENYAFEHVVYGDFSHTTLGGLHLLIGLYKKQQE
+MERS            --FLPLSDMEKDFLSFDSDVFIKKYGLENYAFEHVVYGDFSHTTLGGLHLLIGLYKKQQE
+Wuhan           --FKPRSQMEIDFLELAMDEFIERYKLEGYAFEHIVYGDFSHSQLGGLHLLIGLAKRFKE
+First           --FKPRSQMEIDFLELAMDEFIERYKLEGYAFEHIVYGDFSHSQLGGLHLLIGLAKRFKE
+Bat             --FKPRSQMETDFLELAMDEFIQRYKLEGYAFEHIVYGDFSHGQLGGLHLMIGLAKRSQD
+                                                                            
+
+Pangolin        ------------------------------------------------------------
+Sars2003        RQTAQAAGTDTTITLNVLAWLYAAVINGDRWFLNRFTTTLNDFNLVAMKYNYEPLTQDHV
+Bat             RQTAQAAGTDTTITLNVLAWLYAAVINGDRWFLNRFTTTLNDFNLVAMKYNYEPLTQDHV
+Beta            GH-----------------IIMEEMLKGSSTIHNYFITETNTAAFKAVCSVIDLKLDDFV
+MERS            GH-----------------IIMEEMLKGSSTIHNYFITETNTAAFKAVCSVIDLKLDDFV
+Wuhan           SP-----------------FELEDFIPMDSTVKNYFITDAQTGSSKCVCSVIDLLLDDFV
+First           SP-----------------FELEDFIPMDSTVKNYFITDAQTGSSKCVCSVIDLLLDDFV
+Bat             SP-----------------LKLEDFIPMDSTVKNYFITDAQTGSSKCVCSVIDLLLDDFV
+                                                                            
+
+Pangolin        ------------------------------------------------------------
+Sars2003        DILGPLSAQTGIAVLDMCAALKELLQNGMNGRTILGSTILEDEFTPFDVVRQCSGVTFQG
+Bat             DILGPLSAQTGIAVLDMCAALKELLQNGMNGRTILGSTILEDEFTPFDVVRQCSGVTFQG
+Beta            MILKSQDLGVVSKVVKVPI-----------------------DLTMIEFMLWCKDGQVQT
+MERS            MILKSQDLGVVSKVVKVPI-----------------------DLTMIEFMLWCKDGQVQT
+Wuhan           EIIKSQDLSVVSKVVKVTI-----------------------DYTEISFMLWCKDGHVET
+First           EIIKSQDLSVVSKVVKVTI-----------------------DYTEISFMLWCKDGHVET
+Bat             EIIKSQDLSVISKVVKVTI-----------------------DYAEISFMLWCKDGHVET
+                                                                            
+
+Pangolin        ------------------------------------------------------------
+Sars2003        KFKKIVKGTHHWMLLTFLTSLLILVQSTQWSLFFFVYENAFLPFTLGIMAIAACAMLLVK
+Bat             KFKKIVKGTHHWMLLTFLTSLLILVQSTQWSLFFFVYENAFLPFALGIMAVAACAMLLVK
+Beta            FYPRL-QASADWKPGHAMPSL----------------------FKVQNVNLERCEL----
+MERS            FYPRL-QASADWKPGHAMPSL----------------------FKVQNVNLERCEL----
+Wuhan           FYPKL-QSSQAWQPGVAMPNL----------------------YKMQRMLLEKCDL----
+First           FYPKL-QSSQAWQPGVAMPNL----------------------YKMQRMLLEKCDL----
+Bat             FYPKL-QASQAWQPGVAMPNL----------------------YKMQRMLLEKCDL----
+                                                                            
+
+Pangolin        ------------------------------------------------------------
+Sars2003        HKHAFLCLFLLPSLATVAYFNMVYMPASWVMRIMTWLELADTSLSGYRLKDCVMYASALV
+Bat             HKHAFLCLFLLPSLATVAYFNMVYMPASWVMRIMTWLELADTSLSGYRLKDCVMYASALV
+Beta            ----------------ANYKQSIPMPRGVHMNIAKYMQLCQ-------------YLNTCT
+MERS            ----------------ANYKQSIPMPRGVHMNIAKYMQLCQ-------------YLNTCT
+Wuhan           ----------------QNYGDSATLPKGIMMNVAKYTQLCQ-------------YLNTLT
+First           ----------------QNYGDSATLPKGIMMNVAKYTQLCQ-------------YLNTLT
+Bat             ----------------QNYGENAVIPKGIMMNVAKYTQLCQ-------------YLNTLT
+                                                                            
+
+Pangolin        ------------------------------------------------------------
+Sars2003        LLILMTARTVYDDAARRVWTLMNVITLVYKVYYGNALDQAISMWALVISVTSNYSGVVTT
+Bat             LLILMTARTVYDDAARRVWTLMNVITLVYKVYYGNSLDQAISMWALVISVTSNYSGVVTT
+Beta            LAVPANMRV---------------------IHFGAGSDKGIA------------PGTSVL
+MERS            LAVPANMRV---------------------IHFGAGSDKGIA------------PGTSVL
+Wuhan           LAVPYNMRV---------------------IHFGAGSDKGVA------------PGTAVL
+First           LAVPYNMRV---------------------IHFGAGSDKGVA------------PGTAVL
+Bat             LAVPYNMRV---------------------IHFGAGSDKGVA------------PGTAVL
+                                                                            
+
+Pangolin        ------------------------------------------------------------
+Sars2003        IMFLARAIVFVCVEYYPLLFITGNTLQCIMLVYCFLGYCCCCYFGLFCLLNRYFRLTLGV
+Bat             IMFLARAIVFVCVEYYPLLFITGNTLQCIMLVYCFLGYCCCCYFGLFCLLNRYFRLTLGV
+Beta            RQWLPTDAIIIDNDLNEFVSDADITL---------FGDCVTVRVGQ--------------
+MERS            RQWLPTDAIIIDNDLNEFVSDADITL---------FGDCVTVRVGQ--------------
+Wuhan           RQWLPTGTLLVDSDLNDFVSDADSTL---------IGDCATVHTAN--------------
+First           RQWLPTGTLLVDSDLNDFVSDADSTL---------IGDCATVHTAN--------------
+Bat             RQWLPTGTLLVDSDLNDFVSDADSTL---------IGDCATVHTAN--------------
+                                                                            
+
+Pangolin        ------------------------------------------------------------
+Sars2003        YDYLVSTQEFRYMNSQGLLPPKSSIDAFKLNIKLLGIGGKPCIKVATVQSKMSDVKCTSV
+Bat             YDYLVSTQEFRYMNSQGLLPPKSSIDAFKLNIKLLGIGGKPCIKVATVQSKMSDVKCTSV
+Beta            -------------------------------------------QVDLVISDMYDPTTKNV
+MERS            -------------------------------------------QVDLVISDMYDPTTKNV
+Wuhan           -------------------------------------------KWDLIISDMYDPKTKNV
+First           -------------------------------------------KWDLIISDMYDPKTKNV
+Bat             -------------------------------------------KWDLIISDMYDPKTKHV
+                                                                            
+
+Pangolin        ------------------------------------------------------------
+Sars2003        VLLSVLQQLRVESSSKLWAQCVQLHNDILLAKDTTEAFEKMVSLLSVLLSMQGAVDINRL
+Bat             VLLSVLQQLRVESSSKLWAQCVQLHNDILLAKDTTEAFEKMVSLLSVLLSMQGAVDINKL
+Beta            T--------GSNESKALF-------------------FTYLCNLINNNLALGGSVAI---
+MERS            T--------GSNESKALF-------------------FTYLCNLINNNLALGGSVAI---
+Wuhan           T--------KENDSKEGF-------------------FTYICGFIQQKLALGGSVAI---
+First           T--------KENDSKEGF-------------------FTYICGFIQQKLALGGSVAI---
+Bat             T--------KENDSKEGF-------------------FTYLCGFIKQKLALGGSVAV---
+                                                                            
+
+Pangolin        ------------------------------------------------------------
+Sars2003        CEEMLDNRATLQAIASEFSSLPSYAAYATAQEAYEQAVANGDSEVVLKKLKKSLNVAKSE
+Bat             CEEMLDNRATLQAIASEFSSLPSYAAYATAQEAYEQAVSNGDSEVVLKKLKKSLNVAKSE
+Beta            -------KITEHSWSVELYELMGKFAWWTVFCTNANA-----------------------
+MERS            -------KITEHSWSVELYELMGKFAWWTVFCTNANA-----------------------
+Wuhan           -------KITEHSWNADLYKLMGHFAWWTAFVTNVNA-----------------------
+First           -------KITEHSWNADLYKLMGHFAWWTAFVTNVNA-----------------------
+Bat             -------KITEHSWNADLYKLMGHFSWWTAFVTNVNA-----------------------
+                                                                            
+
+Pangolin        ------------------------------------------------------------
+Sars2003        FDRDAAMQRKLEKMADQAMTQMYKQARSEDKRAKVTSAMQTMLFTMLRKLDNDALNNIIN
+Bat             FDHDAAMQRKLEKMADQAMTQMYKQARSEDKRAKVTSAMQTMLFTMLRKLDNDALNNIIN
+Beta            ------------------------------------------------------------
+MERS            ------------------------------------------------------------
+Wuhan           ------------------------------------------------------------
+First           ------------------------------------------------------------
+Bat             ------------------------------------------------------------
+                                                                            
+
+Pangolin        ------------------------------------------------------------
+Sars2003        NARDGCVPLNIIPLTTAAKLMVVVPDYGTYKNTCDGNTFTYASALWEIQQVVDADSKIVQ
+Bat             NARDGCVPLNIIPLTTAAKLMVVVPDYGTYKNTCDGNTFTYASALWEIQQVVDADSKIVQ
+Beta            --------------SSSEGFLLGINYLGTIKENIDGGAMHANYIFWR------------N
+MERS            --------------SSSEGFLLGINYLGTIKENIDGGAMHANYIFWR------------N
+Wuhan           --------------SSSEAFLIGCNYLGKPREQIDGYVMHANYIFWR------------N
+First           --------------SSSEAFLIGCNYLGKPREQIDGYVMHANYIFWR------------N
+Bat             --------------SSSEAFLIGVNYLGKPKEQIDGYTMHANYIFWR------------N
+                                                                            
+
+Pangolin        ------------------------------------------------------------
+Sars2003        LSEINMDNSPNLAWPLIVTALRANSAVKLQNNELSPVALRQMSCAAGTTQTACTDDNALA
+Bat             LSEINMDNSPNLAWPLIVTALRANSAVKLQNNELSPVALRQMSCAAGTTQTACTDDNALA
+Beta            STPMNLSTYSLFDLSKFQLKLKGTPVLQLKESQINELVISLLS-----------------
+MERS            STPMNLSTYSLFDLSKFQLKLKGTPVLQLKESQINELVISLLS-----------------
+Wuhan           TNPIQLSSYSLFDMSKFPLKLRGTAVMSLKEGQINDMILSLLS-----------------
+First           TNPIQLSSYSLFDMSKFPLKLRGTAVMSLKEGQINDMILSLLS-----------------
+Bat             TNPIQLSSYSLFDMSKFPLKLRGTAVMYLKENQINDMIYSLLE-----------------
+                                                                            
+
+Pangolin        ------------------------------------------------------------
+Sars2003        YYNNSKGGRFVLALLSDHQDLKWARFPKSDGTGTIYTELEPPCRFVTDTPKGPKVKYLYF
+Bat             YYNNAKGGRFVLALLSDHQDLKWARFPKSDGTGTIYTELEPPCRFVTDTPKGPKVKYLYF
+Beta            ------------------------------------------------------------
+MERS            ------------------------------------------------------------
+Wuhan           ------------------------------------------------------------
+First           ------------------------------------------------------------
+Bat             ------------------------------------------------------------
+                                                                            
+
+Pangolin        ------------------------------------------------------------
+Sars2003        IKGLNNLNRGMVLGSLAATVRLQAGNATEVPANSTVLSFCAFAVDPAKAYKDYLASGGQP
+Bat             IKGLNNLNRGMVLGSLAATVRLQAGNATEVPANSTVLSFCAFAVDPAKAYKDYLASGGQP
+Beta            ------------------------------------------------------------
+MERS            ------------------------------------------------------------
+Wuhan           ------------------------------------------------------------
+First           ------------------------------------------------------------
+Bat             ------------------------------------------------------------
+                                                                            
+
+Pangolin        ------------------------------------------------------------
+Sars2003        ITNCVKMLCTHTGTGQAITVTPEANMDQESFGGASCCLYCRCHIDHPNPKGFCDLKGKYV
+Bat             ITNCVKMLCTHTGTGQAITVTPEANMDQESFGGASCCLYCRCHIDHPNPKGFCDLKGKYV
+Beta            -------------------------------------------------------QGKLL
+MERS            -------------------------------------------------------QGKLL
+Wuhan           -------------------------------------------------------KGRLI
+First           -------------------------------------------------------KGRLI
+Bat             -------------------------------------------------------KGRLI
+                                                                            
+
+Pangolin        ---------------------------------------------------------
+Sars2003        QIPTTCANDPVGFTLRNTVCTVCGMWKGYGCSCDQLREPLMQSADASTFLNGFAV--
+Bat             QIPTTCANDPVGFTLRNTVCTVCGMWKGYGCSCDQLREPMMQSADASTFLNGFAV--
+Beta            -----------------------------------IRDNDTLSVSTDVLVNTYRKLR
+MERS            -----------------------------------IRDNDTLSVSTDVLVNTYRKLR
+Wuhan           -----------------------------------IRENNRVVISSDVLVNN-----
+First           -----------------------------------IRENNRVVISSDVLVNN-----
+Bat             -----------------------------------IRESNKVVVSSDILVNN-----
+                                                                         
