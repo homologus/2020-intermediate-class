@@ -1,0 +1,9 @@
+from Bio import SeqIO
+
+reads = list(SeqIO.parse("/share/SARS/SARS-2020.fasta", "fasta"))
+
+print("Number of sequences", len(reads))
+
+print("First sequence", reads[0].id)
+
+

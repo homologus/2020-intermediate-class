@@ -1,0 +1,18 @@
+from Bio import SeqIO
+from Bio.SeqUtils import GC
+
+records = SeqIO.read("/share/SARS/SARS-2020.fasta", "fasta")
+
+record = next(records)
+print(record.id)
+print(record.seq)
+print(len(record)
+
+
+record = next(records)
+print(record.id)
+print(record.seq)
+print(len(record)
+
+
+

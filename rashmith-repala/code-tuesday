@@ -1,0 +1,40 @@
+from Bio import SeqIO
+
+reads = list(SeqIO.parse("/share/SARS/nature-2013.fasta", "fasta"))
+
+#print(reads[0].translate())
+
+count = 0
+for i in reads:
+	print("reading frame 1")
+	s = i.seq[0:]
+	newString = str(s.translate())
+	result =  newString.split("*")
+	for n in result:
+		if(len(n) > 100):
+			print(n)
+			count += 1
+	
+	print("reading frame 2")
+	s = i.seq[1:]
+	newString = str(s.translate())
+	result  = newString.split("*")
+	for n in result:
+		if(len(n) > 100):
+			print(n)
+			count += 1
+
+
+	print("reading frame 3")
+	s = i.seq[2:]
+	newString = str(s.translate())
+	result = newString.split("*")
+	for n in result:
+		if(len(n) > 100):
+			print(n)
+			count += 1
+
+
+
+
+print(count)
