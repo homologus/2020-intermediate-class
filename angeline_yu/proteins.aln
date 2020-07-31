@@ -1,0 +1,57 @@
+MUSCLE (3.8) multiple sequence alignment
+
+
+sp|Q9H9K5|MER34_HUMAN      ---------------------MGSLSNYALLQLTLTAFLTILVQPQHLLAPVFRTLSILT
+whale                      MLRAVVLAAARPCQGRRLLSAAATPAVPAPNQQPEVFYNKIFINNEWHDSVSKRTFPTIN
+dolphin                    ----------------------------------------IFINNEWHDSVSKKTFPTIN
+                                                                   *::: :.  :   .*:. :.
+
+sp|Q9H9K5|MER34_HUMAN      NQSNCWLCEHLDNAEQPELVFVPASASTWWTYSGQWMY----ERVWYPQAEVQNHSTSSY
+whale                      PSTGDVIC-HVAEGDKEDVDRAVKAARAAFQLGSPWRRMDASKRGWL----LNRLADLIE
+dolphin                    PSTGDVIC-HVAEGDKXXXXXXXXXXXXXXXXXXXXXXMDASKRLL-----LNRLADLIE
+                            .:.  :* *: :.::                          :*       ::. :    
+
+sp|Q9H9K5|MER34_HUMAN      RKVTWHWEASMEAQGLSFAQVRLLEGNFSL-CVENKNGSGPFLGNIPKQYCNQILWFDST
+whale                      RDRTYLAALETLDNGKPYVISYLVDLDMVLRCLRYYAG-----------------WADKY
+dolphin                    RDRTYLAALETLDNGKPYVISYLVDLDMVLKCLRYYAG-----------------WADKY
+                           *. *:    .   :* .:.   *:: :: * *:    *                 * *. 
+
+sp|Q9H9K5|MER34_HUMAN      DGTFMPSIDVTNESRNDDDDTSVCLGTRQCSWFAGCTNRTWNSSAVPLIGLPNTQDYKWV
+whale                      HGKTIP-IDGDYFSYTRHEPVGVC--GQIIPWNFPLLMQAWKLG--PALATGNVVVMKVA
+dolphin                    HGKTIP-IDGDYFSYTRHEPVGVC--GQIIPWNFPLLMQAWKLG--PALATGNVVVMKVA
+                            *. :* **    * .  : ..**   .  .*      .:*: .  * :.  *.   * .
+
+sp|Q9H9K5|MER34_HUMAN      DRNSGLTWSGNDTCLYSCQNQTKGLLYQLFRNLFCSYGLTEAHGKWRCADAS--------
+whale                      EQTP-------LTALYVANLIKEAGFPPGVVNIIPGFGPTAGAAIASHEDVDKVAFTGST
+dolphin                    EQTP-------LTALYVANLIKEAGFPPGVVNIVPGFGPTAGAAVASHEDVDKVAFTGST
+                           :...        *.** .:  .:. :   . *:. .:* * . .     *..        
+
+sp|Q9H9K5|MER34_HUMAN      -----ITNDKGHD---------GHRTPTWWLTGSNLTLSVNNS--GLFFLCGNGVYKGFP
+whale                      EVGHLIQTAAGNSNLKRVTLELGGKSPNIIMSDADMDWAVEQAHFALFFNQGQCCCAGSR
+dolphin                    EVGHLIQTAAGNSNLKRVTLELGGKSPNIIMSDADMDWAVEQAHFALFFNQGQCCCAGSR
+                                * .  *:.         * .:*.  ::.:::  :*:::  .***  *:    *  
+
+sp|Q9H9K5|MER34_HUMAN      PKWSGRCGLGYLVPSLTRYLT----------------LNASQITNLRSFIHKVTPHRCTQ
+whale                      TFVQEDIYSKFVERSVARARSR---------------VDETQFKKVLGYIK--------S
+dolphin                    TFVQEDVYTEFVERSVARARSRVVGNPFDSRTEQGPQVDETQFKKVLGYIK--------S
+                           .  .      ::  *::*  :                :: :*:.:: .:*:        .
+
+sp|Q9H9K5|MER34_HUMAN      GDTDNPPLYCNPKDNSTIRALFPSLGTYDLEKAILNISKAMEQEFSATKQTLEAHQSKVS
+whale                      GKEEGAKLLCGGGAAAD-RGYFIQPTVFGDVQDGMTIAK--EEIFGPVMQILKFKT----
+dolphin                    GKEEGAKLLCGGGAAAD-RGYFIQPTVFGDVQDGMTIAK--EEIFGPVMQILKFKT----
+                           *. :.. * *.    :  *. * .  .:.  :  :.*:*  *: *... * *: :     
+
+sp|Q9H9K5|MER34_HUMAN      SLASASRKDHVLDIPTTQRQTACGTVGKQCCLYINYSEEIKSNIQRLHEASENLKNVPLL
+whale                      -------------IEEVVRRANNSKYGLAAAVFTK-------DLDKAXYLSQALQAGTV-
+dolphin                    -------------IEEVVGRANNSKYGLAAAVFTK-------DLDKANYLSQALQAGTV-
+                                        *  .  .:  .. *  ..:: :       :::.    *: *:  .: 
+
+sp|Q9H9K5|MER34_HUMAN      DWQGIFAKVGDWFRSWGYVLLIVLFCLFIFVLIYVRVFRKSRRSLNSQPLNLALSPQQSA
+whale                      -WVNCYDVFGAQSPFGGYKL------------------SGSGRELGEYGLQ-AYTEVKTV
+dolphin                    -WVNCYDVFGAQSPFGGYKL------------------SGSGRELGEYGLQ-AYTEVKT-
+                            * . :  .* .    ** *                    * *.*..  *: * :  :: 
+
+sp|Q9H9K5|MER34_HUMAN      QLLVSETSCQVSNRAMKGLTTHQYDTSLL
+whale                      TVKVPQKNS--------------------
+dolphin                    -----------------------------
+                                                        

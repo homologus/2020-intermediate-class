@@ -1,0 +1,14 @@
+from Bio import SeqIO
+from Bio.Seq import Seq
+SARS = list(SeqIO.parse("small-genome", "fasta"))
+
+print("reading frame 1")
+print(SARS[0].translate())
+print (len(SARS))
+
+SARS = SARS[1:len(SARS)-2]
+print ("reading frame 2")
+print(SARS[0].translate())
+
+
+#print(SARS[2].translate())
