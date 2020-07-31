@@ -1,0 +1,17 @@
+import string
+from Bio.Seq import Seq
+from Bio import SeqIO
+
+
+def read_frames(filepath: str):
+        reads = list(SeqIO.parse(filepath, "fasta"))
+        for i in reads:
+                rf1 = i.seq[0:]
+                rf2 = i.seq[1:]
+                rf3 = i.seq[2:]
+
+        return rf1, rf2, rf3
+
+def  protein_reader(s, Cut_off_count: int):
+        p = s.transcribe()
+        p = p.translate()
