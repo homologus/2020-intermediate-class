@@ -1,0 +1,33 @@
+from Bio import SeqIO
+reads = list(SeqIO.parse("/share/SARS/covid-patient-CA.fasta", "fasta"))
+
+for i in reads:
+    print("reading frame 1")
+    s = i.seq[0:]
+    s = s.translate()
+    s = s.split('*')
+    for simba in s:
+      if len(simba)>=100:
+         print(simba),
+         print("  ")
+
+    print("reading frame 2")
+    s = i.seq[1:]
+    s = s.translate()
+    s = s.split('*')
+    for simba in s:
+      if len(simba)>=100:
+         print(simba),
+         print("  ")
+
+
+    print("reading frame 3")
+    s = i.seq[2:]
+    s = s.translate()
+    s = s.split('*')
+    for simba in s:
+      if len(simba)>=100:
+         print(simba),
+         print("  ")
+
+    

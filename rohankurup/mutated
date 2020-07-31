@@ -1,0 +1,11 @@
+from Bio import SeqIO
+from Bio import Seq
+reads = list(SeqIO.parse("/share/Human/chr12.fa", "fasta"))
+
+for i in reads:
+  rf = i.seq[0:]
+
+new = list(rf)
+new[111803961] = 'A'
+s = ""
+s.join(new)
