@@ -1,0 +1,3 @@
+p=open("hi")
+line=p.readline()
+print(line[0])

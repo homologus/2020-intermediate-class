@@ -1,0 +1,21 @@
+program = open("/share/Ecoli/GCA_000005845.2_ASM584v2_genomic.fna", "r")
+genes = program.readlines()[1:]
+genome = []
+genome1 = []
+for i in genes:
+  i = i.rstrip('\n')
+  genome.append(i)
+for i in genome:
+  genome1.append(i)
+genome2 = ""
+
+genome1.
+
+genome3 = genome2.split(" ")
+lengths = []
+
+for i in genome3:
+  lengths.append(len(i))
+
+#print (genome3)
+print (lengths)
