@@ -1,0 +1,22 @@
+from Bio import SeqIO
+from Bio.Seq import Seq
+
+reads = list(SeqIO.parse("/share/SARS/SARS-2020.fasta", "fasta"))
+translation = reads[0].seq[:-1].translate()
+
+count = 0toReturn = 0
+
+amino_acid=()
+
+for i in range(len(translation)):
+        if(str(translation[i]) !-"'"):
+                count += 1
+                continue 
+        else:
+                if(count>=100): 
+                        toReturn += 1
+                count = 0
+
+print("\nThere are " + str(toReturn) + "100 amino acid sequences in the SARS-CoV2 Genome
+
+
